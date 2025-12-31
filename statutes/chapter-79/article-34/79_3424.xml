@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3424"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3424"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3424/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3424/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3424/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3424/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3424">
+            <num>79-3424</num>
+            <heading>Exempt from other taxes</heading>
+            <content>
+              <p>79-3424. Exempt from other taxes. The business of using, manufacturing or selling of motor-vehicle fuels or special fuels shall not be subject to any excise, license, privilege or occupation tax other than the one herein imposed, whether such tax be imposed by the state of Kansas or by any municipal corporation or other political subdivision of this state; and no municipal corporation, or other political subdivision of this state, shall levy or collect any tax upon, or measured by, the sale, receipt, importation, distribution or use of motor-vehicle fuel or special fuel, or any excise, license, privilege, or occupational tax upon the business of manufacturing, using, selling or delivering motor-vehicle fuels or special fuels.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

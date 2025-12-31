@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1489"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1489"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1489/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1489/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1489/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1489/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1489">
+            <num>79-1489</num>
+            <heading>Same; notification of ratios to county by the director; appeals, procedure</heading>
+            <content>
+              <p>79-1489. Same; notification of ratios to county by the director; appeals, procedure. The director shall determine the mid-year ratios for each county and notify the board of county commissioners thereof. When the final ratios are determined, the director shall notify the board of county commissioners of each county of the ratios determined for such county. If the board of county commissioners disagrees with the ratios determined for the county, such board, within 15 days after receipt of such notice, may appeal such determination to the state  board of tax appeals. Written notice of appeal shall be served on the state  board of tax appeals and the director by certified mail. The notice of appeal shall clearly and specifically state the facts upon which the appeal is based. The state  board of tax appeals shall conduct a summary proceeding in accordance with the provisions of the Kansas administrative procedure act within 30 days of receipt of the written notice of appeal and shall issue findings and a final order within 30 days after the conclusion of such summary proceeding. If the state  board of tax appeals finds that corrections in the ratios are necessary, it shall order the director to make necessary corrections consistent with such findings prior to the publication of the study.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

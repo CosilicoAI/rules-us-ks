@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1117"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1117"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1117/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1117/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1117/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1117/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1117">
+            <num>79-1117</num>
+            <heading>Credit against tax for making certain property used in trade or business or held for production of income accessible to persons with a disability; amount; carryover to subsequent taxable years</heading>
+            <content>
+              <p>79-1117. Credit against tax for making certain property used in trade or business or held for production of income accessible to persons with a disability; amount; carryover to subsequent taxable years. Any taxpayer who makes expenditures for the purpose of making all or any portion of an existing building or facility accessible to persons with a disability, which building or facility is on real property located in this state and used in a trade or business or held for the production of income, shall be entitled to claim a tax credit in an amount equal to 50% of such expenditures or, the amount of $10,000, whichever is less, against the tax liability imposed against such taxpayer pursuant to K.S.A. 79-1106 to 79-1116, inclusive, and amendments thereto. Such tax credit shall be deducted from the taxpayer's tax liability for the taxable year following the year in which the expenditures are made by the taxpayer. If the amount of such tax credit exceeds the taxpayer's tax liability for such taxable year, the amount thereof which exceeds such tax liability may be carried over for deduction from the taxpayer's tax liability in the next succeeding taxable year or years until the total amount of the tax credit has been deducted from tax liability, except that no such tax credit shall be carried over for deduction after the fourth taxable year succeeding the taxable year in which the expenditures are made.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

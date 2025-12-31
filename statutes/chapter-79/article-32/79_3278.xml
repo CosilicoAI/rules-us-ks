@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3278"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3278"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3278/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3278/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3278/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3278/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3278">
+            <num>79-3278</num>
+            <heading>Same; patent and copyright royalties</heading>
+            <content>
+              <p>79-3278. Same; patent and copyright royalties. (a) Patent and copyright royalties are allocable to this state: (1) if and to the extent that the patent or copyright is utilized by the payer in this state, or (2) if and to the extent that the patent or copyright is utilized by the payer in a state in which the taxpayer is not taxable and the taxpayer's commercial domicile is in this state. (b) A patent is utilized in a state to the extent that it is employed in production, fabrication, manufacturing, or other processing in the state or to the extent that a patented product is produced in the state. If the basis of receipts from patent royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the patent is utilized in the state in which the taxpayer's commercial domicile is located. (c) A copyright is utilized in a state to the extent that printing or other publication originates in the state. If the basis of receipts from copyright royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the copyright is utilized in the state in which the taxpayer's commercial domicile is located.</p>
+            </content>
+            <subsection eId="79_3278__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Patent and copyright royalties are allocable to this state:</p>
+              </content>
+              <paragraph eId="79_3278__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>if and to the extent that the patent or copyright is utilized by the payer in this state, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3278__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>if and to the extent that the patent or copyright is utilized by the payer in a state in which the taxpayer is not taxable and the taxpayer's commercial domicile is in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3278__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A patent is utilized in a state to the extent that it is employed in production, fabrication, manufacturing, or other processing in the state or to the extent that a patented product is produced in the state. If the basis of receipts from patent royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the patent is utilized in the state in which the taxpayer's commercial domicile is located.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3278__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A copyright is utilized in a state to the extent that printing or other publication originates in the state. If the basis of receipts from copyright royalties does not permit allocation to states or if the accounting procedures do not reflect states of utilization, the copyright is utilized in the state in which the taxpayer's commercial domicile is located.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

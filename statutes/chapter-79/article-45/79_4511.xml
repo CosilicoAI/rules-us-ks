@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-4511"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4511"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-4511/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4511/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-4511/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4511/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_45">
+          <num>Article 45</num>
+          <heading>Homestead Property Tax Refunds</heading>
+          <section eId="sec_79_4511">
+            <num>79-4511</num>
+            <heading>Same; information required in support of claim</heading>
+            <content>
+              <p>79-4511. Same; information required in support of claim. (a) Every claimant under this act shall supply to the division, in support of a claim, reasonable proof of age or disability, and changes of homestead, household membership, household income, and size and nature of property claimed as the homestead. A claim alleging disability shall be supported by a report of the examining physician of the claimant with a statement or certificate that the applicant has a disability within the meaning of subsection (g) of K.S.A. 79-4502, and amendments thereto. (b) Every claimant who is a homestead owner, or whose claim is based wholly or partly upon homestead ownership at some time during the calendar year, shall supply to the division, in support of a claim, the amount of property taxes levied upon the property claimed as a homestead and a statement that the property taxes accrued used for purposes of this act have been or will be paid by the claimant. Upon request by the division, such claimant shall provide a copy of the statement of property taxes levied upon the property claimed as a homestead. The amount of personal property taxes levied on a manufactured home or mobile home shall be set out on the personal property tax statement showing the amount of such tax as a separate item. (c) The information required to be furnished under subsection (b) shall be in addition to that required under subsection (a).</p>
+            </content>
+            <subsection eId="79_4511__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every claimant under this act shall supply to the division, in support of a claim, reasonable proof of age or disability, and changes of homestead, household membership, household income, and size and nature of property claimed as the homestead. A claim alleging disability shall be supported by a report of the examining physician of the claimant with a statement or certificate that the applicant has a disability within the meaning of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4511__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>of K.S.A. 79-4502, and amendments thereto.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4511__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Every claimant who is a homestead owner, or whose claim is based wholly or partly upon homestead ownership at some time during the calendar year, shall supply to the division, in support of a claim, the amount of property taxes levied upon the property claimed as a homestead and a statement that the property taxes accrued used for purposes of this act have been or will be paid by the claimant. Upon request by the division, such claimant shall provide a copy of the statement of property taxes levied upon the property claimed as a homestead. The amount of personal property taxes levied on a manufactured home or mobile home shall be set out on the personal property tax statement showing the amount of such tax as a separate item.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4511__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The information required to be furnished under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4511__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be in addition to that required under subsection</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

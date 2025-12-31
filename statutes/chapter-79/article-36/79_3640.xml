@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3640"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3640"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3640/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3640/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3640/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3640/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3640">
+            <num>79-3640</num>
+            <heading>Refund of sales tax paid upon property or services purchased for certain political subdivision projects; contents of claim; payment of refund</heading>
+            <content>
+              <p>79-3640. Refund of sales tax paid upon property or services purchased for certain political subdivision projects; contents of claim; payment of refund. That portion of the sales tax paid on the sale of tangible personal property or services purchased for the purpose of constructing, equipping, reconstructing, maintaining, repairing, enlarging, furnishing or remodeling facilities the cost of which is paid in part from funds of a political subdivision which in proportion to the total sales tax paid equals the proportion of such funds to the total cost of the project shall be refunded. Each claim for a sales tax refund shall be verified and submitted to the director of taxation upon forms furnished by the director and shall be accompanied by any additional documentation required by the director. The director shall review each claim and shall refund that amount of sales tax paid as determined under the provisions of this section. All refunds shall be paid from the sales tax refund fund upon warrants of the director of accounts and reports pursuant to vouchers approved by the director or the director's designee.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

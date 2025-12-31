@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3326"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3326"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3326/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3326/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3326/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3326/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3326">
+            <num>79-3326</num>
+            <heading>Duties of director; enforcement of act</heading>
+            <content>
+              <p>79-3326. Duties of director; enforcement of act. The director of taxation shall administer and enforce the provisions of this act , and to require such reports, make such investigations and take such other action as the director deems necessary or suitable to that end. For the purpose of ascertaining the correctness of any return or making an estimate of the tax due for any taxpayer or person, the director or the director's designee has the power to examine any books, papers, records or memoranda bearing upon the matters required to be included in the return or report . The secretary of revenue shall adopt rules and regulations for the administration of this act. For the purpose of enforcing this act the director may call to the director's aid any law enforcement officer of this state to prosecute all violators of any of the provisions of this act. The police of any city shall have the right to inspect all premises, records and invoices pertaining to the wholesale distribution, retail sale or sampling of cigarettes or tobacco products within the city at all reasonable times. All agents and representatives designated by the director are hereby invested with all the powers of peace and police officers within the state of Kansas in the enforcement of the provisions of this act throughout the state.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

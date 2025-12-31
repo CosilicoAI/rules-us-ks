@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3402"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3402"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3402/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3402/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3402/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3402/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3402">
+            <num>79-3402</num>
+            <heading>Purpose of tax</heading>
+            <content>
+              <p>79-3402. Purpose of tax. The tax imposed by this act is levied for the purpose of producing revenue to be used by the state of Kansas to defray in whole, or in part, the cost of constructing, widening, purchasing of right-of-way, reconstructing, maintaining, surfacing, resurfacing and repairing the public highways, including the payment of bonds issued for highways included in the state system of this state, and the cost and expenses of the director of taxation and the director's agents and employees incurred in administration and enforcement of this act and for no other purpose whatever.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3415"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3415"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3415/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3415/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3415/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3415/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3415">
+            <num>79-3415</num>
+            <heading>Records, invoices and bills of lading</heading>
+            <content>
+              <p>79-3415. Records, invoices and bills of lading. Each distributor, manufacturer, importer, exporter, retailer or user shall maintain and keep, for a period of three years, a full record or records of all motor-vehicle fuels or special fuels received, imported, used or sold and delivered within this state by such distributor, manufacturer, importer, exporter, retailer or user, together with invoices and bills of lading thereof, and such other pertinent papers as may be required by the director.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

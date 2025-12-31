@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3673"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3673"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3673/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3673/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3673/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3673/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3673">
+            <num>79-3673</num>
+            <heading>Same; sourcing rules for sale of telecommunication services; definitions</heading>
+            <content>
+              <p>79-3673. Same; sourcing rules for sale of telecommunication services; definitions. (a) Except for the defined telecommunication services in subsection (c), the sale of telecommunication service sold on a call-by-call basis shall be sourced to each level of taxing jurisdiction where the call originates and terminates in that jurisdiction or each level of taxing jurisdiction where the call either originates or terminates and in which the service address is also located. (b) Except for the defined telecommunication services in subsection (c), a sale of telecommunications services sold on a basis other than a call-by-call basis, is sourced to the customer's place of primary use. (c) The sale of the following telecommunication services shall be sourced to each level of taxing jurisdiction as follows: (1) A sale of mobile communications services other than air-to-ground radiotelephone service and prepaid calling service, is sourced to the customer's place of primary use as required by the mobile telecommunications sourcing act; (2) a sale of post-paid calling service is sourced to the origination point of the telecommunications signal as first identified by either the seller's telecommunications system, or information received by the seller from its service provider, where the system used to transport such signals is not that of the seller; and (3) a sale of prepaid calling service or a sale of prepaid wireless calling service is sourced in accordance with K.S.A. 79-3670, and amendments thereto, except that in the case of a sale of prepaid wireless calling service, the rule provided in subsection (a)(5) of K.S.A. 79-3670, and amendments thereto, shall include as an option the location associated with the mobile telephone number. (d) A sale of a private communication service is sourced as follows: (1) Service for a separate charge related to a customer channel termination point is sourced to each level of jurisdiction in which such customer channel termination point is located; (2) service where all customer termination points are located entirely within one jurisdiction or levels of jurisdiction is sourced in such jurisdiction in which the customer channel termination points are located; (3) service for segments of a channel between two customer channel termination points located in different jurisdictions and which segment of channel are separately charged is sourced 50% in each level of jurisdiction in which the customer channel termination points are located; and (4) service for segments of a channel located in more than one jurisdiction or levels of jurisdiction and which segments are not separately billed is sourced in each jurisdiction based on the percentage determined by dividing the number of customer channel termination points in such jurisdiction by the total number of customer channel termination points. (e) The sale of an ancillary service, as defined in K.S.A. 79-3602, and amendments thereto, is sourced to the customer's place of primary use. (f) As used in this section: (1) &quot;Air-to-ground radiotelephone service&quot; means a radio service, as that term is defined in 47 C.F.R. § 22.99, in which common carriers are authorized to offer and provide radio telecommunications service for hire to subscribers in aircraft; (2) &quot;call-by-call basis&quot; means any method of charging for telecommunications services where the price is measured by individual calls; (3) &quot;communications channel&quot; means a physical or virtual path of communications over which signals are transmitted between or among customer channel termination points; (4) &quot;customer&quot; means the person or entity that contracts with the seller of telecommunications services. If the end user of telecommunications services is not the contracting party, the end user of the telecommunications service is the customer of the telecommunication service, but this sentence only applies for the purpose of sourcing sales of telecommunications services under this section. Customer does not include a reseller of telecommunications service or for mobile telecommunications service of a serving carrier under an agreement to serve the customer outside the home service provider's licensed service area; (5) &quot;customer channel termination point&quot; means the location where the customer either inputs or receives the communication; (6) &quot;end user&quot; means the person who utilizes the telecommunication service. In the case of an entity, end user means the individual who utilizes the services on behalf of the entity; (7) &quot;home service provider&quot; means the same as that term in [is] defined in section 124(5) of Public Law 106-252 (mobile telecommunications sourcing act); (8) &quot;mobile telecommunications service&quot; means the same as that term is defined in section 124(5) of Public Law 106-252 (mobile telecommunications sourcing act); (9) &quot;place of primary use&quot; means the street address representative of where the customer's use of the telecommunications service primarily occurs, which must be the residential street address or the primary business street address of the customer. In the case of mobile telecommunications services, place of primary use must be within the licensed service area of the home service provider; (10) &quot;post-paid calling service&quot; means the telecommunications service obtained by making a payment on a call-by-call basis either through the use of a credit card or payment mechanism such as a bank card, travel card, credit card or debit card, or by charge made to which a telephone number which is not associated with the origination or termination of the telecommunications service. A post-paid calling service includes a telecommunications service, except a prepaid wireless calling service, that would be a prepaid calling service except it is not exclusively a telecommunication service; (11) &quot;prepaid calling service&quot; means the right to access exclusively telecommunications services, which must be paid for in advance and which enables the origination of calls using an access number or authorization code, whether manually or electronically dialed, and that is sold in predetermined units or dollars of which the number declines with use in a known amount; (12) &quot;prepaid wireless calling service&quot; means a telecommunications service that provides the right to utilize mobile wireless service as well as other non-telecommunications services, including the download of digital products delivered electronically, content and ancillary services, which must be paid for in advance that is sold in predetermined units or dollars of which the number declines with use in a known amount; (13) &quot;private communication service&quot; means a telecommunication service that entitles the customer to exclusive or priority use of a communications channel or group of channels between or among termination points, regardless of the manner in which such channel or channels are connected, and includes switching capacity, extension lines, stations and any other associated services that are provided in connection with the use of such channel or channels; and (14) &quot;service address&quot; means: (A) The location of the telecommunications equipment to which a customer's call is charged and from which the call originates or terminates, regardless of where the call is billed or paid; (B) if the location in subsection (14)(A) is not known, service address means the origination point of the signal of the telecommunications services first identified by either the seller's telecommunications system or in information received by the seller from its service provider, where the system used to transport such signals is not that of the seller; and (C) if the location in subsections (14)(A) and (14)(B) are not known, the service address means the location of the customer's place of primary use.</p>
+            </content>
+            <subsection eId="79_3673__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except for the defined telecommunication services in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3673__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for the defined telecommunication services in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3673__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The sale of the following telecommunication services shall be sourced to each level of taxing jurisdiction as follows:</p>
+              </content>
+              <paragraph eId="79_3673__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>A sale of mobile communications services other than air-to-ground radiotelephone service and prepaid calling service, is sourced to the customer's place of primary use as required by the mobile telecommunications sourcing act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>a sale of post-paid calling service is sourced to the origination point of the telecommunications signal as first identified by either the seller's telecommunications system, or information received by the seller from its service provider, where the system used to transport such signals is not that of the seller; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_c__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>a sale of prepaid calling service or a sale of prepaid wireless calling service is sourced in accordance with K.S.A. 79-3670, and amendments thereto, except that in the case of a sale of prepaid wireless calling service, the rule provided in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_c__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of K.S.A. 79-3670, and amendments thereto, shall include as an option the location associated with the mobile telephone number.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3673__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>A sale of a private communication service is sourced as follows:</p>
+              </content>
+              <paragraph eId="79_3673__subsec_d__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Service for a separate charge related to a customer channel termination point is sourced to each level of jurisdiction in which such customer channel termination point is located;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_d__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>service where all customer termination points are located entirely within one jurisdiction or levels of jurisdiction is sourced in such jurisdiction in which the customer channel termination points are located;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_d__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>service for segments of a channel between two customer channel termination points located in different jurisdictions and which segment of channel are separately charged is sourced 50% in each level of jurisdiction in which the customer channel termination points are located; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_d__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>service for segments of a channel located in more than one jurisdiction or levels of jurisdiction and which segments are not separately billed is sourced in each jurisdiction based on the percentage determined by dividing the number of customer channel termination points in such jurisdiction by the total number of customer channel termination points.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3673__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The sale of an ancillary service, as defined in K.S.A. 79-3602, and amendments thereto, is sourced to the customer's place of primary use.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3673__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>As used in this section:</p>
+              </content>
+              <paragraph eId="79_3673__subsec_f__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Air-to-ground radiotelephone service&quot; means a radio service, as that term is defined in 47 C.F.R. § 22.99, in which common carriers are authorized to offer and provide radio telecommunications service for hire to subscribers in aircraft;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;call-by-call basis&quot; means any method of charging for telecommunications services where the price is measured by individual calls;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;communications channel&quot; means a physical or virtual path of communications over which signals are transmitted between or among customer channel termination points;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>&quot;customer&quot; means the person or entity that contracts with the seller of telecommunications services. If the end user of telecommunications services is not the contracting party, the end user of the telecommunications service is the customer of the telecommunication service, but this sentence only applies for the purpose of sourcing sales of telecommunications services under this section. Customer does not include a reseller of telecommunications service or for mobile telecommunications service of a serving carrier under an agreement to serve the customer outside the home service provider's licensed service area;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>&quot;customer channel termination point&quot; means the location where the customer either inputs or receives the communication;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>&quot;end user&quot; means the person who utilizes the telecommunication service. In the case of an entity, end user means the individual who utilizes the services on behalf of the entity;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>&quot;home service provider&quot; means the same as that term in [is] defined in section 124</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of Public Law 106-252 (mobile telecommunications sourcing act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_8">
+                <num>(8)</num>
+                <content>
+                  <p>&quot;mobile telecommunications service&quot; means the same as that term is defined in section 124</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of Public Law 106-252 (mobile telecommunications sourcing act);</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_9">
+                <num>(9)</num>
+                <content>
+                  <p>&quot;place of primary use&quot; means the street address representative of where the customer's use of the telecommunications service primarily occurs, which must be the residential street address or the primary business street address of the customer. In the case of mobile telecommunications services, place of primary use must be within the licensed service area of the home service provider;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_10">
+                <num>(10)</num>
+                <content>
+                  <p>&quot;post-paid calling service&quot; means the telecommunications service obtained by making a payment on a call-by-call basis either through the use of a credit card or payment mechanism such as a bank card, travel card, credit card or debit card, or by charge made to which a telephone number which is not associated with the origination or termination of the telecommunications service. A post-paid calling service includes a telecommunications service, except a prepaid wireless calling service, that would be a prepaid calling service except it is not exclusively a telecommunication service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_11">
+                <num>(11)</num>
+                <content>
+                  <p>&quot;prepaid calling service&quot; means the right to access exclusively telecommunications services, which must be paid for in advance and which enables the origination of calls using an access number or authorization code, whether manually or electronically dialed, and that is sold in predetermined units or dollars of which the number declines with use in a known amount;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_12">
+                <num>(12)</num>
+                <content>
+                  <p>&quot;prepaid wireless calling service&quot; means a telecommunications service that provides the right to utilize mobile wireless service as well as other non-telecommunications services, including the download of digital products delivered electronically, content and ancillary services, which must be paid for in advance that is sold in predetermined units or dollars of which the number declines with use in a known amount;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_13">
+                <num>(13)</num>
+                <content>
+                  <p>&quot;private communication service&quot; means a telecommunication service that entitles the customer to exclusive or priority use of a communications channel or group of channels between or among termination points, regardless of the manner in which such channel or channels are connected, and includes switching capacity, extension lines, stations and any other associated services that are provided in connection with the use of such channel or channels; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3673__subsec_f__para_14">
+                <num>(14)</num>
+                <content>
+                  <p>&quot;service address&quot; means: (A) The location of the telecommunications equipment to which a customer's call is charged and from which the call originates or terminates, regardless of where the call is billed or paid; (B) if the location in subsection (14)(A) is not known, service address means the origination point of the signal of the telecommunications services first identified by either the seller's telecommunications system or in information received by the seller from its service provider, where the system used to transport such signals is not that of the seller; and (C) if the location in subsections (14)(A) and (14)(B) are not known, the service address means the location of the customer's place of primary use.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

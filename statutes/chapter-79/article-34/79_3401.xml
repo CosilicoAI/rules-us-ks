@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3401"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3401/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3401/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3401">
+            <num>79-3401</num>
+            <heading>Citation of act; definitions</heading>
+            <content>
+              <p>79-3401. Citation of act; definitions. This act shall be known and may be cited as the &quot;motor-fuel tax law,&quot; and as so constituted is hereinafter referred to as &quot;this act.&quot; The following words, terms and phrases, when used in this act, shall have the meanings ascribed to them in this section, except in those instances clearly indicating a different meaning: (a) &quot;Aviation fuel&quot; means motor fuels for use as fuel for aircraft; (b) &quot;agricultural ethyl alcohol&quot; means a motor-vehicle fuel component with a purity of at least 99%, exclusive of any added denaturants, denatured in conformity with one of the methods approved by the United States department of the treasury, bureau of alcohol, tobacco and firearms, and distilled in the United States of America from grain produced in the United States of America; (c) &quot;bulk plant&quot; means a motor fuels storage facility, other than a terminal, that is primarily used to redistribute motor fuels; (d) &quot;dealer&quot; means any person engaged in the retail sale of motor-vehicle fuels or special fuels; (e) &quot;director&quot; means the director of taxation, a duly authorized deputy, agent or representative; (f) &quot;distributor&quot; means any person, who: (1) Imports or causes to be imported from any other state or territory of the United States motor-vehicle fuels or special fuels for such person's own use in the state of Kansas, or for sale and delivery therein, after the same shall have come to rest or storage therein, whether or not in the original package, receptacle or container; or (2) imports or causes to be imported, from a foreign country, motor-vehicle fuels or special fuels for such person's own use in the state of Kansas, or for sale and delivery therein, after the same shall have come to rest or storage, whether or not in the original package, receptacle or container; (3) purchases or receives motor-vehicle fuels or special fuels in the original package, receptacle or container in the state of Kansas for such person's own use therein, or for sale and delivery therein, from any person who has imported the same from any other state or territory of the United States, or any other nation, in case such motor-vehicle fuels or special fuels have not, prior to such purchase or receipt, come to rest or storage in the state of Kansas; or (4) received and, in any manner, uses, sells or delivers motor-vehicle fuels or special fuels in the state of Kansas on which the tax provided for in this act has not been previously paid; (g) &quot;exporter&quot; means any person who exports or causes to be exported motor vehicle fuels or special fuels from Kansas to any other state or territory of the United States or to a foreign country, for such person's own use or for sale or delivery therein, whether or not in the original package, receptacle or container; (h) &quot;importer&quot; means any person who imports or causes to be imported motor-vehicle fuels or special fuels from any other state or territory of the United States or from a foreign country, for such person's own use in the state of Kansas or for sale or delivery therein, whether or not in the original package, receptacle or container; (i) &quot;liquid fuels&quot; or &quot;motor fuels&quot; means any inflammable liquid by whatever name such liquid shall be known or sold that is used, or practically or commercially usable, either alone or when mixed or combined in an internal-combustion engine for the generation of power; (j) &quot;manufacturer&quot; or &quot;refiner&quot; means any person that produces, refines, prepares, blends, distills, manufactures or compounds motor-vehicle fuels or special fuels in the state of Kansas for such person's own use therein, or for sale or delivery therein. The term &quot;manufacturer&quot; shall not include any person that mechanically separates liquids from natural gas at production facilities or gathering system pipelines on the lease. No person who produces, refines, prepares, blends, distills, manufactures, or compounds motor-vehicle fuels or special fuels shall be required to render a distributor's (manufacturer's) report as to any particular lot or lots of motor-vehicle fuels or special fuels until such motor-vehicle fuels or special fuels have been loaded at a refinery or other place of production into tank cars, or placed in any tank at such refinery or other place of production from which any withdrawals are made direct into tanks, tank wagons or other types of transportation equipment, containers or facilities; (k) &quot;motor vehicle&quot; means a motor vehicle as defined by K.S.A. 8-126, and amendments thereto, that is required to be registered pursuant to K.S.A. 8-126 et seq., and amendments thereto; (l) &quot;motor-vehicle fuels&quot; means gasoline, casinghead gasoline, natural gasoline, drip gasoline, aviation gasoline, gasohol, gasoline-oxygenate blend and any other spark-ignition motor fuel as defined by the 1995 United States department of commerce, national institute of standards and technology handbook 130 issued December of 1994, and as may subsequently be defined in rules and regulations that the director may adopt pursuant to K.S.A. 79-3419, and amendments thereto; (m) &quot;oil inspector&quot; means the director of taxation, a duly authorized deputy, agent or representative; (n) &quot;person&quot; means every natural person, association, partnership, limited partnership, limited liability company or corporation. When used in any statute, prescribing and imposing a fine or imprisonment, or both, the term &quot;person&quot; as applied to firms and associations means the partners or members thereof and, as applied to corporations, the corporation and the officers thereof; (o) &quot;public highways&quot; means and includes every way or place, of whatever nature, generally open to the use of the public as a matter of right, for the purposes of vehicular travel and notwithstanding that the same shall have been temporarily closed for the purpose of construction, reconstruction or repair; (p) &quot;received&quot; means motor-vehicle fuel or special fuel produced, refined, prepared, distilled, manufactured, blended or compounded at any refinery or other place, in the state of Kansas by any person, or imported into this state from any other state, territory, or foreign country by pipeline or connecting pipeline at a pipeline terminal or pipeline tank farm for storage, shall be deemed to be &quot;received&quot; by such person thereat when the same shall have been loaded at such refinery, pipeline terminal, pipeline tank farm or other place, into tank cars, tank trucks or other container, or placed in any tank from which any withdrawals are made direct into tank cars, tank trucks or other types of transportation equipment, containers or facilities; (q) &quot;retailer&quot; means a person that engages in the business of selling or distributing motor fuels to the end user; (r) &quot;school bus&quot; means every motor vehicle that is: (1) Privately owned and contracted for, leased or hired by a school district or nonpublic school for the transportation of pupils or students to or from school or to or from school-related functions or activities; or (2) owned and operated by a school district or nonpublic school that is registered under the provisions of K.S.A. 8-126 et seq., and amendments thereto, used for the transportation of pupils or students to or from school or to or from school-related functions or activities; (s) &quot;special fuels&quot; means all combustible liquids suitable for the generation of power for the propulsion of motor vehicles including, but not limited to, diesel fuel, alcohol and such fuels not defined under the motor-vehicle fuels definition, hereinafter referred to as motor-vehicle fuel; (t) &quot;terminal&quot; means a fuel storage and distribution facility that is supplied by motor vehicle, pipeline or marine vessel, and from which motor fuels may be removed at a rack. &quot;Terminal&quot; does not include any facility at which motor fuel blend stocks and additives are used in the manufacture of products other than motor fuels and from which no motor fuels are removed; (u) &quot;terminal operator&quot; means the person who by ownership or contractual agreement is charged with the responsibility for, or physical control over, and operation of a terminal; (v) &quot;transporter&quot; means a person who has been issued a liquid-fuels carrier's license pursuant to K.S.A. 55-506 et seq., and amendments thereto; and (w) &quot;E85 fuels&quot; means an alternative fuel that is a blend of denatured ethanol and hydrocarbon that typically contains 85% ethanol by volume, but at a minimum must contain 70% ethanol by volume, and complies with ASTM specification D5798-99.</p>
+            </content>
+            <subsection eId="79_3401__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Aviation fuel&quot; means motor fuels for use as fuel for aircraft;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;agricultural ethyl alcohol&quot; means a motor-vehicle fuel component with a purity of at least 99%, exclusive of any added denaturants, denatured in conformity with one of the methods approved by the United States department of the treasury, bureau of alcohol, tobacco and firearms, and distilled in the United States of America from grain produced in the United States of America;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;bulk plant&quot; means a motor fuels storage facility, other than a terminal, that is primarily used to redistribute motor fuels;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;dealer&quot; means any person engaged in the retail sale of motor-vehicle fuels or special fuels;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;director&quot; means the director of taxation, a duly authorized deputy, agent or representative;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;distributor&quot; means any person, who:</p>
+              </content>
+              <paragraph eId="79_3401__subsec_f__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Imports or causes to be imported from any other state or territory of the United States motor-vehicle fuels or special fuels for such person's own use in the state of Kansas, or for sale and delivery therein, after the same shall have come to rest or storage therein, whether or not in the original package, receptacle or container; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3401__subsec_f__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>imports or causes to be imported, from a foreign country, motor-vehicle fuels or special fuels for such person's own use in the state of Kansas, or for sale and delivery therein, after the same shall have come to rest or storage, whether or not in the original package, receptacle or container;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3401__subsec_f__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>purchases or receives motor-vehicle fuels or special fuels in the original package, receptacle or container in the state of Kansas for such person's own use therein, or for sale and delivery therein, from any person who has imported the same from any other state or territory of the United States, or any other nation, in case such motor-vehicle fuels or special fuels have not, prior to such purchase or receipt, come to rest or storage in the state of Kansas; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3401__subsec_f__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>received and, in any manner, uses, sells or delivers motor-vehicle fuels or special fuels in the state of Kansas on which the tax provided for in this act has not been previously paid;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3401__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;exporter&quot; means any person who exports or causes to be exported motor vehicle fuels or special fuels from Kansas to any other state or territory of the United States or to a foreign country, for such person's own use or for sale or delivery therein, whether or not in the original package, receptacle or container;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;importer&quot; means any person who imports or causes to be imported motor-vehicle fuels or special fuels from any other state or territory of the United States or from a foreign country, for such person's own use in the state of Kansas or for sale or delivery therein, whether or not in the original package, receptacle or container;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;liquid fuels&quot; or &quot;motor fuels&quot; means any inflammable liquid by whatever name such liquid shall be known or sold that is used, or practically or commercially usable, either alone or when mixed or combined in an internal-combustion engine for the generation of power;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;manufacturer&quot; or &quot;refiner&quot; means any person that produces, refines, prepares, blends, distills, manufactures or compounds motor-vehicle fuels or special fuels in the state of Kansas for such person's own use therein, or for sale or delivery therein. The term &quot;manufacturer&quot; shall not include any person that mechanically separates liquids from natural gas at production facilities or gathering system pipelines on the lease. No person who produces, refines, prepares, blends, distills, manufactures, or compounds motor-vehicle fuels or special fuels shall be required to render a distributor's (manufacturer's) report as to any particular lot or lots of motor-vehicle fuels or special fuels until such motor-vehicle fuels or special fuels have been loaded at a refinery or other place of production into tank cars, or placed in any tank at such refinery or other place of production from which any withdrawals are made direct into tanks, tank wagons or other types of transportation equipment, containers or facilities;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;motor vehicle&quot; means a motor vehicle as defined by K.S.A. 8-126, and amendments thereto, that is required to be registered pursuant to K.S.A. 8-126 et seq., and amendments thereto;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>&quot;motor-vehicle fuels&quot; means gasoline, casinghead gasoline, natural gasoline, drip gasoline, aviation gasoline, gasohol, gasoline-oxygenate blend and any other spark-ignition motor fuel as defined by the 1995 United States department of commerce, national institute of standards and technology handbook 130 issued December of 1994, and as may subsequently be defined in rules and regulations that the director may adopt pursuant to K.S.A. 79-3419, and amendments thereto;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>&quot;oil inspector&quot; means the director of taxation, a duly authorized deputy, agent or representative;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>&quot;person&quot; means every natural person, association, partnership, limited partnership, limited liability company or corporation. When used in any statute, prescribing and imposing a fine or imprisonment, or both, the term &quot;person&quot; as applied to firms and associations means the partners or members thereof and, as applied to corporations, the corporation and the officers thereof;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>&quot;public highways&quot; means and includes every way or place, of whatever nature, generally open to the use of the public as a matter of right, for the purposes of vehicular travel and notwithstanding that the same shall have been temporarily closed for the purpose of construction, reconstruction or repair;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>&quot;received&quot; means motor-vehicle fuel or special fuel produced, refined, prepared, distilled, manufactured, blended or compounded at any refinery or other place, in the state of Kansas by any person, or imported into this state from any other state, territory, or foreign country by pipeline or connecting pipeline at a pipeline terminal or pipeline tank farm for storage, shall be deemed to be &quot;received&quot; by such person thereat when the same shall have been loaded at such refinery, pipeline terminal, pipeline tank farm or other place, into tank cars, tank trucks or other container, or placed in any tank from which any withdrawals are made direct into tank cars, tank trucks or other types of transportation equipment, containers or facilities;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>&quot;retailer&quot; means a person that engages in the business of selling or distributing motor fuels to the end user;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>&quot;school bus&quot; means every motor vehicle that is:</p>
+              </content>
+              <paragraph eId="79_3401__subsec_r__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Privately owned and contracted for, leased or hired by a school district or nonpublic school for the transportation of pupils or students to or from school or to or from school-related functions or activities; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3401__subsec_r__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>owned and operated by a school district or nonpublic school that is registered under the provisions of K.S.A. 8-126 et seq., and amendments thereto, used for the transportation of pupils or students to or from school or to or from school-related functions or activities;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3401__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>&quot;special fuels&quot; means all combustible liquids suitable for the generation of power for the propulsion of motor vehicles including, but not limited to, diesel fuel, alcohol and such fuels not defined under the motor-vehicle fuels definition, hereinafter referred to as motor-vehicle fuel;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_t">
+              <num>(t)</num>
+              <content>
+                <p>&quot;terminal&quot; means a fuel storage and distribution facility that is supplied by motor vehicle, pipeline or marine vessel, and from which motor fuels may be removed at a rack. &quot;Terminal&quot; does not include any facility at which motor fuel blend stocks and additives are used in the manufacture of products other than motor fuels and from which no motor fuels are removed;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_u">
+              <num>(u)</num>
+              <content>
+                <p>&quot;terminal operator&quot; means the person who by ownership or contractual agreement is charged with the responsibility for, or physical control over, and operation of a terminal;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>&quot;transporter&quot; means a person who has been issued a liquid-fuels carrier's license pursuant to K.S.A. 55-506 et seq., and amendments thereto; and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3401__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>&quot;E85 fuels&quot; means an alternative fuel that is a blend of denatured ethanol and hydrocarbon that typically contains 85% ethanol by volume, but at a minimum must contain 70% ethanol by volume, and complies with ASTM specification D5798-99.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

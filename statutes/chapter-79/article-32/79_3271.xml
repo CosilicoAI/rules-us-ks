@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3271"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3271"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3271/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3271/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3271/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3271/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3271">
+            <num>79-3271</num>
+            <heading>Apportionment of net income; definitions</heading>
+            <content>
+              <p>79-3271. Apportionment of net income; definitions. As used in this act, unless the context otherwise requires: (a) For tax years commencing prior to January 1, 2008, &quot;business income&quot; means income arising from transactions and activity in the regular course of the taxpayer's trade or business and includes income from tangible and intangible property if the acquisition, management, and disposition of the property constitute integral parts of the taxpayer's regular trade or business operations, except that a taxpayer may elect that all income constitutes business income. For tax years commencing after December 31, 2007, &quot;business income&quot; means: (1) Income arising from transactions and activity in the regular course of the taxpayer's trade or business; (2) income arising from transactions and activity involving tangible and intangible property or assets used in the operation of the taxpayer's trade or business; or (3) income of the taxpayer that may be apportioned to this state under the provisions of the Constitution of the United States and laws thereof, except that a taxpayer may elect that all income constitutes business income. Any election made under this subsection shall be effective and irrevocable for the tax year in which the election is made and the following nine tax years and shall be binding on all members of a unitary group of corporations. (b) &quot;Commercial domicile&quot; means the principal place from which the trade or business of the taxpayer is directed or managed. (c) &quot;Compensation&quot; means wages, salaries, commissions and any other form of remuneration paid to employees for personal services. (d) &quot;Financial organization&quot; means any bank, trust company, savings bank, industrial bank, land bank, safe deposit company, private banker, savings and loan association, credit union, cooperative bank, or any type of insurance company, but such term shall not be deemed to include any business entity, other than those hereinbefore enumerated, whose primary business activity is making consumer loans or purchasing retail installment contracts from one or more sellers. (e) &quot;Nonbusiness income&quot; means all income other than business income. (f) &quot;Public utility&quot; means any business entity which owns or operates for public use any plant, equipment, property, franchise, or license for the transmission of communications, transportation of goods or persons, or the production, storage, transmission, sale, delivery, or furnishing of electricity, water, steam, oil, oil products or gas. (g) &quot;Original return&quot; means the first return filed to report the income of a taxpayer for a taxable year or period, irrespective of whether such return is filed on a single entity basis or a combined basis. (h) &quot;Sales&quot; means, except as otherwise provided in K.S.A. 79-3285, and amendments thereto, all gross receipts of the taxpayer not allocated under K.S.A. 79-3274 through 79-3278, and amendments thereto. (i) &quot;State&quot; means any state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country or political subdivision thereof. (j) &quot;Telecommunications company&quot; means any business entity or unitary group of entities whose primary business activity is the transmission of communications in the form of voice, data, signals or facsimile communications by wire or fiber optic cable. (k) &quot;Distressed area taxpayer&quot; means a corporation which: (1) Is located in a county which has a population of not more than 45,000 persons and which, as certified by the department of commerce, has sustained an adverse economic impact due to the closure of a state hospital in such county pursuant to the recommendations of the hospital closure commission; and (2) which has a total annual payroll of $20,000,000 or more for employees employed within such county. (l) For the purposes of this subsection and subsection (b)(5) of K.S.A. 79-3279, and amendments thereto, the following terms are defined: (1) &quot;Administration services&quot; include clerical, fund or shareholder accounting, participant record keeping, transfer agency, bookkeeping, data processing, custodial, internal auditing, legal and tax services performed for an investment company; (2) &quot;distribution services&quot; include the services of advertising, servicing, marketing, underwriting or selling shares of an investment company, but, in the case of advertising, servicing or marketing shares, only where such service is performed by a person who is, or in the case of a closed end company, was, either engaged in the services of underwriting or selling investment company shares or affiliated with a person who is engaged in the service of underwriting or selling investment company shares. In the case of an open end company, such service of underwriting or selling shares must be performed pursuant to a contract entered into pursuant to 15 U.S.C. § 80a-15(b), as in effect on the effective date of this act; (3) &quot;investment company&quot;, means any person registered under the federal Investment Company Act of 1940, as in effect on the effective date of this act, or a company which would be required to register as an investment company under such act except that such person is exempt to such registration pursuant to § 80a-3(c)(1) of such act; (4) &quot;investment funds service corporation&quot; includes any corporation or S corporation headquartered in and doing business in this state which derives more than 50% of its gross income from the provision of management, distribution or administration services to or on behalf of an investment company or from trustees, sponsors and participants of employee benefit plans which have accounts in an investment company; (5) &quot;management services&quot; include the rendering of investment advice to an investment company making determinations as to when sales and purchases of securities are to be made on behalf of the investment company, or the selling or purchasing of securities constituting assets of an investment company, and related activities, but only where such activity or activities are performed: (A) Pursuant to a contract with the investment company entered into pursuant to 15 U.S.C. § 80a-15(a), in effect on the effective date of this act; or (B) for a person that has entered into such contract with the investment company; (6) &quot;qualifying business income&quot; is business income derived from the provision of management, distribution or administration services to or on behalf of an investment company or from trustees, sponsors and participants of employee benefit plans which have accounts in an investment company; and (7) &quot;residence&quot; is the fund shareholder's primary residence address.</p>
+            </content>
+            <subsection eId="79_3271__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>For tax years commencing prior to January 1, 2008, &quot;business income&quot; means income arising from transactions and activity in the regular course of the taxpayer's trade or business and includes income from tangible and intangible property if the acquisition, management, and disposition of the property constitute integral parts of the taxpayer's regular trade or business operations, except that a taxpayer may elect that all income constitutes business income. For tax years commencing after December 31, 2007, &quot;business income&quot; means:</p>
+              </content>
+              <paragraph eId="79_3271__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Income arising from transactions and activity in the regular course of the taxpayer's trade or business;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>income arising from transactions and activity involving tangible and intangible property or assets used in the operation of the taxpayer's trade or business; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>income of the taxpayer that may be apportioned to this state under the provisions of the Constitution of the United States and laws thereof, except that a taxpayer may elect that all income constitutes business income. Any election made under this subsection shall be effective and irrevocable for the tax year in which the election is made and the following nine tax years and shall be binding on all members of a unitary group of corporations.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3271__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Commercial domicile&quot; means the principal place from which the trade or business of the taxpayer is directed or managed.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Compensation&quot; means wages, salaries, commissions and any other form of remuneration paid to employees for personal services.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Financial organization&quot; means any bank, trust company, savings bank, industrial bank, land bank, safe deposit company, private banker, savings and loan association, credit union, cooperative bank, or any type of insurance company, but such term shall not be deemed to include any business entity, other than those hereinbefore enumerated, whose primary business activity is making consumer loans or purchasing retail installment contracts from one or more sellers.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Nonbusiness income&quot; means all income other than business income.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Public utility&quot; means any business entity which owns or operates for public use any plant, equipment, property, franchise, or license for the transmission of communications, transportation of goods or persons, or the production, storage, transmission, sale, delivery, or furnishing of electricity, water, steam, oil, oil products or gas.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Original return&quot; means the first return filed to report the income of a taxpayer for a taxable year or period, irrespective of whether such return is filed on a single entity basis or a combined basis.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Sales&quot; means, except as otherwise provided in K.S.A. 79-3285, and amendments thereto, all gross receipts of the taxpayer not allocated under K.S.A. 79-3274 through 79-3278, and amendments thereto.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;State&quot; means any state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country or political subdivision thereof.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;Telecommunications company&quot; means any business entity or unitary group of entities whose primary business activity is the transmission of communications in the form of voice, data, signals or facsimile communications by wire or fiber optic cable.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3271__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;Distressed area taxpayer&quot; means a corporation which:</p>
+              </content>
+              <paragraph eId="79_3271__subsec_k__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Is located in a county which has a population of not more than 45,000 persons and which, as certified by the department of commerce, has sustained an adverse economic impact due to the closure of a state hospital in such county pursuant to the recommendations of the hospital closure commission; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_k__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>which has a total annual payroll of $20,000,000 or more for employees employed within such county.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3271__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>For the purposes of this subsection and subsection</p>
+              </content>
+              <paragraph eId="79_3271__subsec_l__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of K.S.A. 79-3279, and amendments thereto, the following terms are defined:</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Administration services&quot; include clerical, fund or shareholder accounting, participant record keeping, transfer agency, bookkeeping, data processing, custodial, internal auditing, legal and tax services performed for an investment company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;distribution services&quot; include the services of advertising, servicing, marketing, underwriting or selling shares of an investment company, but, in the case of advertising, servicing or marketing shares, only where such service is performed by a person who is, or in the case of a closed end company, was, either engaged in the services of underwriting or selling investment company shares or affiliated with a person who is engaged in the service of underwriting or selling investment company shares. In the case of an open end company, such service of underwriting or selling shares must be performed pursuant to a contract entered into pursuant to 15 U.S.C. § 80a-15</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;investment company&quot;, means any person registered under the federal Investment Company Act of 1940, as in effect on the effective date of this act, or a company which would be required to register as an investment company under such act except that such person is exempt to such registration pursuant to § 80a-3</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>of such act;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>&quot;investment funds service corporation&quot; includes any corporation or S corporation headquartered in and doing business in this state which derives more than 50% of its gross income from the provision of management, distribution or administration services to or on behalf of an investment company or from trustees, sponsors and participants of employee benefit plans which have accounts in an investment company;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>&quot;management services&quot; include the rendering of investment advice to an investment company making determinations as to when sales and purchases of securities are to be made on behalf of the investment company, or the selling or purchasing of securities constituting assets of an investment company, and related activities, but only where such activity or activities are performed: (A) Pursuant to a contract with the investment company entered into pursuant to 15 U.S.C. § 80a-15</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>&quot;qualifying business income&quot; is business income derived from the provision of management, distribution or administration services to or on behalf of an investment company or from trustees, sponsors and participants of employee benefit plans which have accounts in an investment company; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3271__subsec_l__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>&quot;residence&quot; is the fund shareholder's primary residence address.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

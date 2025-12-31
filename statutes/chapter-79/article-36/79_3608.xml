@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3608"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3608"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3608/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3608/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3608/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3608/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3608">
+            <num>79-3608</num>
+            <heading>Registration certificates; application; display; revocation by director, when, notice, hearing; appointment of agent; sellers registering under streamlined sales and use tax agreement; unlawful acts</heading>
+            <content>
+              <p>79-3608. Registration certificates; application; display; revocation by director, when, notice, hearing; appointment of agent; sellers registering under streamlined sales and use tax agreement; unlawful acts. (a) Except as otherwise provided, it shall be unlawful for any person to engage in the business of selling tangible personal property at retail or furnishing taxable services in this state without a registration certificate from the director of taxation. Application for such certificate shall be made to the director upon forms furnished by the director, and shall state the name of the applicant, the address or addresses at which the applicant proposes to engage in such business, and the character of such business. Utilities taxable under this act shall not be required to register but shall comply with all other provisions of this act. The taxpayer may be registered by an agent. Such appointment of the agent by the taxpayer shall be in writing and submitted to the director. The taxpayer shall be issued a registration certificate to engage in the business for which application is made unless the applicant at the time of making such application owes any sales tax, penalty or interest, and in such case, before a registration certificate is issued, the director of taxation shall require the applicant to pay the amount owed. (b) A separate registration certificate shall be issued for each place of business, and shall be conspicuously displayed therein. (c) A seller registering under the agreement is considered registered in this state and shall not be required to pay any registration fees or other charges to register in this state if the seller has no legal requirement to register. A written signature from the seller registering under the agreement is not required. An agent may register a seller under uniform procedures determined by the secretary. A seller may cancel its registration under the system at any time under uniform procedures determined by the secretary. Cancellation does not relieve the seller of its liability for remitting to this state any taxes collected. (d) The secretary may suspend or revoke the registration certificate of any taxpayer found in default for a period of at least 60 days in the payment of any retailer's sales tax or in the filing of any return. Prior to taking any action, the secretary shall provide the taxpayer 30 days' notice of the time and place of a hearing to be conducted pursuant to the Kansas administrative procedure act to show cause why such registration certificate should not be suspended or revoked. A suspended or revoked registration certificate shall not be reinstated until all outstanding tax, penalty and interest liabilities are satisfied. A suspension or revocation pursuant to this subsection shall be applicable to any individual who is a responsible party for the collection or payment of retailer's sales tax as provided by subsection (a) of K.S.A. 79-3643, and amendments thereto. (e) It shall be unlawful for any person to engage in the business of selling tangible personal property at retail or furnishing taxable services in this state after such person's registration certificate has been suspended or revoked.</p>
+            </content>
+            <subsection eId="79_3608__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided, it shall be unlawful for any person to engage in the business of selling tangible personal property at retail or furnishing taxable services in this state without a registration certificate from the director of taxation. Application for such certificate shall be made to the director upon forms furnished by the director, and shall state the name of the applicant, the address or addresses at which the applicant proposes to engage in such business, and the character of such business. Utilities taxable under this act shall not be required to register but shall comply with all other provisions of this act. The taxpayer may be registered by an agent. Such appointment of the agent by the taxpayer shall be in writing and submitted to the director. The taxpayer shall be issued a registration certificate to engage in the business for which application is made unless the applicant at the time of making such application owes any sales tax, penalty or interest, and in such case, before a registration certificate is issued, the director of taxation shall require the applicant to pay the amount owed.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3608__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A separate registration certificate shall be issued for each place of business, and shall be conspicuously displayed therein.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3608__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A seller registering under the agreement is considered registered in this state and shall not be required to pay any registration fees or other charges to register in this state if the seller has no legal requirement to register. A written signature from the seller registering under the agreement is not required. An agent may register a seller under uniform procedures determined by the secretary. A seller may cancel its registration under the system at any time under uniform procedures determined by the secretary. Cancellation does not relieve the seller of its liability for remitting to this state any taxes collected.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3608__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The secretary may suspend or revoke the registration certificate of any taxpayer found in default for a period of at least 60 days in the payment of any retailer's sales tax or in the filing of any return. Prior to taking any action, the secretary shall provide the taxpayer 30 days' notice of the time and place of a hearing to be conducted pursuant to the Kansas administrative procedure act to show cause why such registration certificate should not be suspended or revoked. A suspended or revoked registration certificate shall not be reinstated until all outstanding tax, penalty and interest liabilities are satisfied. A suspension or revocation pursuant to this subsection shall be applicable to any individual who is a responsible party for the collection or payment of retailer's sales tax as provided by subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3608__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of K.S.A. 79-3643, and amendments thereto.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3608__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>It shall be unlawful for any person to engage in the business of selling tangible personal property at retail or furnishing taxable services in this state after such person's registration certificate has been suspended or revoked.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

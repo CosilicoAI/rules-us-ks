@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3680"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3680"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3680/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3680/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3680/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3680/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3680">
+            <num>79-3680</num>
+            <heading>Same; amnesty for sellers who register; conditions; limitations</heading>
+            <content>
+              <p>79-3680. Same; amnesty for sellers who register; conditions; limitations. (a) Subject to the limitations in this section: (1) Amnesty is granted for uncollected or unpaid sales or use tax to a seller who registers to pay or to collect and remit applicable sales or use tax on sales made to purchasers in this state in accordance with the terms of the agreement, provided that the seller was not so registered in this state in the twelve-month period preceding the effective date of this state's participation in the agreement; (2) the amnesty will preclude assessment for uncollected or unpaid sales or use tax together with penalty or interest for sales made during the period the seller was not registered in this state, provided registration occurs within 12 months of the effective date of this state's participation in the agreement; and (3) amnesty similarly shall be provided if this state joins the agreement after the seller has registered. (b) The amnesty is not available to a seller with respect to any matter or matters for which the seller received notice of the commencement of an audit and which audit is not yet finally resolved including any related administrative and judicial processes. (c) The amnesty is not available for sales or use taxes already paid or remitted to this state or to taxes collected by the seller. (d) The amnesty is fully effective, absent the seller's fraud or intentional misrepresentation of a material fact, as long as the seller continues registration and continues payment or collection and remittance of applicable sales or use taxes for a period of at least thirty-six months. The statute of limitations applicable to asserting a tax liability during this thirty-six month period is tolled. (e) The amnesty is applicable only to sales or use taxes due from a seller in its capacity as a seller and not to sales or use taxes due from a seller in its capacity as a buyer. (f) This provision shall become effective as of the date that this state joins and becomes a member state of the agreement.</p>
+            </content>
+            <subsection eId="79_3680__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to the limitations in this section:</p>
+              </content>
+              <paragraph eId="79_3680__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Amnesty is granted for uncollected or unpaid sales or use tax to a seller who registers to pay or to collect and remit applicable sales or use tax on sales made to purchasers in this state in accordance with the terms of the agreement, provided that the seller was not so registered in this state in the twelve-month period preceding the effective date of this state's participation in the agreement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3680__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amnesty will preclude assessment for uncollected or unpaid sales or use tax together with penalty or interest for sales made during the period the seller was not registered in this state, provided registration occurs within 12 months of the effective date of this state's participation in the agreement; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3680__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>amnesty similarly shall be provided if this state joins the agreement after the seller has registered.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3680__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amnesty is not available to a seller with respect to any matter or matters for which the seller received notice of the commencement of an audit and which audit is not yet finally resolved including any related administrative and judicial processes.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3680__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The amnesty is not available for sales or use taxes already paid or remitted to this state or to taxes collected by the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3680__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The amnesty is fully effective, absent the seller's fraud or intentional misrepresentation of a material fact, as long as the seller continues registration and continues payment or collection and remittance of applicable sales or use taxes for a period of at least thirty-six months. The statute of limitations applicable to asserting a tax liability during this thirty-six month period is tolled.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3680__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>The amnesty is applicable only to sales or use taxes due from a seller in its capacity as a seller and not to sales or use taxes due from a seller in its capacity as a buyer.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3680__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>This provision shall become effective as of the date that this state joins and becomes a member state of the agreement.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

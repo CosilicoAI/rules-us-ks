@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2012"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2012"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2012/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2012/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2012/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2012/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2012">
+            <num>79-2012</num>
+            <heading>County commissioners to authorize county treasurer to credit delinquent taxpayer for the amount of claim; receipt; warrant issued where claim exceeds delinquent tax</heading>
+            <content>
+              <p>79-2012. County commissioners to authorize county treasurer to credit delinquent taxpayer for the amount of claim; receipt; warrant issued where claim exceeds delinquent tax. Upon receipt of the certification from the county treasurer as provided for in K.S.A. 79-2011, the county commissioners shall forthwith authorize the county treasurer in writing under the seal of the county to credit said delinquent taxpayer with the amount of said claim, and the county treasurer shall issue a receipt to claimant in the amount of the claim, noting thereon the amount of tax and penalties and interest remaining unpaid, if any, or in the event that the claim allowed is in excess of the delinquent tax and penalties and interest, the county commissioners shall issue a warrant in payment of the difference between the tax and penalties and interest for which the county treasurer's receipt was issued, and the county treasurer's receipt or the county treasurer's receipt and the warrant issued by the board of county commissioners shall constitute full payment of said claim.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

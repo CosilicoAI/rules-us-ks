@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1135"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1135"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1135/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1135/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1135/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1135/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1135">
+            <num>79-1135</num>
+            <heading>Consolidated returns or combined reports required, when</heading>
+            <content>
+              <p>79-1135. Consolidated returns or combined reports required, when. (a) Any taxpayer described in K.S.A. 79-1106, and amendments thereto, which owns, capitalizes or utilizes an affiliate with one of the affiliate's purposes being to make, hold or manage for, or on behalf of, the taxpayer, investments in securities which the taxpayer would be permitted to make for its own account may be required to file consolidated returns or combined reports for purposes of determining the tax liability under article 11 of chapter 79 of the Kansas Statutes Annotated as if such taxpayer and affiliate were one entity. (b) (1) Any taxpayer required to file a consolidated return or combined report under K.S.A. 79-1135, and amendments thereto, and required to determine an apportionment percentage under K.S.A. 79-1129, and amendments thereto, shall not include in either the numerator or the denominator of the receipts factor described in K.S.A. 79-1130, and amendments thereto, amounts received from or provided to an affiliate described in subsection (a) as consideration from investment assets and activities and trading assets and activities that represent inter-company transactions between the taxpayer and such affiliate; and (2) receipts as described in subsection (m) of K.S.A. 79-1130, and amendments thereto, received by an affiliate described in subsection (a) shall be treated by a taxpayer required to file a consolidated return or combined report under K.S.A. 79-1135, and amendments thereto, as receipts of the taxpayer. (c) For taxpayers described in K.S.A. 79-1106, and amendments thereto, the secretary of revenue may require returns on a consolidated basis or combined reporting and may distribute or allocate gross income, deductions, credits, or allowances between two or more organizations, trades or businesses, whether or not incorporated, or organized in the United States or Kansas or affiliated, owned or controlled directly or indirectly by the same interests, if the secretary of revenue determines such allocation is necessary to prevent evasion of taxes or to clearly reflect income of the organizations, trades or businesses. (d) This section shall be and constitute a part of and shall be supplemental to the privilege tax statutes enacted at K.S.A. 79-1106 et seq., and amendments thereto.</p>
+            </content>
+            <subsection eId="79_1135__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Any taxpayer described in K.S.A. 79-1106, and amendments thereto, which owns, capitalizes or utilizes an affiliate with one of the affiliate's purposes being to make, hold or manage for, or on behalf of, the taxpayer, investments in securities which the taxpayer would be permitted to make for its own account may be required to file consolidated returns or combined reports for purposes of determining the tax liability under article 11 of chapter 79 of the Kansas Statutes Annotated as if such taxpayer and affiliate were one entity.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1135__subsec_b">
+              <num>(b)</num>
+              <paragraph eId="79_1135__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any taxpayer required to file a consolidated return or combined report under K.S.A. 79-1135, and amendments thereto, and required to determine an apportionment percentage under K.S.A. 79-1129, and amendments thereto, shall not include in either the numerator or the denominator of the receipts factor described in K.S.A. 79-1130, and amendments thereto, amounts received from or provided to an affiliate described in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1135__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>as consideration from investment assets and activities and trading assets and activities that represent inter-company transactions between the taxpayer and such affiliate; and</p>
+              </content>
+              <paragraph eId="79_1135__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>receipts as described in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1135__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>of K.S.A. 79-1130, and amendments thereto, received by an affiliate described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1135__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall be treated by a taxpayer required to file a consolidated return or combined report under K.S.A. 79-1135, and amendments thereto, as receipts of the taxpayer.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1135__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For taxpayers described in K.S.A. 79-1106, and amendments thereto, the secretary of revenue may require returns on a consolidated basis or combined reporting and may distribute or allocate gross income, deductions, credits, or allowances between two or more organizations, trades or businesses, whether or not incorporated, or organized in the United States or Kansas or affiliated, owned or controlled directly or indirectly by the same interests, if the secretary of revenue determines such allocation is necessary to prevent evasion of taxes or to clearly reflect income of the organizations, trades or businesses.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1135__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>This section shall be and constitute a part of and shall be supplemental to the privilege tax statutes enacted at K.S.A. 79-1106 et seq., and amendments thereto.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1459"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1459"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1459/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1459/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1459/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1459/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1459">
+            <num>79-1459</num>
+            <heading>Preparation of appraisal maps, contents; preparation of appraisal records for improvements and land parcels, contents; classification of property</heading>
+            <content>
+              <p>79-1459. Preparation of appraisal maps, contents; preparation of appraisal records for improvements and land parcels, contents; classification of property. The county appraiser shall: (a) Prepare an accurate appraisal map or maps of all real estate located within the county showing: (1) All property or lot lines; (2) the names of all subdivisions; (3) block and lot numbers in urban areas; (4) township, range and government lot numbers in rural areas; (5) street names; (6) rights-of-way; (7) recorded easements; and (8) any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. Such map or maps shall be kept current. (b) Utilizing the format prescribed or approved by the director of property valuation, prepare an appraisal record for each improvement or group of buildings which constitute an improvement showing: (1) Name and address of the property owner, the property classification and subclassification, taxing unit number and the city or township in which the property is located; (2) a description of the parcel of real estate adequate to locate it upon the appraisal map; (3) a sketch of the improvements showing dimensions and, if found advisable, a photograph thereof; (4) the building classification category as provided for by law; (5) the major building specifications of each improvement; (6) the exact or approximate date of construction of each building; (7) the value indicators of the improvements; (8) the appraised valuation of the improvements and of the land and of their total; and (9) any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. If the appraisal record is contained on a card, the card shall have enough columns to show changes and appraised value of five or more successive years. (c) Utilizing the format prescribed or approved by the director of property valuation, prepare an appraisal record for each parcel of land showing: (1) The name and address of the property owner, the property classification and subclassification, taxing unit number and city or township in which the property is located; (2) a description of the parcel of land adequate to locate it upon the appraisal map; (3) a sketch of the dimension of the land and the total number of acres; (4) the general classification of land as provided for by law and, if agricultural, the number of acres in each capability classification; (5) the value indicators of the appraised land; (6) the appraisal of the land and of the improvements and of their total; and (7) any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. If the appraisal record is contained on a card, the card shall have enough columns to show changes and appraised value of five or more successive years. (d) If it is found advisable, combine the land appraisal record and the improvements appraisal record provided for in subsections (b) and (c) showing all information required therein. (e) Annually, as of January 1, classify all taxable and exempt real and personal property into one of the following classifications: Residential . Residential property shall include all land and improvements utilized or intended to be utilized as a dwelling or home, including all land and improvements whether or not contiguous to the land accommodating a dwelling or home used to store household goods and personal effects not used for the production of income. Commercial . Commercial property shall include all land and improvements utilized or intended to be utilized as a business or income producing enterprise and all personal property subject to ad valorem taxation listed on commercial personal property statements. Agricultural . Agricultural property shall include all land and improvements utilized or intended to be utilized for the production of livestock or crops and all personal property listed on agricultural personal property statements. State Appraised . State appraised property shall include all property designated by statute to be appraised by the director of the division of property valuation. Public Service . Public service property shall include all land and improvements utilized for benevolent, charitable, religious or governmental purposes and all personal property listed on public service personal property statements. The county appraiser shall, annually, as of January 1, subclassify each major classification of all taxable and exempt, real and personal property in a manner prescribed by the director of the division of property valuation.</p>
+            </content>
+            <subsection eId="79_1459__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Prepare an accurate appraisal map or maps of all real estate located within the county showing:</p>
+              </content>
+              <paragraph eId="79_1459__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>All property or lot lines;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the names of all subdivisions;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>block and lot numbers in urban areas;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>township, range and government lot numbers in rural areas;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>street names;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>rights-of-way;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>recorded easements; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_a__para_8">
+                <num>(8)</num>
+                <content>
+                  <p>any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. Such map or maps shall be kept current.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1459__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Utilizing the format prescribed or approved by the director of property valuation, prepare an appraisal record for each improvement or group of buildings which constitute an improvement showing:</p>
+              </content>
+              <paragraph eId="79_1459__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Name and address of the property owner, the property classification and subclassification, taxing unit number and the city or township in which the property is located;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>a description of the parcel of real estate adequate to locate it upon the appraisal map;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>a sketch of the improvements showing dimensions and, if found advisable, a photograph thereof;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>the building classification category as provided for by law;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>the major building specifications of each improvement;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>the exact or approximate date of construction of each building;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>the value indicators of the improvements;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_8">
+                <num>(8)</num>
+                <content>
+                  <p>the appraised valuation of the improvements and of the land and of their total; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_b__para_9">
+                <num>(9)</num>
+                <content>
+                  <p>any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. If the appraisal record is contained on a card, the card shall have enough columns to show changes and appraised value of five or more successive years.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1459__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Utilizing the format prescribed or approved by the director of property valuation, prepare an appraisal record for each parcel of land showing:</p>
+              </content>
+              <paragraph eId="79_1459__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name and address of the property owner, the property classification and subclassification, taxing unit number and city or township in which the property is located;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>a description of the parcel of land adequate to locate it upon the appraisal map;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>a sketch of the dimension of the land and the total number of acres;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>the general classification of land as provided for by law and, if agricultural, the number of acres in each capability classification;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>the value indicators of the appraised land;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>the appraisal of the land and of the improvements and of their total; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1459__subsec_c__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>any other information which may be deemed useful to the county appraiser or may be prescribed by the director of property valuation. If the appraisal record is contained on a card, the card shall have enough columns to show changes and appraised value of five or more successive years.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1459__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If it is found advisable, combine the land appraisal record and the improvements appraisal record provided for in subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1459__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1459__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>showing all information required therein.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1459__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Annually, as of January 1, classify all taxable and exempt real and personal property into one of the following classifications: Residential . Residential property shall include all land and improvements utilized or intended to be utilized as a dwelling or home, including all land and improvements whether or not contiguous to the land accommodating a dwelling or home used to store household goods and personal effects not used for the production of income. Commercial . Commercial property shall include all land and improvements utilized or intended to be utilized as a business or income producing enterprise and all personal property subject to ad valorem taxation listed on commercial personal property statements. Agricultural . Agricultural property shall include all land and improvements utilized or intended to be utilized for the production of livestock or crops and all personal property listed on agricultural personal property statements. State Appraised . State appraised property shall include all property designated by statute to be appraised by the director of the division of property valuation. Public Service . Public service property shall include all land and improvements utilized for benevolent, charitable, religious or governmental purposes and all personal property listed on public service personal property statements. The county appraiser shall, annually, as of January 1, subclassify each major classification of all taxable and exempt, real and personal property in a manner prescribed by the director of the division of property valuation.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

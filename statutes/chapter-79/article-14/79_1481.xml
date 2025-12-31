@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1481"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1481"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1481/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1481/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1481/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1481/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1481">
+            <num>79-1481</num>
+            <heading>Statewide reappraisal of real property; class assessment changes prohibited unless approved by state board of tax appeals; procedure</heading>
+            <content>
+              <p>79-1481. Statewide reappraisal of real property; class assessment changes prohibited unless approved by state board of tax appeals; procedure. No hearing officer or panel shall issue an order applicable uniformly to all property in any class in any area or areas of the county, which order changes the assessment of such class of property in such area or areas, without the approval of the state  board of tax appeals. Whenever any hearing officer or panel proposes to issue any such order, it shall make written application to the state  board of tax appeals for a hearing on such matter if such change constitutes the final decision of the county. The state  board of tax appeals shall set a time and place for a hearing thereon within five days of receipt of such application. The hearing shall be conducted in accordance with the provisions of the Kansas administrative procedure act. The time set for hearing such matter shall in no event be more than 30 days following the date of receipt of such application. The state  board of tax appeals shall notify the hearing officer or panel, the county or district appraiser and the director of property valuation, of the time and place set for hearing. The director of property valuation shall be made a party to such hearing.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

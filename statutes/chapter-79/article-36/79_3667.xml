@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3667"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3667"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3667/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3667/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3667/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3667/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3667">
+            <num>79-3667</num>
+            <heading>Same; liability for errors in sales tax collection of sellers and certified service providers; database use and requirements</heading>
+            <content>
+              <p>79-3667. Same; liability for errors in sales tax collection of sellers and certified service providers; database use and requirements. On and after the databases are developed pursuant to subsections (a), (b) and (c) of K.S.A. 79-3668, and amendments thereto, and after the state has joined and become a member of the agreement, sellers and certified service providers (CSPs) using databases pursuant to subsections (c) and (d) of K.S.A. 79-3668, and amendments thereto, are relieved from liability for state and local sales and use tax for having charged and collected the incorrect amount of sales tax resulting from the seller or certified service provider relying on erroneous data provided by the secretary on tax rates, boundaries or taxing jurisdiction assignments. If the secretary provides an address-based database for assigning taxing jurisdictions that meets the requirements developed pursuant [to] subsection (d) of K.S.A. 79-3668, and amendments thereto, and after the secretary has provided adequate notice as determined by the secretary, no liability relief is provided to sellers or certified service providers for errors resulting from reliance on the information provided under the provisions of subsection (c) of K.S.A. 79-3668, and amendments thereto. If a seller demonstrates that requiring the use of the address-based database would create an undue hardship, the secretary may extend the relief from liability to such seller for a designated period of time.</p>
+            </content>
+            <subsection eId="79_3667__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3667__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of K.S.A. 79-3668, and amendments thereto, and after the state has joined and become a member of the agreement, sellers and certified service providers (CSPs) using databases pursuant to subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3667__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3667__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of K.S.A. 79-3668, and amendments thereto, are relieved from liability for state and local sales and use tax for having charged and collected the incorrect amount of sales tax resulting from the seller or certified service provider relying on erroneous data provided by the secretary on tax rates, boundaries or taxing jurisdiction assignments. If the secretary provides an address-based database for assigning taxing jurisdictions that meets the requirements developed pursuant [to] subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3667__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of K.S.A. 79-3668, and amendments thereto, and after the secretary has provided adequate notice as determined by the secretary, no liability relief is provided to sellers or certified service providers for errors resulting from reliance on the information provided under the provisions of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3667__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of K.S.A. 79-3668, and amendments thereto. If a seller demonstrates that requiring the use of the address-based database would create an undue hardship, the secretary may extend the relief from liability to such seller for a designated period of time.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

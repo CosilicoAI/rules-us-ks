@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3276"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3276"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3276/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3276/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3276/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3276/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3276">
+            <num>79-3276</num>
+            <heading>Same; capital gains and losses from sales of property</heading>
+            <content>
+              <p>79-3276. Same; capital gains and losses from sales of property. (a) Capital gains and losses from sales of real property located in this state are allocable to this state. (b) Capital gains and losses from sales of tangible personal property are allocable to this state if (1) the property had a situs in this state at the time of the sale, or (2) the taxpayer's commercial domicile is in this state and the taxpayer is not taxable in the state in which the property had a situs. (c) Capital gains and losses from sales of intangible personal property are allocable to this state if the taxpayer's commercial domicile is in this state.</p>
+            </content>
+            <subsection eId="79_3276__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Capital gains and losses from sales of real property located in this state are allocable to this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3276__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Capital gains and losses from sales of tangible personal property are allocable to this state if</p>
+              </content>
+              <paragraph eId="79_3276__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>the property had a situs in this state at the time of the sale, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3276__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the taxpayer's commercial domicile is in this state and the taxpayer is not taxable in the state in which the property had a situs.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3276__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Capital gains and losses from sales of intangible personal property are allocable to this state if the taxpayer's commercial domicile is in this state.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3321"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3321"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3321/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3321/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3321/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3321/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3321">
+            <num>79-3321</num>
+            <heading>Unlawful acts</heading>
+            <content>
+              <p>79-3321. Unlawful acts. It shall be unlawful for any person: (a) Except as otherwise specifically provided by this act, to possess, sell, transport, import, distribute, wholesale or manufacture more than 1,000 cigarettes without the required tax indicia being affixed as herein provided. (b) To mutilate or attach to any individual package of cigarettes any stamp that has in any manner been mutilated or that has been heretofore attached to a different individual package of cigarettes or to have in possession any stamps so mutilated. (c) To prevent the director or any officer or agent authorized by law, to make a full inspection for the purpose of this act, of any place of business and all premises connected thereto where cigarettes are or may be manufactured, sold, distributed, or given away. (d) To use any artful device or deceptive practice to conceal any violation of this act or to mislead the director or officer or agent authorized by law in the enforcement of this act. (e) Who is a dealer to fail to produce on demand of the director or any officer or agent authorized by law any records or invoices required to be kept by such person. (f) Knowingly to make, use, or present to the director or agent thereof any falsified invoice or falsely state the nature or quantity of the goods invoiced. (g) Who is a dealer to fail or refuse to keep and preserve for the time and in the manner required by this act all the records required by this act to be kept and preserved. (h) To wholesale cigarettes to any person, other than a manufacturer's salesperson, retail dealer or wholesaler who is: (1) Duly licensed by the state where such manufacturer's salesperson, retail dealer or wholesaler is located; or (2) exempt from state licensing under applicable state or federal laws or court decisions including any such person operating as a retail dealer upon land allotted to or held in trust for an Indian tribe recognized by the United States bureau of Indian affairs. (i) To have in possession any evidence of tax indicia provided for herein not purchased from the director. (j) To fail or refuse to permit the director or any officer or agent authorized by law to inspect a carrier transporting cigarettes. (k) To vend small cigars, or any products so wrapped as to be confused with cigarettes, from a machine vending cigarettes, nor shall a vending machine be so built to vend cigars or products that may be confused with cigarettes, be attached to a cigarette vending machine. (l) To sell, furnish or distribute cigarettes, electronic cigarettes or tobacco products to any person under 21 years of age. (m) Who is under 21 years of age to purchase or attempt to purchase cigarettes, electronic cigarettes or tobacco products. (n) Who is under 21 years of age to possess or attempt to possess cigarettes, electronic cigarettes or tobacco products. (o) To sell cigarettes to a retailer or at retail that do not bear Kansas tax indicia or upon which the Kansas cigarette tax has not been paid. (p) To sell cigarettes without having a license for such sale as provided herein. (q) To sell a vending machine without having a vending machine distributor's license. (r) Who is a retail dealer to fail to post and maintain in a conspicuous place in the dealer's establishment the following notice: &quot;By law, cigarettes, electronic cigarettes and tobacco products may be sold only to persons 21 years of age and older.&quot; (s) To distribute samples within 500 feet of any school when such facility is being used primarily by persons under 21 years of age unless the sampling is: (1) In an area to which persons under 21 years of age are denied access; (2) in or at a retail location where cigarettes and tobacco products are the primary commodity offered for sale at retail; or (3) at or adjacent to an outdoor production, repair or construction site or facility. (t) To sell cigarettes, electronic cigarettes or tobacco products by means of a vending machine, including vending machines that sell packaged, single cigarettes, in any establishment, or portion of an establishment, which is open to minors, except that this subsection shall not apply to: (1) The installation and use by the proprietor of the establishment, or by the proprietor's agents or employees, of vending machines behind a counter, or in some place in such establishment, or portion thereof, to which minors are prohibited by law from having access; or (2) the installation and use of a vending machine in a commercial building or industrial plant, or portions thereof, where the public is not customarily admitted and where machines are intended for the sole use of adult employees employed in the building or plant. (u) To sell cigarettes, electronic cigarettes or tobacco products by means of a self-service display in any establishment, except that the provisions of this subsection shall not apply to: (1) A vending machine that is permitted under subsection (t); (2) a self-service display that is located in a tobacco specialty store; or (3) a self-service display located in a facility where the retailer ensures that no person younger than 21 years of age is present or permitted to enter at any time. (v) To sell or distribute in this state; to acquire, hold, own, possess or transport for sale or distribution in this state; or to import or cause to be imported, into this state for sale or distribution in this state: (1) Any cigarettes the package of which: (A) Bears any statement, label, stamp, sticker or notice indicating that the manufacturer did not intend the cigarettes to be sold, distributed or used in the United States, including, but not limited to, labels stating &quot;For Export Only,&quot; &quot;U.S. Tax-Exempt,&quot; &quot;For Use Outside U.S.&quot; or similar wording; or (B) does not comply with: (i) All requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged or imported for sale, distribution or use in the United States, including but not limited to the precise warning labels specified in the federal cigarette labeling and advertising act, 15 U.S.C. § 1333; and (ii) all federal trademark and copyright laws; (2) any cigarettes imported into the United States in violation of 26 U.S.C. § 5754 or any other federal law, or federal regulations implementing such laws; (3) any cigarettes that such person otherwise knows or has reason to know the manufacturer did not intend to be sold, distributed or used in the United States; or (4) any cigarettes for which there has not been submitted to the secretary of the U.S. department of health and human services the list or lists of the ingredients added to tobacco in the manufacture of such cigarettes required by the federal cigarette labeling and advertising act, 15 U.S.C. § 1335a. (w) To alter the package of any cigarettes, prior to sale or distribution to the ultimate consumer, so as to remove, conceal or obscure: (1) Any statement, label, stamp, sticker or notice described in subsection (v); or (2) any health warning that is not specified in, or does not conform with, the requirements of, the federal cigarette labeling and advertising act, 15 U.S.C. § 1333. (x) To affix any stamp required pursuant to K.S.A. 79-3311, and amendments thereto, to the package of any cigarettes described in subsection (v) or altered in violation of subsection (w). (y) To possess, sell, transport, import, distribute, wholesale or manufacture cigarettes, smokeless tobacco or roll-your-own tobacco in violation of K.S.A. 50-6a01 et seq., and amendments thereto. (z) To sell cigarettes, smokeless tobacco or roll-your-own tobacco in any manner that is not a direct, face-to-face exchange between the retailer and the consumer, except: (1) Mail-order sales, which shall not include mail-order redemption coupons and distribution of free samples through the mail; (2) vending machines as provided in subsection (t); and (3) self-service displays as provided in subsection (u).</p>
+            </content>
+            <subsection eId="79_3321__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise specifically provided by this act, to possess, sell, transport, import, distribute, wholesale or manufacture more than 1,000 cigarettes without the required tax indicia being affixed as herein provided.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>To mutilate or attach to any individual package of cigarettes any stamp that has in any manner been mutilated or that has been heretofore attached to a different individual package of cigarettes or to have in possession any stamps so mutilated.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>To prevent the director or any officer or agent authorized by law, to make a full inspection for the purpose of this act, of any place of business and all premises connected thereto where cigarettes are or may be manufactured, sold, distributed, or given away.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>To use any artful device or deceptive practice to conceal any violation of this act or to mislead the director or officer or agent authorized by law in the enforcement of this act.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>Who is a dealer to fail to produce on demand of the director or any officer or agent authorized by law any records or invoices required to be kept by such person.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Knowingly to make, use, or present to the director or agent thereof any falsified invoice or falsely state the nature or quantity of the goods invoiced.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>Who is a dealer to fail or refuse to keep and preserve for the time and in the manner required by this act all the records required by this act to be kept and preserved.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>To wholesale cigarettes to any person, other than a manufacturer's salesperson, retail dealer or wholesaler who is:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_h__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Duly licensed by the state where such manufacturer's salesperson, retail dealer or wholesaler is located; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_h__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>exempt from state licensing under applicable state or federal laws or court decisions including any such person operating as a retail dealer upon land allotted to or held in trust for an Indian tribe recognized by the United States bureau of Indian affairs.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>To have in possession any evidence of tax indicia provided for herein not purchased from the director.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>To fail or refuse to permit the director or any officer or agent authorized by law to inspect a carrier transporting cigarettes.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>To vend small cigars, or any products so wrapped as to be confused with cigarettes, from a machine vending cigarettes, nor shall a vending machine be so built to vend cigars or products that may be confused with cigarettes, be attached to a cigarette vending machine.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>To sell, furnish or distribute cigarettes, electronic cigarettes or tobacco products to any person under 21 years of age.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>Who is under 21 years of age to purchase or attempt to purchase cigarettes, electronic cigarettes or tobacco products.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>Who is under 21 years of age to possess or attempt to possess cigarettes, electronic cigarettes or tobacco products.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>To sell cigarettes to a retailer or at retail that do not bear Kansas tax indicia or upon which the Kansas cigarette tax has not been paid.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>To sell cigarettes without having a license for such sale as provided herein.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>To sell a vending machine without having a vending machine distributor's license.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>Who is a retail dealer to fail to post and maintain in a conspicuous place in the dealer's establishment the following notice: &quot;By law, cigarettes, electronic cigarettes and tobacco products may be sold only to persons 21 years of age and older.&quot;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>To distribute samples within 500 feet of any school when such facility is being used primarily by persons under 21 years of age unless the sampling is:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_s__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>In an area to which persons under 21 years of age are denied access;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_s__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>in or at a retail location where cigarettes and tobacco products are the primary commodity offered for sale at retail; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_s__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>at or adjacent to an outdoor production, repair or construction site or facility.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_t">
+              <num>(t)</num>
+              <content>
+                <p>To sell cigarettes, electronic cigarettes or tobacco products by means of a vending machine, including vending machines that sell packaged, single cigarettes, in any establishment, or portion of an establishment, which is open to minors, except that this subsection shall not apply to:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_t__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The installation and use by the proprietor of the establishment, or by the proprietor's agents or employees, of vending machines behind a counter, or in some place in such establishment, or portion thereof, to which minors are prohibited by law from having access; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_t__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the installation and use of a vending machine in a commercial building or industrial plant, or portions thereof, where the public is not customarily admitted and where machines are intended for the sole use of adult employees employed in the building or plant.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_u">
+              <num>(u)</num>
+              <content>
+                <p>To sell cigarettes, electronic cigarettes or tobacco products by means of a self-service display in any establishment, except that the provisions of this subsection shall not apply to:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_u__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>A vending machine that is permitted under subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_u__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>a self-service display that is located in a tobacco specialty store; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_u__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>a self-service display located in a facility where the retailer ensures that no person younger than 21 years of age is present or permitted to enter at any time.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>To sell or distribute in this state; to acquire, hold, own, possess or transport for sale or distribution in this state; or to import or cause to be imported, into this state for sale or distribution in this state:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_v__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any cigarettes the package of which: (A) Bears any statement, label, stamp, sticker or notice indicating that the manufacturer did not intend the cigarettes to be sold, distributed or used in the United States, including, but not limited to, labels stating &quot;For Export Only,&quot; &quot;U.S. Tax-Exempt,&quot; &quot;For Use Outside U.S.&quot; or similar wording; or (B) does not comply with:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>All requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged or imported for sale, distribution or use in the United States, including but not limited to the precise warning labels specified in the federal cigarette labeling and advertising act, 15 U.S.C. § 1333; and (ii) all federal trademark and copyright laws;</p>
+              </content>
+              <paragraph eId="79_3321__subsec_i__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>any cigarettes imported into the United States in violation of 26 U.S.C. § 5754 or any other federal law, or federal regulations implementing such laws;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_i__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>any cigarettes that such person otherwise knows or has reason to know the manufacturer did not intend to be sold, distributed or used in the United States; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_i__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>any cigarettes for which there has not been submitted to the secretary of the U.S. department of health and human services the list or lists of the ingredients added to tobacco in the manufacture of such cigarettes required by the federal cigarette labeling and advertising act, 15 U.S.C. § 1335a.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>To alter the package of any cigarettes, prior to sale or distribution to the ultimate consumer, so as to remove, conceal or obscure:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_w__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Any statement, label, stamp, sticker or notice described in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_w__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>any health warning that is not specified in, or does not conform with, the requirements of, the federal cigarette labeling and advertising act, 15 U.S.C. § 1333.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3321__subsec_x">
+              <num>(x)</num>
+              <content>
+                <p>To affix any stamp required pursuant to K.S.A. 79-3311, and amendments thereto, to the package of any cigarettes described in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or altered in violation of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_y">
+              <num>(y)</num>
+              <content>
+                <p>To possess, sell, transport, import, distribute, wholesale or manufacture cigarettes, smokeless tobacco or roll-your-own tobacco in violation of K.S.A. 50-6a01 et seq., and amendments thereto.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3321__subsec_z">
+              <num>(z)</num>
+              <content>
+                <p>To sell cigarettes, smokeless tobacco or roll-your-own tobacco in any manner that is not a direct, face-to-face exchange between the retailer and the consumer, except:</p>
+              </content>
+              <paragraph eId="79_3321__subsec_z__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Mail-order sales, which shall not include mail-order redemption coupons and distribution of free samples through the mail;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_z__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>vending machines as provided in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3321__subsec_z__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>self-service displays as provided in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

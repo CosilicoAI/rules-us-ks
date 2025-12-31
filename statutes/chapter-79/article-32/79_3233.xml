@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3233"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3233"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3233/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3233/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3233/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3233/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3233">
+            <num>79-3233</num>
+            <heading>Powers of secretary or designee</heading>
+            <content>
+              <p>79-3233. Powers of secretary or designee. (a) This act shall be administered by the secretary of revenue. For the purpose of ascertaining the correctness of any return or for the purpose of making an estimate of the taxable income of any taxpayer, the secretary shall have power to examine, or cause to be examined by any agent or representative designated by the secretary for that purpose, any books, papers, records or memoranda, bearing upon the matters required to be included in the return, and may require the attendance of the taxpayer in the county where the taxpayer resides, or where the source of the major portion of the taxpayer's income in question is derived, or of any person having knowledge in the premises, and may take testimony and require proof of such person or persons. The secretary may issue subpoenas to compel access to or for the production of such books, papers, records or memoranda in the custody of or to which the taxpayer has access, or to compel the appearance of such persons, and may issue interrogatories to any such person to the same extent and subject to the same limitations as would apply if the subpoena or interrogatories were issued or served in aid of a civil action in the district court. The secretary may administer oaths and take depositions to the same extent and subject to the same limitations as would apply if the deposition was in aid of a civil action in the district court. In case of the refusal of any person to comply with any subpoena or interrogatory or to testify to any matter regarding which such person may be lawfully questioned, the district court of any county may, upon application of the secretary, order such person to comply with such subpoena or interrogatory or to testify. Failure to obey the court's order may be punished by the court as contempt. Subpoenas or interrogatories issued under the provisions of this section may be served upon individuals and corporations in the manner provided in K.S.A. 60-304, and amendments thereto, for the service of process by any officer authorized to serve subpoenas in civil actions or by the secretary. (b) As used in this section and in K.S.A. 79-3233a, 79-3233b, 79-3233g, 79-3233h and 79-3233i, and amendments thereto, &quot;secretary&quot; means the secretary of revenue or the designee of such secretary.</p>
+            </content>
+            <subsection eId="79_3233__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>This act shall be administered by the secretary of revenue. For the purpose of ascertaining the correctness of any return or for the purpose of making an estimate of the taxable income of any taxpayer, the secretary shall have power to examine, or cause to be examined by any agent or representative designated by the secretary for that purpose, any books, papers, records or memoranda, bearing upon the matters required to be included in the return, and may require the attendance of the taxpayer in the county where the taxpayer resides, or where the source of the major portion of the taxpayer's income in question is derived, or of any person having knowledge in the premises, and may take testimony and require proof of such person or persons. The secretary may issue subpoenas to compel access to or for the production of such books, papers, records or memoranda in the custody of or to which the taxpayer has access, or to compel the appearance of such persons, and may issue interrogatories to any such person to the same extent and subject to the same limitations as would apply if the subpoena or interrogatories were issued or served in aid of a civil action in the district court. The secretary may administer oaths and take depositions to the same extent and subject to the same limitations as would apply if the deposition was in aid of a civil action in the district court. In case of the refusal of any person to comply with any subpoena or interrogatory or to testify to any matter regarding which such person may be lawfully questioned, the district court of any county may, upon application of the secretary, order such person to comply with such subpoena or interrogatory or to testify. Failure to obey the court's order may be punished by the court as contempt. Subpoenas or interrogatories issued under the provisions of this section may be served upon individuals and corporations in the manner provided in K.S.A. 60-304, and amendments thereto, for the service of process by a</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3233__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this section and in K.S.A. 79-3233a, 79-3233b, 79-3233g, 79-3233h and 79-3233i, and amendments thereto, &quot;secretary&quot; means the secretary of revenue or the designee of such secretary.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

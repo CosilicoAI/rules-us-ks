@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1486"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1486"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1486/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1486/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1486/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1486/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1486">
+            <num>79-1486</num>
+            <heading>Same; definitions</heading>
+            <content>
+              <p>79-1486. Same; definitions. As used in this act: (a) &quot;Sale&quot; or &quot;sales&quot; shall include all transfers of real estate for which a real estate sales validation questionnaire is required by K.S.A. 79-1437c, and amendments thereto; however, all sales for which a real estate sales validation questionnaire is required by K.S.A. 79-1437c, and amendments thereto, need not be included in the final ratios determined; (b) &quot;valid sale&quot; is a sale that is an indicator of fair market value as defined in K.S.A. 79-503a, and amendments thereto; (c) &quot;invalid sale&quot; is a sale that is not an indicator of fair market value as defined in K.S.A. 79-503a, and amendments thereto; (d) &quot;unvalidated sale&quot; is a residential subclass sale that was not selected through a random sampling process and has not been determined to be either a valid sale or an invalid sale; (e) &quot;real estate&quot; shall include land, improvements and structures which are appraised as real property; (f) &quot;director&quot; shall mean the director of property valuation; (g) &quot;classification&quot; shall mean those classifications which apply to real property contained in K.S.A. 79-1439, and amendments thereto, or any stratification which may be prescribed by the director; (h) &quot;average&quot; shall mean that measure or measures of central tendency which the director shall determine best describes a group of individual ratios; (i) &quot;ratio&quot; shall mean the numerical relationship between the appraised or assessed value and the selling price; and (j) &quot;study year&quot; shall mean that twelve-month period beginning annually on January 1.</p>
+            </content>
+            <subsection eId="79_1486__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Sale&quot; or &quot;sales&quot; shall include all transfers of real estate for which a real estate sales validation questionnaire is required by K.S.A. 79-1437c, and amendments thereto; however, all sales for which a real estate sales validation questionnaire is required by K.S.A. 79-1437c, and amendments thereto, need not be included in the final ratios determined;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;valid sale&quot; is a sale that is an indicator of fair market value as defined in K.S.A. 79-503a, and amendments thereto;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;invalid sale&quot; is a sale that is not an indicator of fair market value as defined in K.S.A. 79-503a, and amendments thereto;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;unvalidated sale&quot; is a residential subclass sale that was not selected through a random sampling process and has not been determined to be either a valid sale or an invalid sale;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;real estate&quot; shall include land, improvements and structures which are appraised as real property;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;director&quot; shall mean the director of property valuation;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;classification&quot; shall mean those classifications which apply to real property contained in K.S.A. 79-1439, and amendments thereto, or any stratification which may be prescribed by the director;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;average&quot; shall mean that measure or measures of central tendency which the director shall determine best describes a group of individual ratios;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;ratio&quot; shall mean the numerical relationship between the appraised or assessed value and the selling price; and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1486__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;study year&quot; shall mean that twelve-month period beginning annually on January 1.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

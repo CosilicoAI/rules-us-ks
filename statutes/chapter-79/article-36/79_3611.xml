@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3611"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3611"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3611/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3611/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3611/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3611/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3611">
+            <num>79-3611</num>
+            <heading>Investigations and hearings</heading>
+            <content>
+              <p>79-3611. Investigations and hearings. For the purpose of ascertaining the correctness of any return, or for the purpose of determining the amount of tax due from any person engaged in the business of selling tangible personal property at retail, or furnishing services taxable hereunder, the director of taxation, or any officer or employee of the director of taxation designated, in writing, may hold investigations and hearings concerning any matters covered by this act, and may examine any books, papers, records, or memoranda bearing upon such sales of any such person, and may require the attendance of such person or any officer or employee of such person, or of any person having knowledge of such sales, and may take testimony and require proof for its information. In the conduct of any investigation or hearing, neither the director nor any officer or employee thereof shall be bound by the technical rules of evidence, and no informality in any proceeding, or in the manner of taking testimony, shall invalidate any order or decision made or approved by the director. The director, or any officer or employee thereof, shall have power to administer oaths to such persons.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

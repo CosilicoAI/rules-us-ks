@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3093"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3093"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3093/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3093/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3093/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3093/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_30">
+          <num>Article 30</num>
+          <heading>Excise and Sales Taxes</heading>
+          <section eId="sec_79_3093">
+            <num>79-3093</num>
+            <heading>Act supplemental to motor fuel or special fuel tax laws</heading>
+            <content>
+              <p>79-3093. Act supplemental to motor fuel or special fuel tax laws. The terms and provisions of this act shall be wholly supplemental and in addition to any motor fuel or special fuel tax which has been heretofore or may hereafter be enacted, and said act shall and is hereby declared to be wholly self-contained and effective in all matters, except as may be specifically provided herein.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

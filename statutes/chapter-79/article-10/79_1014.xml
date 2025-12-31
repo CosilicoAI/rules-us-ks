@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1014"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1014"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1014/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1014/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1014/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1014/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_10">
+          <num>Article 10</num>
+          <heading>Merchants, Manufacturers, Motor Vehicle Dealers and Certain Contractors</heading>
+          <section eId="sec_79_1014">
+            <num>79-1014</num>
+            <heading>Same; administration of act; rules and regulations; release of bond</heading>
+            <content>
+              <p>79-1014. Same; administration of act; rules and regulations; release of bond. The secretary of revenue or the secretary's designee shall administer this act. The secretary shall adopt rules and regulations for the administration of this act. No bonds required under this act shall be released until the contract for which any such bond is given shall be fully performed, nor until the secretary or the secretary's designee shall obtain a written release from the secretary of labor certifying that all contributions and interest due by the principal on such bond, under the employment security law, have been paid in full.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

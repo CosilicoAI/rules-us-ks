@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-336"/>
+          <FRBRuri value="/us-ks/act/ksa/79-336"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-336/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-336/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-336/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-336/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_3">
+          <num>Article 3</num>
+          <heading>Listing Property for Taxation</heading>
+          <section eId="sec_79_336">
+            <num>79-336</num>
+            <heading>Section 79-336</heading>
+            <content>
+              <p>2023-2024
+Legislative Sessions
+Return to current session
+Home •
+News •
+Contact •
+House
+Leadership
+Committees
+Rules
+Current Events
+Seating Chart
+Roster
+Chief Clerk of the House
+Senate
+Leadership
+Committees
+Confirmations
+Rules
+Current Events
+Seating Chart
+Roster
+Secretary of the Senate
+Legislators
+House Leadership
+House Roster
+Senate Leadership
+Senate Roster
+Committees
+Committees
+Standing
+Joint
+Special and Select
+Commission
+Subcommittee
+Task Force
+Other
+Conference Schedules
+Conference Committees
+Committee Bill Hearings
+Bills &amp; Laws
+Senate Bills
+House Bills
+Statute
+Reports
+Actions and Subject Index Report
+How a bill becomes law (pdf)
+Kansas Constitution
+Contact the Revisor
+Journals
+House Journal
+Senate Journal
+What is a Journal?
+Calendars
+House Calendar
+Senate Calendar
+What Is A Calendar?
+Research
+Memos/Reports/Publications
+Appropriations
+Revenue/Taxation
+Redistricting
+About KLRD
+Historical
+2025-26 Regular Sessions
+2024 Special Session
+2021-2022 Regular Sessions
+2021 Special Session
+2020 Special Session
+2019-2020 Regular Sessions
+2017-2018 Regular Sessions
+2016 Special Session
+2015-2016 Regular Sessions
+2013-2014 Regular Sessions
+2013 Special Session
+2011-2012 Regular Sessions
+1997 - 2010 Sessions
+2000 - 2010 Committee Data
+Find Bill
+Bill/Resolution Lookup:
+Find Your Legislator
+Chamber:
+Both Chambers
+Senate
+House
+Party:
+All Parties
+Republican
+Democrat
+Search by Your Address
+Legislative Deadlines
+Senate Deadlines
+(PDF)
+House Deadlines
+(PDF)
+Current Events
+Statute
+Legislative Resources
+Administrative Services
+Division of Post Audit
+Information Services
+Research Department
+Revisor of Statutes
+LCC Policies
+About the Legislature
+Other State Resources
+Kansas.gov
+Ethics Commission
+How Do I…
+Become A Legislative Intern
+Become A Legislative Page
+Apply For Session Work
+Dec. 31, 2025
+-A
++A
+House Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+Senate Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+you are here:
+Home
+»
+Statute
+»
+Chapter 79
+»
+Article 33
+»
+Section 6
+»
+2024
+ Statute
+Prev
+Article 33. - CIGARETTES AND TOBACCO PRODUCTS
+Next
+79-3306.
+License; application forms; issuance.
+Licenses shall be issued by the director for a biennium or portion thereof upon application for the license made on forms furnished by the director containing such information as the director may require subscribed to by the applicant or the applicant's authorized representative.
+History:
+L. 1933, ch. 122, § 6 (Special Session); L. 1939, ch. 329, § 6; L. 1967, ch. 498, § 5; L. 1985, ch. 326, § 2; April 25.
+Prev
+Article 33. - CIGARETTES AND TOBACCO PRODUCTS
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T10:14:17. Head Rev No: 1485844(I)</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3676"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3676"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3676/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3676/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3676/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3676/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3676">
+            <num>79-3676</num>
+            <heading>Same; computation of tax by sellers</heading>
+            <content>
+              <p>79-3676. Same; computation of tax by sellers. (a) When the seller is computing the amount of tax owed by the purchaser and remitted to the state: (1) Tax computation must be carried to the third decimal place; and (2) the tax must be rounded to a whole cent using a method that rounds up to the next cent whenever the third decimal place is greater than four. (b) Sellers may elect to compute the tax due on a transaction on an item or an invoice basis. The rounding rule may be applied to the aggregated state and local taxes.</p>
+            </content>
+            <subsection eId="79_3676__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>When the seller is computing the amount of tax owed by the purchaser and remitted to the state:</p>
+              </content>
+              <paragraph eId="79_3676__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Tax computation must be carried to the third decimal place; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3676__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax must be rounded to a whole cent using a method that rounds up to the next cent whenever the third decimal place is greater than four.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3676__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Sellers may elect to compute the tax due on a transaction on an item or an invoice basis. The rounding rule may be applied to the aggregated state and local taxes.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

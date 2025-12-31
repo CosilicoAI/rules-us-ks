@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3652"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3652"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3652/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3652/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3652/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3652/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3652">
+            <num>79-3652</num>
+            <heading>Rights and privileges of audited taxpayers</heading>
+            <content>
+              <p>79-3652. Rights and privileges of audited taxpayers. In addition to any other rights and privileges provided by law under the Kansas retailers' sales tax and Kansas compensating tax acts, the secretary of revenue shall promulgate rules and directives under which the taxpayer shall be provided: (a) A copy of all work-papers compiled as a result of an audit of such taxpayer; (b) a personal or telephonic conference conducted by the director of taxation or agent of the director with the taxpayer or a representative of the taxpayer after completion of audit field work; and, if additional audit desk work is performed in the office subsequent to audit field work, a telephonic conference conducted by the director or agent of the director with the taxpayer or a representative of the taxpayer after completion of such subsequent audit desk work; and (c) consideration of the taxpayer's convenience, normal hours of operation, and the availability of administrative personnel resources in the scheduling of an audit by the director.</p>
+            </content>
+            <subsection eId="79_3652__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of all work-papers compiled as a result of an audit of such taxpayer;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3652__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>a personal or telephonic conference conducted by the director of taxation or agent of the director with the taxpayer or a representative of the taxpayer after completion of audit field work; and, if additional audit desk work is performed in the office subsequent to audit field work, a telephonic conference conducted by the director or agent of the director with the taxpayer or a representative of the taxpayer after completion of such subsequent audit desk work; and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3652__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>consideration of the taxpayer's convenience, normal hours of operation, and the availability of administrative personnel resources in the scheduling of an audit by the director.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

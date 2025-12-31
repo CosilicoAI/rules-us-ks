@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1113"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1113"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1113/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1113/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1113/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1113/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1113">
+            <num>79-1113</num>
+            <heading>National banking associations and banks and corporations holding stock therein; exemption from intangibles tax</heading>
+            <content>
+              <p>79-1113. National banking associations and banks and corporations holding stock therein; exemption from intangibles tax. Shares, shares of stock or other evidence of ownership of national banking associations and banks located or doing business within the state, and all income therefrom and the shares, shares of stock or other evidence of ownership of corporations holding stock of a national banking association or bank located or doing business in Kansas, to the extent the income of such corporation is attributable to dividends received on such stock, and all income therefrom, shall be exempt from the tax imposed on moneys, notes and other evidences of debt by K.S.A. 79-3109 and any amendments thereof.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

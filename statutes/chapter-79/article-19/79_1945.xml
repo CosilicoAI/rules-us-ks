@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1945"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1945"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1945/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1945/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1945/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1945/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_19">
+          <num>Article 19</num>
+          <heading>Limitations on Tax Levies</heading>
+          <section eId="sec_79_1945">
+            <num>79-1945</num>
+            <heading>Authority for counties to levy taxes</heading>
+            <content>
+              <p>79-1945. Authority for counties to levy taxes. The board of county commissioners of any county is hereby authorized and empowered to levy taxes in each year for the general fund and other county purposes. Revenues derived from property taxes levied for mental health programs or for programs for people with disabilities, whether deposited in special funds or in the general funds of the several counties, shall be expended exclusively for such purposes.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

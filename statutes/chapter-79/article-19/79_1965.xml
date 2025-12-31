@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1965"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1965"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1965/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1965/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1965/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1965/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_19">
+          <num>Article 19</num>
+          <heading>Limitations on Tax Levies</heading>
+          <section eId="sec_79_1965">
+            <num>79-1965</num>
+            <heading>Levies in excess of limitation unlawful; duty of county clerk to reduce levy and give notice thereof to taxing subdivision</heading>
+            <content>
+              <p>79-1965. Levies in excess of limitation unlawful; duty of county clerk to reduce levy and give notice thereof to taxing subdivision. Any amount of ad valorem tax to be levied for a fund of any taxing subdivision which is certified to the county clerk and produces a tax levy rate or amount that is in violation of the provisions of existing statutes, shall be unlawful, and in any such case it shall be unlawful for the county clerk of any county within the state to enter upon the tax roll of the county any such excessive levy. In case of any such excess in any levy the county clerk shall reduce the levy and extend upon the tax roll only the part thereof as will comply with the provisions of existing statutes. In the event the county clerk determines it is necessary to change any amount of ad valorem tax to be levied in a budget so certified, the county clerk shall give notice to the taxing subdivision affected at least seven days prior to making the change.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

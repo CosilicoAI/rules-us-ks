@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1468"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1468"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1468/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1468/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1468/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1468/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1468">
+            <num>79-1468</num>
+            <heading>Preparation and furnishing of taxing unit map by county clerk to county appraiser; contents</heading>
+            <content>
+              <p>79-1468. Preparation and furnishing of taxing unit map by county clerk to county appraiser; contents. On or before July 15, 1987, and on or before January 15 of each year thereafter, the county clerk shall prepare and forward to the county appraiser, director of property valuation and the state-assessed public utilities located in the county which are valued and assessed pursuant to K.S.A. 79-5a01 et seq., and amendments thereto, a taxing unit map showing the number and metes and bounds of every taxing unit or any portion of a taxing unit located within the county as the same exists on December 31 of the preceding year. In any year that such map would be identical to the most recently furnished map, the county clerk shall so certify in writing on or before January 15 in lieu of forwarding such map.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

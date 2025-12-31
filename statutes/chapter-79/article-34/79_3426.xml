@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3426"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3426"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3426/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3426/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3426/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3426/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3426">
+            <num>79-3426</num>
+            <heading>Information to other states</heading>
+            <content>
+              <p>79-3426. Information to other states. (a) The director, upon the request of the official of any other state entrusted with the enforcement of the motor-vehicle-fuels tax law of such other state, may forward to such official any information which the director may have in the director's possession relative to the manufacture, receipt, sale, delivery, use, transportation or shipment by any person of liquid fuels, and the director, upon request of any distributor, importer, exporter or retailer holding a valid license, shall furnish to such distributor, importer, exporter or retailer a list of the names and addresses of all the persons holding distributor's, importer's, exporter's or retailer's licenses issued and outstanding in this state. (b) The director, upon the request of the official entrusted with the enforcement of the fuel tax laws of any other state, the District of Columbia, the United States, its territories and possessions, the provinces of the Dominion of Canada, may forward to such official any information which the director may have in the director's possession relative to the manufacture, receipt, importation, sale, delivery, use, transportation or shipment by any person of special fuel as defined in this act.</p>
+            </content>
+            <subsection eId="79_3426__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director, upon the request of the official of any other state entrusted with the enforcement of the motor-vehicle-fuels tax law of such other state, may forward to such official any information which the director may have in the director's possession relative to the manufacture, receipt, sale, delivery, use, transportation or shipment by any person of liquid fuels, and the director, upon request of any distributor, importer, exporter or retailer holding a valid license, shall furnish to such distributor, importer, exporter or retailer a list of the names and addresses of all the persons holding distributor's, importer's, exporter's or retailer's licenses issued and outstanding in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3426__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director, upon the request of the official entrusted with the enforcement of the fuel tax laws of any other state, the District of Columbia, the United States, its territories and possessions, the provinces of the Dominion of Canada, may forward to such official any information which the director may have in the director's possession relative to the manufacture, receipt, importation, sale, delivery, use, transportation or shipment by any person of special fuel as defined in this act.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

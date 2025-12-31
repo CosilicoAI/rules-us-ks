@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2015"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2015/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2015/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2015">
+            <num>79-2015</num>
+            <heading>Actions for debt to collect taxes, fees, interest and penalties, when; remedies</heading>
+            <content>
+              <p>79-2015. Actions for debt to collect taxes, fees, interest and penalties, when; remedies. The taxes, fees, interest and penalties, levied and assessed by any state law administered by the secretary of revenue may be collected in the same manner as a personal debt of the taxpayer to the state of Kansas from the time the same shall become due, and shall be recoverable in any court of competent jurisdiction in any action in the name of the state of Kansas, on relation of the secretary of revenue or the secretary's designee. Such suit may be maintained, prosecuted, and all proceedings taken to the same effect and extent as for the enforcement of a right of action for debt. All provisional remedies available in such actions shall be, and are hereby made available to the state of Kansas in the enforcement of the payment of any state tax, except that the remedy herein provided shall be in addition to the various warrant and lien procedures now provided by law for the collection of delinquent taxes.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

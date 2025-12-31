@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3394"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3394"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3394/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3394/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3394/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3394/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3394">
+            <num>79-3394</num>
+            <heading>Use of minors to determine compliance, limitations</heading>
+            <content>
+              <p>79-3394. Use of minors to determine compliance, limitations. No person shall engage or direct a minor to violate any provision of this act for purposes of determining compliance with provisions of this act or the Kansas consumer protection act unless such person has procured the written consent of a parent or guardian of the minor to so engage or direct the minor and such person is: (a) An officer having authority to enforce the provisions of this act; (b) an authorized representative of the attorney general, a county attorney or a district attorney; or (c) an authorized representative of a business acting pursuant to a self-compliance program designed to increase compliance with the provisions of this act.</p>
+            </content>
+            <subsection eId="79_3394__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>An officer having authority to enforce the provisions of this act;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3394__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>an authorized representative of the attorney general, a county attorney or a district attorney; or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3394__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>an authorized representative of a business acting pursuant to a self-compliance program designed to increase compliance with the provisions of this act.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

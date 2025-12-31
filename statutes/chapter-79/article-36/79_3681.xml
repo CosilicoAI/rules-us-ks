@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3681"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3681"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3681/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3681/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3681/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3681/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3681">
+            <num>79-3681</num>
+            <heading>Same; methods of remittances</heading>
+            <content>
+              <p>79-3681. Same; methods of remittances. When registering under the agreement, the seller may select one of the following methods of remittances or other method allowed by K.S.A. 79-3607, and amendments thereto, to remit the taxes collected: (a) Model 1, wherein a seller selects a certified service provider as an agent to perform all the seller's sales or use tax functions, other than the seller's obligation to remit tax on its own purchases; (b) model 2, wherein a seller selects a certified automated system to use which calculates the amount of tax due on a transaction; or (c) model 3, wherein a seller utilizes its own proprietary automated sales tax system that has been certified as a certified automated system.</p>
+            </content>
+            <subsection eId="79_3681__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Model 1, wherein a seller selects a certified service provider as an agent to perform all the seller's sales or use tax functions, other than the seller's obligation to remit tax on its own purchases;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3681__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>model 2, wherein a seller selects a certified automated system to use which calculates the amount of tax due on a transaction; or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3681__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>model 3, wherein a seller utilizes its own proprietary automated sales tax system that has been certified as a certified automated system.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

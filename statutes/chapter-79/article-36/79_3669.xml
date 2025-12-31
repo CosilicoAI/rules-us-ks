@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3669"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3669"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3669/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3669/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3669/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3669/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3669">
+            <num>79-3669</num>
+            <heading>Same; sourcing of retail sales; application of sourcing rules</heading>
+            <content>
+              <p>79-3669. Same; sourcing of retail sales; application of sourcing rules. (a) The retail sale of a product shall be sourced in accordance with K.S.A. 79-3670, and amendments thereto. The provisions of K.S.A. 79-3670, and amendments thereto, apply regardless of the characterization of a product as tangible personal property, a digital good or a service. The provisions of K.S.A. 79-3670, and amendments thereto, only apply to determine a seller's obligation to pay or collect and remit a sales or use tax with respect to the seller's retail sale of a product. These provisions do not affect the obligation of a purchaser or lessee to remit tax on the use of the product to the taxing jurisdictions of that use. (b) K.S.A. 79-3670, and amendments thereto, does not apply to sales or use taxes levied on the following: (1) The retail sale or transfer of water craft, modular homes, manufactured homes or mobile homes. The retail sale of these items shall be sourced according to K.S.A. 12-191, and amendments thereto; (2) the retail sales, excluding lease or rental, of motor vehicles, trailers, semi-trailers or aircraft that do not qualify as transportation equipment, as defined in subsection (d) of K.S.A. 79-3670, and amendments thereto. The retail sale of these items shall be sourced according to K.S.A. 12-191, and amendments thereto, and the lease or rental of these items must be sourced according to subsection (c) of K.S.A. 79-3670, and amendments thereto; and (3) telecommunications services, as set out in K.S.A. 79-3673, and amendments thereto, and ancillary services, as defined in K.S.A. 79-3602, and amendments thereto, shall be sourced in accordance with K.S.A. 79-3673, and amendments thereto.</p>
+            </content>
+            <subsection eId="79_3669__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The retail sale of a product shall be sourced in accordance with K.S.A. 79-3670, and amendments thereto. The provisions of K.S.A. 79-3670, and amendments thereto, apply regardless of the characterization of a product as tangible personal property, a digital good or a service. The provisions of K.S.A. 79-3670, and amendments thereto, only apply to determine a seller's obligation to pay or collect and remit a sales or use tax with respect to the seller's retail sale of a product. These provisions do not affect the obligation of a purchaser or lessee to remit tax on the use of the product to the taxing jurisdictions of that use.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3669__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>K.S.A. 79-3670, and amendments thereto, does not apply to sales or use taxes levied on the following:</p>
+              </content>
+              <paragraph eId="79_3669__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The retail sale or transfer of water craft, modular homes, manufactured homes or mobile homes. The retail sale of these items shall be sourced according to K.S.A. 12-191, and amendments thereto;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3669__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the retail sales, excluding lease or rental, of motor vehicles, trailers, semi-trailers or aircraft that do not qualify as transportation equipment, as defined in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3669__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of K.S.A. 79-3670, and amendments thereto. The retail sale of these items shall be sourced according to K.S.A. 12-191, and amendments thereto, and the lease or rental of these items must be sourced according to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3669__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of K.S.A. 79-3670, and amendments thereto; and</p>
+              </content>
+              <paragraph eId="79_3669__subsec_c__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>telecommunications services, as set out in K.S.A. 79-3673, and amendments thereto, and ancillary services, as defined in K.S.A. 79-3602, and amendments thereto, shall be sourced in accordance with K.S.A. 79-3673, and amendments thereto.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3397"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3397"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3397/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3397/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3397/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3397/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3397">
+            <num>79-3397</num>
+            <heading>Enforcement of act; civil liability for violation of act</heading>
+            <content>
+              <p>79-3397. Enforcement of act; civil liability for violation of act. (a) The provisions of subsection (u), (v) or (w) of K.S.A. 79-3321 and K.S.A. 79-3395, and amendments thereto, shall be enforced by the director. At the request of the director or the director's duly authorized agent, the Kansas bureau of investigation and all local law enforcement agencies shall enforce such provisions. The attorney general shall have concurrent power with the district and county attorneys of the state to enforce such provisions. (b) For the purpose of enforcing the provisions of subsection (u), (v) or (w) of K.S.A. 79-3321 and K.S.A. 79-3395, and amendments thereto, the director and any agency to which the director shall have delegated enforcement responsibility pursuant to subsection (a) may request information from any state or local agency, and may share information with, and request information from, any federal agency and any agency of any other state or any local agency thereof. (c) Any person who may be damaged or injured by a violation of the provisions of subsection (u), (v) or (w) of K.S.A. 79-3321 or K.S.A. 79-3395, and amendments thereto, shall have a cause of action against any person causing such damage or injury. Such action may be brought by any person who is injured in such person's business or property by reason of any violation of such provisions, regardless of whether such injured person dealt directly or indirectly with the defendant. The plaintiff in any action commenced hereunder in the district court of the county wherein such plaintiff resides, or the district court of the county of the defendant's principal place of business, may sue for and recover treble the damages sustained. In addition, any person who is threatened with injury or additional injury by reason of any person's violation may commence an action in such district court to enjoin any such violation, and any damages suffered may be sued for and recovered in the same action in addition to injunctive relief. In any action commenced under this act, the plaintiff may be allowed reasonable attorney fees and costs. The remedies provided herein shall be alternative and in addition to any other remedies provided by law.</p>
+            </content>
+            <subsection eId="79_3397__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The provisions of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>of K.S.A. 79-3321 and K.S.A. 79-3395, and amendments thereto, shall be enforced by the director. At the request of the director or the director's duly authorized agent, the Kansas bureau of investigation and all local law enforcement agencies shall enforce such provisions. The attorney general shall have concurrent power with the district and county attorneys of the state to enforce such provisions.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of enforcing the provisions of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>of K.S.A. 79-3321 and K.S.A. 79-3395, and amendments thereto, the director and any agency to which the director shall have delegated enforcement responsibility pursuant to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may request information from any state or local agency, and may share information with, and request information from, any federal agency and any agency of any other state or any local agency thereof.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person who may be damaged or injured by a violation of the provisions of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3397__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>of K.S.A. 79-3321 or K.S.A. 79-3395, and amendments thereto, shall have a cause of action against any person causing such damage or injury. Such action may be brought by any person who is injured in such person's business or property by reason of any violation of such provisions, regardless of whether such injured person dealt directly or indirectly with the defendant. The plaintiff in any action commenced hereunder in the district court of the county wherein such plaintiff resides, or the district court of the county of the defendant's principal place of business, may sue for and recover treble the damages sustained. In addition, any person who is threatened with injury or additional injury by reason of any person's violation may commence an action in such district court to enjoin any such violation, and any damages suffered may be sued for and recovered in the same action in addition to injunctive relief. In any action commenced under this act, the plaintiff may be allowed reasonable attorney fees and costs. The remedies provided herein shall be alternative and in addition to any other remedies provided by law.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

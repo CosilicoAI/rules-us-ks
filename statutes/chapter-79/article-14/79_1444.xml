@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1444"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1444"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1444/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1444/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1444/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1444/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1444">
+            <num>79-1444</num>
+            <heading>Same; technical advisory committee; membership; qualifications; compensation and allowances; duties; additional advisory committee, appointment</heading>
+            <content>
+              <p>79-1444. Same; technical advisory committee; membership; qualifications; compensation and allowances; duties; additional advisory committee, appointment. There is hereby established a technical advisory committee on the assessment-sales ratio study. The committee shall consist of three (3) members, appointed by and serving at the pleasure of the secretary of revenue. Members of the committee shall have such education and training as may be necessary to advise the director in the methodology of conducting studies of the type required under the provisions of this act. Members of the advisory committee on assessment-sales ratio study attending meetings of such committee, or attending a subcommittee meeting thereof authorized by such committee, shall be paid amounts provided in subsection (e) of K.S.A. 75-3223 and amendments thereto. The same shall be paid from appropriations to the secretary of revenue upon warrants of the director of accounts and reports issued pursuant to vouchers approved by the secretary of revenue or a person or persons designated by him or her. It shall be the duty of the committee to advise and consult with and assist the director in the review and evaluation of the procedures used by the director of property valuation in making the assessment-sales ratio study and to make recommendations for any changes deemed necessary. It shall be the duty of the board of regents and the administration of each of the state institutions thereunder to authorize any staff members so selected to participate as members in the activities of such committee. The secretary of revenue may appoint an additional advisory committee of not to exceed seven (7) members to serve at his or her pleasure.</p>
+            </content>
+            <subsection eId="79_1444__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>of K.S.A. 75-3223 and amendments thereto. The same shall be paid from appropriations to the secretary of revenue upon warrants of the director of accounts and reports issued pursuant to vouchers approved by the secretary of revenue or a person or persons designated by him or her. It shall be the duty of the committee to advise and consult with and assist the director in the review and evaluation of the procedures used by the director of property valuation in making the assessment-sales ratio study and to make recommendations for any changes deemed necessary. It shall be the duty of the board of regents and the administration of each of the state institutions thereunder to authorize any staff members so selected to participate as members in the activities of such committee. The secretary of revenue may appoint an additional advisory committee of not to exceed seven</p>
+              </content>
+              <paragraph eId="79_1444__subsec_e__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>members to serve at his or her pleasure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

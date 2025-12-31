@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2019"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2019"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2019/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2019/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2019/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2019/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2019">
+            <num>79-2019</num>
+            <heading>Same; bond of contract collectors; report and accounting of taxes collected</heading>
+            <content>
+              <p>79-2019. Same; bond of contract collectors; report and accounting of taxes collected. Any attorney or collector, other than the sheriff, with whom the county has contracted for the collection of personal property taxes, shall furnish a good and sufficient bond, in an amount to be fixed by the board of county commissioners, for the faithful discharge of his or her duties and for the payment to the county of all moneys collected pursuant to time of the agreement. Each contract collector shall, on the tenth day of each month, file with the county treasurer a verified report and account of the taxes collected by him or her the preceding month, showing the name of each person from whom taxes were collected, the amount collected, and at the same time, he or she shall pay to the county treasurer the full amount collected.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

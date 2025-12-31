@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3378"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3378"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3378/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3378/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3378/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3378/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3378">
+            <num>79-3378</num>
+            <heading>Monthly tax returns; remittance of tax; deficiencies</heading>
+            <content>
+              <p>79-3378. Monthly tax returns; remittance of tax; deficiencies. (a) On or before the 20 th day of each calendar month every distributor with a place of business in this state shall file a return with the director showing the quantity and wholesale sales price of each tobacco product : (1) Brought, or caused to be brought, into this state for sale; and (2) made, manufactured, or fabricated in this state for sale in this state during the preceding calendar month. Every licensed distributor outside this state shall in like manner file a return showing the quantity and wholesale sales price of each tobacco product shipped or transported to retailers in this state to be sold by those retailers, during the preceding calendar month. Returns shall be made electronically in the manner prescribed by the director. Each return shall be accompanied by a remittance for the full tax liability shown therein, less 4% of such liability as compensation to reimburse the distributor for such distributor's expenses incurred in the administration of this act. (b) As soon as practicable after any return is filed, the director shall examine the return. If the director finds that, in the director's judgment, the return is incorrect and any amount of tax is due from the distributor and unpaid, the director shall notify the distributor of the deficiency. If a deficiency disclosed by the director's examination cannot be allocated by the director to a particular month or months, the director may nevertheless notify the distributor that a deficiency exists and state the amount of tax due. Such notice shall be given to the distributor by registered or certified mail.</p>
+            </content>
+            <subsection eId="79_3378__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On or before the 20 th day of each calendar month every distributor with a place of business in this state shall file a return with the director showing the quantity and wholesale sales price of each tobacco product :</p>
+              </content>
+              <paragraph eId="79_3378__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Brought, or caused to be brought, into this state for sale; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3378__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>made, manufactured, or fabricated in this state for sale in this state during the preceding calendar month. Every licensed distributor outside this state shall in like manner file a return showing the quantity and wholesale sales price of each tobacco product shipped or transported to retailers in this state to be sold by those retailers, during the preceding calendar month. Returns shall be made electronically in the manner prescribed by the director. Each return shall be accompanied by a remittance for the full tax liability shown therein, less 4% of such liability as compensation to reimburse the distributor for such distributor's expenses incurred in the administration of this act.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3378__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As soon as practicable after any return is filed, the director shall examine the return. If the director finds that, in the director's judgment, the return is incorrect and any amount of tax is due from the distributor and unpaid, the director shall notify the distributor of the deficiency. If a deficiency disclosed by the director's examination cannot be allocated by the director to a particular month or months, the director may nevertheless notify the distributor that a deficiency exists and state the amount of tax due. Such notice shall be given to the distributor by registered or certified mail.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
