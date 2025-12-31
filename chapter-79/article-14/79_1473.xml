@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1473"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1473"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1473/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1473/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1473/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1473/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1473">
+            <num>79-1473</num>
+            <heading>Penalty for neglect of duty by county appraiser or employee</heading>
+            <content>
+              <p>79-1473. Penalty for neglect of duty by county appraiser or employee. Any county appraiser and any employee acting in the name of the county appraiser who willfully neglects or refuses in whole or in part to perform the duties of the office as required by law shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in a sum not exceeding $500. In addition thereto the appraiser or employee shall forfeit the office or position held by such person.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

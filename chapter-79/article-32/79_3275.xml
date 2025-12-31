@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3275"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3275"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3275/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3275/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3275/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3275/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3275">
+            <num>79-3275</num>
+            <heading>Same; rents and royalties; extent of utilization of tangible personal property</heading>
+            <content>
+              <p>79-3275. Same; rents and royalties; extent of utilization of tangible personal property. (a) Net rents and royalties from real property located in this state are allocable to this state. (b) Net rents and royalties from tangible personal property are allocable to this state: (1) if and to the extent that the property is utilized in this state, or (2) in their entirety if the taxpayer's commercial domicile is in this state and the taxpayer is not organized under the laws of or taxable in the state in which the property is utilized. (c) The extent of utilization of tangible personal property in a state is determined by multiplying the rents and royalties by a fraction, the numerator of which is the number of days of physical location of the property in the state during the rental or royalty period in the taxable year and the denominator of which is the number of days of physical location of the property everywhere during all rental or royalty periods in the taxable year. If the physical location of the property during the rental or royalty period is unknown or unascertainable by the taxpayer, tangible personal property is utilized in the state in which the property was located at the time the rental or royalty payer obtained possession.</p>
+            </content>
+            <subsection eId="79_3275__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Net rents and royalties from real property located in this state are allocable to this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3275__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Net rents and royalties from tangible personal property are allocable to this state:</p>
+              </content>
+              <paragraph eId="79_3275__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>if and to the extent that the property is utilized in this state, or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3275__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>in their entirety if the taxpayer's commercial domicile is in this state and the taxpayer is not organized under the laws of or taxable in the state in which the property is utilized.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3275__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The extent of utilization of tangible personal property in a state is determined by multiplying the rents and royalties by a fraction, the numerator of which is the number of days of physical location of the property in the state during the rental or royalty period in the taxable year and the denominator of which is the number of days of physical location of the property everywhere during all rental or royalty periods in the taxable year. If the physical location of the property during the rental or royalty period is unknown or unascertainable by the taxpayer, tangible personal property is utilized in the state in which the property was located at the time the rental or royalty payer obtained possession.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

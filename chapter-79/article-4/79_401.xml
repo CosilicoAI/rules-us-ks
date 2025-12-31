@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-401"/>
+          <FRBRuri value="/us-ks/act/ksa/79-401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-401/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-401/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_4">
+          <num>Article 4</num>
+          <heading>Listing and Valuation of Real Estate</heading>
+          <section eId="sec_79_401">
+            <num>79-401</num>
+            <heading>Section 79-401</heading>
+            <content>
+              <p>2023-2024
+Legislative Sessions
+Return to current session
+Home •
+News •
+Contact •
+House
+Leadership
+Committees
+Rules
+Current Events
+Seating Chart
+Roster
+Chief Clerk of the House
+Senate
+Leadership
+Committees
+Confirmations
+Rules
+Current Events
+Seating Chart
+Roster
+Secretary of the Senate
+Legislators
+House Leadership
+House Roster
+Senate Leadership
+Senate Roster
+Committees
+Committees
+Standing
+Joint
+Special and Select
+Commission
+Subcommittee
+Task Force
+Other
+Conference Schedules
+Conference Committees
+Committee Bill Hearings
+Bills &amp; Laws
+Senate Bills
+House Bills
+Statute
+Reports
+Actions and Subject Index Report
+How a bill becomes law (pdf)
+Kansas Constitution
+Contact the Revisor
+Journals
+House Journal
+Senate Journal
+What is a Journal?
+Calendars
+House Calendar
+Senate Calendar
+What Is A Calendar?
+Research
+Memos/Reports/Publications
+Appropriations
+Revenue/Taxation
+Redistricting
+About KLRD
+Historical
+2025-26 Regular Sessions
+2024 Special Session
+2021-2022 Regular Sessions
+2021 Special Session
+2020 Special Session
+2019-2020 Regular Sessions
+2017-2018 Regular Sessions
+2016 Special Session
+2015-2016 Regular Sessions
+2013-2014 Regular Sessions
+2013 Special Session
+2011-2012 Regular Sessions
+1997 - 2010 Sessions
+2000 - 2010 Committee Data
+Find Bill
+Bill/Resolution Lookup:
+Find Your Legislator
+Chamber:
+Both Chambers
+Senate
+House
+Party:
+All Parties
+Republican
+Democrat
+Search by Your Address
+Legislative Deadlines
+Senate Deadlines
+(PDF)
+House Deadlines
+(PDF)
+Current Events
+Statute
+Legislative Resources
+Administrative Services
+Division of Post Audit
+Information Services
+Research Department
+Revisor of Statutes
+LCC Policies
+About the Legislature
+Other State Resources
+Kansas.gov
+Ethics Commission
+How Do I…
+Become A Legislative Intern
+Become A Legislative Page
+Apply For Session Work
+Dec. 31, 2025
+-A
++A
+House Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+Senate Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+you are here:
+Home
+»
+Statute
+»
+Chapter 79
+»
+Article 40
+»
+Section 1
+»
+2024
+ Statute
+Prev
+Article 40. - MUNICIPAL TAX LEVIES
+Next
+79-4001.
+General improvements for library purposes; tax levy, use of proceeds; election required.
+Any municipality, as the same is defined in K.S.A. 10-1101, is hereby authorized to make an annual tax levy not to exceed two mills for the purpose of creating and providing a special fund to be used in making any general improvement which such municipality is authorized by law to make, or, to be used to remodel, construct, reconstruct, furnish and equip an addition or annex to any library being operated and maintained by such municipality, and in the case of cities, counties and school districts, to pay a portion of the principal and interest on bonds issued by cities under the authority of K.S.A. 12-1774, and amendments thereto, for the financing of redevelopment projects upon property located in such county or such school district. The governing body of such municipalities shall by resolution submit the question of making such levy to the qualified electors of the municipality at any general election or at a special election called for such purpose. The question as stated on the ballot shall show the nature of the improvement contemplated, the total amount to be raised by taxes, and the period over which such levy is to be made, which shall in no case exceed ten (10) years. If a majority of those voting on such proposition vote in favor thereof, the governing body shall make said levy and create such fund, the principal and interest thereof to be used for the purpose authorized. Such levy shall be in addition to all other levies authorized by law and none of the limitations of article 19 of chapter 79 of the Kansas Statutes Annotated, or acts amendatory thereof or supplemental thereto, shall apply to such levy. Whenever tax levies have been approved and the fund created as provided for in this section in any city, and thereafter, it becomes evident that the city will be unable to use the fund for the specific purposes herein provided for because of urban renewal plans approved by the federal government providing for the removal of the library building, the governing board of such city shall be and is hereby authorized to use such fund so accumulated for the purposes of purchasing and improving a library or sites, constructing, furnishing, equipping, remodeling or making additions to library buildings, and may continue to make the tax levy for the purposes hereinbefore specified for the period provided, but not to exceed a total of ten (10) years in any case; and said governing board is further authorized to use such funds derived from tax levies to prepay rent under leases with a public building commission as provided for under K.S.A. 12-1757 et seq., and acts amendatory thereof.
+History:
+L. 1949, ch. 490, § 1; L. 1955, ch. 426, § 1; L. 1968, ch. 171, § 1; L. 1979, ch. 52, § 198; July 1.
+Prev
+Article 40. - MUNICIPAL TAX LEVIES
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T11:43:23. Head Rev No: 1485844(I)</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

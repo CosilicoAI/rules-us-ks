@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1121"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1121"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1121/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1121/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1121/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1121/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1121">
+            <num>79-1121</num>
+            <heading>Same; imposition; computation of amount</heading>
+            <content>
+              <p>79-1121. Same; imposition; computation of amount. A recapture tax, in an amount computed as herein provided, shall be imposed on any refund, as defined in K.S.A. 79-1120, received by any national banking association, state bank, trust company or savings and loan association, in the year in which such refund is received. The amount of such tax shall be computed as follows: (a) Multiply the amount of the refund received by the aggregate recapture rate; (b) Multiply the amount of the refund received by the claimant's adjustment factor; (c) Subtract the product obtained under subsection (b) from the product obtained under subsection (a); (d) The tax shall be in an amount equal to the lesser of the amount determined in subsection (c) or the amount of the refund.</p>
+            </content>
+            <subsection eId="79_1121__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Multiply the amount of the refund received by the aggregate recapture rate;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1121__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Multiply the amount of the refund received by the claimant's adjustment factor;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1121__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Subtract the product obtained under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1121__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>from the product obtained under subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1121__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The tax shall be in an amount equal to the lesser of the amount determined in subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1121__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>or the amount of the refund.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

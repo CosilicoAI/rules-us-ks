@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2018"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2018"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2018/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2018/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2018/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2018/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2018">
+            <num>79-2018</num>
+            <heading>Employment of persons to assist collection of unpaid personal property taxes in counties; contingency fee compensation; disposition of taxes; costs</heading>
+            <content>
+              <p>79-2018. Employment of persons to assist collection of unpaid personal property taxes in counties; contingency fee compensation; disposition of taxes; costs. The board of county commissioners of any county may employ attorneys or other persons to assist the county in the collection of personal property taxes remaining unpaid from and after the date the same became a judgment. The employment of such attorney or other persons shall be in writing and shall be on a contingent fee basis, but in no event shall the fees and charges for such collections exceed the sum of 50% of the amount collected. Any taxes so collected shall be credited ratably to the funds for which such taxes were levied and the cost of collecting shall be apportioned and charged ratably against the funds for which such taxes were collected.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

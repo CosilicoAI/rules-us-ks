@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-213"/>
+          <FRBRuri value="/us-ks/act/ksa/79-213"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-213/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-213/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-213/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-213/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_2">
+          <num>Article 2</num>
+          <heading>Property Exempt from Taxation</heading>
+          <section eId="sec_79_213">
+            <num>79-213</num>
+            <heading>Section 79-213</heading>
+            <content>
+              <p>2023-2024
+Legislative Sessions
+Return to current session
+Home •
+News •
+Contact •
+House
+Leadership
+Committees
+Rules
+Current Events
+Seating Chart
+Roster
+Chief Clerk of the House
+Senate
+Leadership
+Committees
+Confirmations
+Rules
+Current Events
+Seating Chart
+Roster
+Secretary of the Senate
+Legislators
+House Leadership
+House Roster
+Senate Leadership
+Senate Roster
+Committees
+Committees
+Standing
+Joint
+Special and Select
+Commission
+Subcommittee
+Task Force
+Other
+Conference Schedules
+Conference Committees
+Committee Bill Hearings
+Bills &amp; Laws
+Senate Bills
+House Bills
+Statute
+Reports
+Actions and Subject Index Report
+How a bill becomes law (pdf)
+Kansas Constitution
+Contact the Revisor
+Journals
+House Journal
+Senate Journal
+What is a Journal?
+Calendars
+House Calendar
+Senate Calendar
+What Is A Calendar?
+Research
+Memos/Reports/Publications
+Appropriations
+Revenue/Taxation
+Redistricting
+About KLRD
+Historical
+2025-26 Regular Sessions
+2024 Special Session
+2021-2022 Regular Sessions
+2021 Special Session
+2020 Special Session
+2019-2020 Regular Sessions
+2017-2018 Regular Sessions
+2016 Special Session
+2015-2016 Regular Sessions
+2013-2014 Regular Sessions
+2013 Special Session
+2011-2012 Regular Sessions
+1997 - 2010 Sessions
+2000 - 2010 Committee Data
+Find Bill
+Bill/Resolution Lookup:
+Find Your Legislator
+Chamber:
+Both Chambers
+Senate
+House
+Party:
+All Parties
+Republican
+Democrat
+Search by Your Address
+Legislative Deadlines
+Senate Deadlines
+(PDF)
+House Deadlines
+(PDF)
+Current Events
+Statute
+Legislative Resources
+Administrative Services
+Division of Post Audit
+Information Services
+Research Department
+Revisor of Statutes
+LCC Policies
+About the Legislature
+Other State Resources
+Kansas.gov
+Ethics Commission
+How Do I…
+Become A Legislative Intern
+Become A Legislative Page
+Apply For Session Work
+Dec. 31, 2025
+-A
++A
+House Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+Senate Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+you are here:
+Home
+»
+Statute
+»
+Chapter 79
+»
+Article 21
+»
+Section 3
+»
+2024
+ Statute
+Prev
+Article 21. - SALE OF PERSONAL PROPERTY FOR TAXES
+Next
+79-2103.
+Sheriff to note removal of taxpayer.
+It shall be the duty of the several sheriffs of this state, in making their returns of the delinquent tax warrants to the treasurers of their respective counties, to note in their return the county to which any such delinquent taxpayer may have removed or resides, with the date of his or her removal, if he or she shall be able to ascertain such fact; and it is hereby made his or her duty to make diligent inquiry therefor.
+History:
+L. 1876, ch. 34, § 94; March 11; R.S. 1923, 79-2103.
+Prev
+Article 21. - SALE OF PERSONAL PROPERTY FOR TAXES
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T11:42:48. Head Rev No: 1485844(I)</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

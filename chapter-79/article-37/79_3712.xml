@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3712"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3712"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3712/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3712/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3712/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3712/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_37">
+          <num>Article 37</num>
+          <heading>Kansas Compensating Tax</heading>
+          <section eId="sec_79_3712">
+            <num>79-3712</num>
+            <heading>Registration and filing information, when</heading>
+            <content>
+              <p>79-3712. Registration and filing information, when. The director of taxation may require any retailer, vendor, user or consumer of tangible personal property, incurring compensating (use) tax liability under article 37, chapter 79, Kansas Statutes Annotated, prior to engaging in business within the state of Kansas, to register and file such information as the director deems pertinent.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

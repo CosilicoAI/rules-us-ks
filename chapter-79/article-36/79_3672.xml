@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3672"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3672"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3672/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3672/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3672/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3672/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3672">
+            <num>79-3672</num>
+            <heading>Same; advertising and promotional direct mail and other direct mail, requirements and procedures; sourcing; bundled transactions</heading>
+            <content>
+              <p>79-3672. Same; advertising and promotional direct mail and other direct mail, requirements and procedures; sourcing; bundled transactions. (a) Notwithstanding the provisions of K.S.A. 79-3670, and amendments thereto, the following provisions apply to sales of &quot;advertising and promotional direct mail&quot;: (1) A purchaser of &quot;advertising and promotional direct mail&quot; may provide the seller with either: (A) A direct pay permit; (B) an exemption certificate, or other statement approved, authorized or accepted by the secretary, claiming &quot;direct mail&quot;; or (C) information showing the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered to recipients. (2) If the purchaser provides the permit, certificate or statement referred to in subsections (a)(1)(A) or (a)(1)(B), the seller, in the absence of bad faith, is relieved of all obligations to collect, pay or remit any tax on any transaction involving &quot;advertising and promotional direct mail&quot; to which the permit, certificate or statement applies. The purchaser shall source the sale to the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered to the recipients and shall report and pay any applicable tax due. (3) If the purchaser provides the seller information showing the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered to recipients, the seller shall source the sale to the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered and shall collect and remit the applicable tax. In the absence of bad faith, the seller is relieved of any further obligation to collect any additional tax on the sale of &quot;advertising and promotional direct mail&quot; where the seller has sourced the sale according to the delivery information provided by the purchaser. (4) If the purchaser does not provide the seller with any of the items listed in subsections (a)(1)(A), (a)(1)(B) or (a)(1)(C), the sale shall be sourced according to subsection (a)(5) of K.S.A. 79-3670, and amendments thereto. (b) Notwithstanding the provisions of K.S.A. 79-3670, and amendments thereto, the following provisions apply to sales of &quot;other direct mail&quot;: (1) Except as otherwise provided in this subsection, sales of &quot;other direct mail&quot; are sourced in accordance with subsection (a)(3) of K.S.A. 79-3670, and amendments thereto. (2) A purchaser of &quot;other direct mail&quot; may provide the seller with either: (A) A direct pay permit; or (B) an exemption certificate, or other statement approved, authorized or accepted by the secretary, claiming &quot;direct mail.&quot; (3) If the purchaser provides the permit, certificate or statement referred to in subsection (b)(2)(A) or (b)(2)(B), the seller, in the absence of bad faith, is relieved of all obligations to collect, pay or remit any tax on any transaction involving &quot;other direct mail&quot; to which the permit, certificate or statement apply. Notwithstanding subsection (b)(1) the sale shall be sourced to the jurisdictions to which the &quot;other direct mail&quot; is to be delivered to the recipients and the purchaser shall report and pay any applicable tax due. (c) For purposes of this section: (1) &quot;Advertising and promotional direct mail&quot; means: (A) Printed material that meets the definition of &quot;direct mail&quot;; and (B) the primary purpose of which is to attract public attention to a product, person, business or organization, or to attempt to sell, popularize or secure financial support for a product, person, business or organization. As used in this subsection, the word &quot;product&quot; means tangible personal property, a product transferred electronically or a service; (2) &quot;other direct mail&quot; means any direct mail that is not &quot;advertising and promotional direct mail&quot; regardless of whether &quot;advertising and promotional direct mail&quot; is included in the same mailing. The term includes, but is not limited to: (A) Transactional direct mail that contains personal information specific to the addressee including, but not limited to, invoices, bills, statements of account and payroll advices; (B) any legally required mailings including, but not limited to, privacy notices, tax reports and stockholder reports; and (C) other non-promotional direct mail delivered to existing or former shareholders, customers, employees or agents including, but not limited to, newsletters and informational pieces. &quot;Other direct mail&quot; does not include the development of billing information or the provision of any data processing service that is more than incidental. (d) (1) (A) This section applies to a transaction characterized as the sale of services only if the service is an integral part of the production and distribution of printed material that meets the definition of &quot;direct mail.&quot; (B) This section does not apply to any transaction that includes the development of billing information or the provision of any data processing service that is more than incidental regardless of whether &quot;advertising and promotional direct mail&quot; is included in the same mailing. (2) If a transaction is a &quot;bundled transaction&quot; that includes advertising and promotional direct mail, this section shall apply only if the primary purpose of the transaction is the sale of products or services that meet the definition of &quot;advertising and promotional direct mail.&quot; (3) Nothing in this section shall limit any purchaser's: (A) Obligation for sales or use tax to any state to which the direct mail is delivered; (B) right, if any, to a credit for sales or use taxes legally due and paid to other jurisdictions; or (C) right, if any, to a refund of sales or use taxes overpaid to any jurisdiction. (4) This section applies for purposes of uniformly sourcing direct mail transactions.</p>
+            </content>
+            <subsection eId="79_3672__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Notwithstanding the provisions of K.S.A. 79-3670, and amendments thereto, the following provisions apply to sales of &quot;advertising and promotional direct mail&quot;:</p>
+              </content>
+              <paragraph eId="79_3672__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>A purchaser of &quot;advertising and promotional direct mail&quot; may provide the seller with either: (A) A direct pay permit; (B) an exemption certificate, or other statement approved, authorized or accepted by the secretary, claiming &quot;direct mail&quot;; or (C) information showing the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered to recipients.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the purchaser provides the permit, certificate or statement referred to in subsections</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>If the purchaser provides the seller information showing the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered to recipients, the seller shall source the sale to the jurisdictions to which the &quot;advertising and promotional direct mail&quot; is to be delivered and shall collect and remit the applicable tax. In the absence of bad faith, the seller is relieved of any further obligation to collect any additional tax on the sale of &quot;advertising and promotional direct mail&quot; where the seller has sourced the sale according to the delivery information provided by the purchaser.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>If the purchaser does not provide the seller with any of the items listed in subsections</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_a__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of K.S.A. 79-3670, and amendments thereto.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3672__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the provisions of K.S.A. 79-3670, and amendments thereto, the following provisions apply to sales of &quot;other direct mail&quot;:</p>
+              </content>
+              <paragraph eId="79_3672__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Except as otherwise provided in this subsection, sales of &quot;other direct mail&quot; are sourced in accordance with subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>of K.S.A. 79-3670, and amendments thereto.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>A purchaser of &quot;other direct mail&quot; may provide the seller with either: (A) A direct pay permit; or (B) an exemption certificate, or other statement approved, authorized or accepted by the secretary, claiming &quot;direct mail.&quot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>If the purchaser provides the permit, certificate or statement referred to in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>the sale shall be sourced to the jurisdictions to which the &quot;other direct mail&quot; is to be delivered to the recipients and the purchaser shall report and pay any applicable tax due.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3672__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of this section:</p>
+              </content>
+              <paragraph eId="79_3672__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Advertising and promotional direct mail&quot; means: (A) Printed material that meets the definition of &quot;direct mail&quot;; and (B) the primary purpose of which is to attract public attention to a product, person, business or organization, or to attempt to sell, popularize or secure financial support for a product, person, business or organization. As used in this subsection, the word &quot;product&quot; means tangible personal property, a product transferred electronically or a service;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;other direct mail&quot; means any direct mail that is not &quot;advertising and promotional direct mail&quot; regardless of whether &quot;advertising and promotional direct mail&quot; is included in the same mailing. The term includes, but is not limited to: (A) Transactional direct mail that contains personal information specific to the addressee including, but not limited to, invoices, bills, statements of account and payroll advices; (B) any legally required mailings including, but not limited to, privacy notices, tax reports and stockholder reports; and (C) other non-promotional direct mail delivered to existing or former shareholders, customers, employees or agents including, but not limited to, newsletters and informational pieces. &quot;Other direct mail&quot; does not include the development of billing information or the provision of any data processing service that is more than incidental.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3672__subsec_d">
+              <num>(d)</num>
+              <paragraph eId="79_3672__subsec_d__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>(A) This section applies to a transaction characterized as the sale of services only if the service is an integral part of the production and distribution of printed material that meets the definition of &quot;direct mail.&quot; (B) This section does not apply to any transaction that includes the development of billing information or the provision of any data processing service that is more than incidental regardless of whether &quot;advertising and promotional direct mail&quot; is included in the same mailing.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_d__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>If a transaction is a &quot;bundled transaction&quot; that includes advertising and promotional direct mail, this section shall apply only if the primary purpose of the transaction is the sale of products or services that meet the definition of &quot;advertising and promotional direct mail.&quot;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_d__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>Nothing in this section shall limit any purchaser's: (A) Obligation for sales or use tax to any state to which the direct mail is delivered; (B) right, if any, to a credit for sales or use taxes legally due and paid to other jurisdictions; or (C) right, if any, to a refund of sales or use taxes overpaid to any jurisdiction.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3672__subsec_d__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>This section applies for purposes of uniformly sourcing direct mail transactions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

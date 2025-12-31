@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3269"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3269"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3269/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3269/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3269/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3269/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3269">
+            <num>79-3269</num>
+            <heading>Tax treatment of professional employer organizations; definitions</heading>
+            <content>
+              <p>79-3269. Tax treatment of professional employer organizations; definitions. (a) As used in this section: (1) &quot;Administrative fee&quot; means those amounts charged by the professional employer organization to the client over and above amounts applied to the mandatory state and federal taxes, wages of assigned workers and amounts applied to premiums or contributions for benefits provided for assigned workers. (2) &quot;Assigned worker&quot; means a person having an employment relationship with both the professional employer organization and the client. (3) &quot;Client&quot; means a person who contracts with a professional employer organization to obtain employer services from another person through a professional employer arrangement. (4) &quot;Person&quot; means an individual, an association, a company, a firm, a partnership, a corporation or any other form of legally recognized entity. (5) &quot;Professional employer arrangement&quot; means an arrangement, under contract or whereby: (A) A professional employer organization agrees to employ all or a majority of a client's workforce; (B) the arrangement is intended to be, or is, ongoing rather than temporary in nature; (C) employer responsibilities for workers under the arrangement are in fact shared by the professional employer organization and the client; and (D) for the purposes of this act, a professional employer arrangement shall not include: (i) Arrangements wherein a person, whose principal business activity is not entering into professional employer arrangements, shares employees with a commonly owned company within the meaning of section 414(b) and (c) of the federal internal revenue code of 1986, as amended, and which does not hold itself out as a professional employer organization. (ii) Arrangements in which a person assumes full responsibility for the product or service performed by such person or such person's agents and retains and exercises, both legally and in fact, a right of direction and control over the individuals whose services are supplied under such contractual arrangements, and such person and such person's agents perform a specified function for the client which is separate and divisible from the primary business or operations of the client. (iii) Any person otherwise subject to this act if, during any fiscal year of the person commencing after July 1, 2000, the person pays total gross wages to employees employed by the person in the state under one or more professional employer arrangements which do not exceed 5% of the total gross wages paid to all employees employed by the person in the state during the same fiscal year under all arrangements described in paragraph (4) and that each person does not advertise or hold itself out to the public as providing services as a professional employer organization. (6) &quot;Professional employer organization&quot; means any person engaged in providing the services of employees pursuant to one or more professional employer arrangements or any person that represents itself to the public as providing services pursuant to a professional employer arrangement. (b) A professional employer organization shall be considered an employer for the purposes of withholding state income tax of the assigned workers pursuant to the Kansas income tax act. Commencing after December 31, 1999, the client shall be considered as the employer of an assigned worker under the terms of the professional employer arrangement between the client and the professional employer organization, for purposes of: (1) subsection (d) of K.S.A. 79-32,154, subsection (d) of K.S.A. 74-50,114, K.S.A. 79-32,160a or K.S.A. 74-50,131, and amendments thereto; and (2) calculating the client's payroll factor under K.S.A. 79-3283. The client shall provide to the department of revenue the payroll information for assigned workers needed for purposes of administering the above provisions.</p>
+            </content>
+            <subsection eId="79_3269__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this section:</p>
+              </content>
+              <paragraph eId="79_3269__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Administrative fee&quot; means those amounts charged by the professional employer organization to the client over and above amounts applied to the mandatory state and federal taxes, wages of assigned workers and amounts applied to premiums or contributions for benefits provided for assigned workers.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3269__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;Assigned worker&quot; means a person having an employment relationship with both the professional employer organization and the client.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3269__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;Client&quot; means a person who contracts with a professional employer organization to obtain employer services from another person through a professional employer arrangement.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3269__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>&quot;Person&quot; means an individual, an association, a company, a firm, a partnership, a corporation or any other form of legally recognized entity.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3269__subsec_a__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>&quot;Professional employer arrangement&quot; means an arrangement, under contract or whereby: (A) A professional employer organization agrees to employ all or a majority of a client's workforce; (B) the arrangement is intended to be, or is, ongoing rather than temporary in nature; (C) employer responsibilities for workers under the arrangement are in fact shared by the professional employer organization and the client; and (D) for the purposes of this act, a professional employer arrangement shall not include:</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3269__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>Arrangements wherein a person, whose principal business activity is not entering into professional employer arrangements, shares employees with a commonly owned company within the meaning of section 414</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3269__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3269__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>of the federal internal revenue code of 1986, as amended, and which does not hold itself out as a professional employer organization. (ii) Arrangements in which a person assumes full responsibility for the product or service performed by such person or such person's agents and retains and exercises, both legally and in fact, a right of direction and control over the individuals whose services are supplied under such contractual arrangements, and such person and such person's agents perform a specified function for the client which is separate and divisible from the primary business or operations of the client. (iii) Any person otherwise subject to this act if, during any fiscal year of the person commencing after July 1, 2000, the person pays total gross wages to employees employed by the person in the state under one or more professional employer arrangements which do not exceed 5% of the total gross wages paid to all employees employed by the person in the state during the same fiscal year under all arrangements described in paragraph</p>
+              </content>
+              <paragraph eId="79_3269__subsec_c__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>and that each person does not advertise or hold itself out to the public as providing services as a professional employer organization.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3269__subsec_c__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>&quot;Professional employer organization&quot; means any person engaged in providing the services of employees pursuant to one or more professional employer arrangements or any person that represents itself to the public as providing services pursuant to a professional employer arrangement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3269__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>A professional employer organization shall be considered an employer for the purposes of withholding state income tax of the assigned workers pursuant to the Kansas income tax act. Commencing after December 31, 1999, the client shall be considered as the employer of an assigned worker under the terms of the professional employer arrangement between the client and the professional employer organization, for purposes of:</p>
+              </content>
+              <paragraph eId="79_3269__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3269__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of K.S.A. 79-32,154, subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3269__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>of K.S.A. 74-50,114, K.S.A. 79-32,160a or K.S.A. 74-50,131, and amendments thereto; and</p>
+              </content>
+              <paragraph eId="79_3269__subsec_d__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>calculating the client's payroll factor under K.S.A. 79-3283. The client shall provide to the department of revenue the payroll information for assigned workers needed for purposes of administering the above provisions.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

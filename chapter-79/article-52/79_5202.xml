@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-5202"/>
+          <FRBRuri value="/us-ks/act/ksa/79-5202"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-5202/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-5202/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-5202/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-5202/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_52">
+          <num>Article 52</num>
+          <heading>Food Sales Tax Credit</heading>
+          <section eId="sec_79_5202">
+            <num>79-5202</num>
+            <heading>Same; imposition of tax; rates; measurement</heading>
+            <content>
+              <p>79-5202. Same; imposition of tax; rates; measurement. (a) There is hereby imposed a tax upon marijuana, domestic marijuana plants and controlled substances, as defined by K.S.A. 79-5201, and amendments thereto, at the following rates: (1) On each gram of marijuana, or each portion of a gram, $3.50; (2) on each gram of a wet domestic marijuana plant, $.40; (3) on each gram of a dry domestic marijuana plant, $.90; (4) on each gram of controlled substance, or portion of a gram, $200; and (5) on each 50 dosage units of a controlled substance that is not sold by weight, or portion thereof, $2,000. (b) For the purpose of calculating the tax hereunder, an ounce of marijuana or other controlled substance is measured by the weight of the substance in the dealer's possession. The weight of the marijuana or controlled substance includes all material, mixture or preparation that is added to the marijuana or controlled substance.</p>
+            </content>
+            <subsection eId="79_5202__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>There is hereby imposed a tax upon marijuana, domestic marijuana plants and controlled substances, as defined by K.S.A. 79-5201, and amendments thereto, at the following rates:</p>
+              </content>
+              <paragraph eId="79_5202__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>On each gram of marijuana, or each portion of a gram, $3.50;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_5202__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>on each gram of a wet domestic marijuana plant, $.40;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_5202__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>on each gram of a dry domestic marijuana plant, $.90;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_5202__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>on each gram of controlled substance, or portion of a gram, $200; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_5202__subsec_a__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>on each 50 dosage units of a controlled substance that is not sold by weight, or portion thereof, $2,000.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_5202__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of calculating the tax hereunder, an ounce of marijuana or other controlled substance is measured by the weight of the substance in the dealer's possession. The weight of the marijuana or controlled substance includes all material, mixture or preparation that is added to the marijuana or controlled substance.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

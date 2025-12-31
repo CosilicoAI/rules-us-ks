@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2004"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2004/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2004/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2004">
+            <num>79-2004</num>
+            <heading>; L</heading>
+            <content>
+              <p>History: L. 1876, ch. 34, § 91; L. 1893, ch. 110, § 1; L. 1919, ch. 309, § 1; R.S. 1923, 79-2004; L. 1933, ch. 310, § 1; L. 1933, ch. 119, § 1 (Special Session); L. 1937, ch. 364, § 1; L. 1943, ch. 300, § 1; L. 1943, ch. 301, § 1; L. 1957, ch. 499, § 1; L. 1972, ch. 367, § 1; L. 1979, ch. 312, § 1; L. 1980, ch. 308, § 2; L. 1984, ch. 355, § 1; L. 1987, ch. 382, § 1; L. 1989, ch. 2, § 1 (Special Session); L. 1992, ch. 319, § 1; L. 1994, ch. 9, § 1; L. 1997, ch. 126, § 23; L. 2003, ch. 146, § 4; L. 2014, ch. 141, § 13; L. 2016, ch. 112, § 18; July 1.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

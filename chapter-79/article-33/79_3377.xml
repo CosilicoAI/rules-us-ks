@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3377"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3377"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3377/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3377/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3377/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3377/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3377">
+            <num>79-3377</num>
+            <heading>Certain records required of distributor; access to premises</heading>
+            <content>
+              <p>79-3377. Certain records required of distributor; access to premises. (a) Each distributor shall keep in each licensed place of business complete and accurate records for that place of business, including itemized invoices of: (1) Tobacco products held, purchased, manufactured, brought in or caused to be brought in from outside the state or shipped or transported to retailers in this state; and (2) all sales of tobacco products made, except sales to an ultimate consumer. Such records shall show the names and addresses of purchasers and other pertinent papers and documents relating to the purchase, sale or disposition of tobacco products. When a licensed distributor sells tobacco products exclusively to ultimate consumers at the addresses given in the license, no invoice of those sales shall be required, but itemized invoices shall be made of all tobacco products transferred to other retail outlets owned or controlled by that licensed distributor. All books, records and other papers and documents required by this subsection to be kept shall be preserved for a period of at least three years after the date of the documents or the date of the entries thereof appearing in the records, unless the director, in writing, authorizes their destruction or disposal at an earlier date. (b) At any time during usual business hours duly authorized agents or employees of the director may enter any place of business of a distributor and inspect the premises, the records required to be kept under this act and the tobacco products contained therein, to determine whether or not all the provisions of this act are being fully complied with. Refusal to permit such inspection by a duly authorized agent or employee of the director shall be grounds for revocation of the license. (c) Each person who sells tobacco products to persons other than an ultimate consumer shall render with each sale itemized invoices showing the seller's name and address, the purchaser's name and address, the date of sale and all prices and discounts. Such person shall preserve legible copies of all such invoices for three years after the date of sale. (d) Each distributor shall procure itemized invoices of all tobacco products purchased. The invoices shall show the name and address of the seller and the date of purchase. The distributor shall preserve a legible copy of each such invoice for three years after the date of purchase. Invoices shall be available for inspection by authorized agents or employees of the director at the distributor's place of business.</p>
+            </content>
+            <subsection eId="79_3377__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Each distributor shall keep in each licensed place of business complete and accurate records for that place of business, including itemized invoices of:</p>
+              </content>
+              <paragraph eId="79_3377__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Tobacco products held, purchased, manufactured, brought in or caused to be brought in from outside the state or shipped or transported to retailers in this state; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3377__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>all sales of tobacco products made, except sales to an ultimate consumer. Such records shall show the names and addresses of purchasers and other pertinent papers and documents relating to the purchase, sale or disposition of tobacco products. When a licensed distributor sells tobacco products exclusively to ultimate consumers at the addresses given in the license, no invoice of those sales shall be required, but itemized invoices shall be made of all tobacco products transferred to other retail outlets owned or controlled by that licensed distributor. All books, records and other papers and documents required by this subsection to be kept shall be preserved for a period of at least three years after the date of the documents or the date of the entries thereof appearing in the records, unless the director, in writing, authorizes their destruction or disposal at an earlier date.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3377__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>At any time during usual business hours duly authorized agents or employees of the director may enter any place of business of a distributor and inspect the premises, the records required to be kept under this act and the tobacco products contained therein, to determine whether or not all the provisions of this act are being fully complied with. Refusal to permit such inspection by a duly authorized agent or employee of the director shall be grounds for revocation of the license.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3377__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Each person who sells tobacco products to persons other than an ultimate consumer shall render with each sale itemized invoices showing the seller's name and address, the purchaser's name and address, the date of sale and all prices and discounts. Such person shall preserve legible copies of all such invoices for three years after the date of sale.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3377__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>Each distributor shall procure itemized invoices of all tobacco products purchased. The invoices shall show the name and address of the seller and the date of purchase. The distributor shall preserve a legible copy of each such invoice for three years after the date of purchase. Invoices shall be available for inspection by authorized agents or employees of the director at the distributor's place of business.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

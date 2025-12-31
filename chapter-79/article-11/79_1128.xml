@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1128"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1128"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1128/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1128/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1128/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1128/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1128">
+            <num>79-1128</num>
+            <heading>Allocation and apportionment of income of financial institutions engaged in multi-state business activities; definitions</heading>
+            <content>
+              <p>79-1128. Allocation and apportionment of income of financial institutions engaged in multi-state business activities; definitions. As used in K.S.A. 79-1128 through 79-1132, unless the context otherwise requires: (a) &quot;Billing address&quot; means the location indicated in the books and records of the taxpayer on the first day of the taxable year, or on such later date in the taxable year when the customer relationship began, as the address where any notice, statement or bill relating to a customer's account is mailed. (b) &quot;Borrower or credit card holder located in this state&quot; means: (1) A borrower, other than a credit card holder, that is engaged in a trade or business which maintains its commercial domicile in this state; or (2) a borrower that is not engaged in a trade or business or a credit card holder whose billing address is in this state. (c) &quot;Business income&quot; means all income to the extent that it may be treated as apportionable business income under the constitution of the United States. (d) &quot;Commercial domicile&quot; means: (1) The headquarters of the trade or business, that is, the place from which the trade or business is principally managed and directed; or (2) if a taxpayer is organized under the laws of a foreign country, or of the commonwealth of Puerto Rico, or any territory or possession of the United States, such taxpayer's commercial domicile shall be deemed for the purposes of this act to be the state of the United States or the District of Columbia from which such taxpayer's trade or business in the United States is principally managed and directed. It shall be presumed, subject to rebuttal, that the location from which the taxpayer's trade or business is principally managed and directed is the state of the United States or the District of Columbia to which the greatest number of employees are regularly connected or out of which they are working, irrespective of where the services of such employees are performed, as of the last day of the taxable year. (e) &quot;Compensation&quot; means wages, salaries, commissions and any other form of remuneration paid to employees for personal services that are included in such employee's gross income under the federal internal revenue code. In the case of employees not subject to the federal internal revenue code, such as those employed in foreign countries, the determination of whether such payments would constitute gross income to such employees under the federal internal revenue code shall be made as though such employees were subject to the federal internal revenue code. (f) &quot;Credit card&quot; means credit, travel or entertainment card. (g) &quot;Credit card issuer's reimbursement fee&quot; means the fee a taxpayer receives from a merchant's bank because one of the persons to whom the taxpayer has issued a credit card has charged merchandise or services to the credit card. (h) &quot;Employee&quot; means, with respect to a particular taxpayer, any individual who, under the usual common-law rules applicable in determining the employer-employee relationship, has the status of an employee of that taxpayer. (i) &quot;Financial institution&quot; means: a national banking association, federally chartered savings bank, state bank, trust company or savings and loan association. (j) &quot;Gross rents&quot; means the actual sum of money or other consideration payable for the use or possession of property. (1) &quot;Gross rents&quot; shall include, but not be limited to: (A) Any amount payable for the use or possession of real property or tangible property whether designated as a fixed sum of money or as a percentage of receipts, profits or otherwise; (B) any amount payable as additional rent or in lieu of rent, such as interest, taxes, insurance, repairs or any other amount required to be paid by the terms of a lease or other arrangement; or (C) a proportionate part of the cost of any improvement to real property made by or on behalf of the taxpayer which reverts to the owner or lessor upon termination of a lease or other arrangement. The amount to be included in gross rents is the amount of amortization or depreciation allowed in computing the taxable income base for the taxable year, except that, where a building is erected on leased land by or on behalf of the taxpayer, the value of the land is determined by multiplying the gross rent by eight and the value of the building is determined in the same manner as if owned by the taxpayer. (2) The following are not included in the term &quot;gross rents&quot;: (A) Reasonable amounts payable as separate charges for water and electric service furnished by the lessor; (B) reasonable amounts payable as service charges for janitorial services furnished by the lessor; (C) reasonable amounts payable for storage, provided such amounts are payable for space not designated and not under the control of the taxpayer; or (D) that portion of any rental payment which is applicable to the space subleased from the taxpayer and not used by it. (k) &quot;Loan&quot; means any extension of credit resulting from direct negotiations between the taxpayer and its customer, or the purchase, or both, in whole or in part, of such extension of credit from another. Loans include participations, syndications, and leases treated as loans for federal income tax purposes. Loans shall not include: properties treated as loans under section 595 of the federal internal revenue code; futures or forward contracts; options; notional principal contracts such as swaps; credit card receivables, including purchased credit card relationships; noninterest bearing balances due from depository institutions; cash items in the process of collection; federal funds sold; securities purchased under agreements to resell; assets held in a trading account; securities; interests in a REMIC, or other mortgage-backed or asset-backed security; and other similar items. (l) &quot;Loan secured by real property&quot; means that 50% or more of the aggregate value of the collateral used to secure a loan or other obligation, when valued at fair market value as of the time the original loan or obligation was incurred, was real property. (m) &quot;Merchant discount&quot; means the fee or negotiated discount charged to a merchant by the taxpayer for the privilege of participating in a program whereby a credit card is accepted in payment for merchandise or services sold to the card holder. (n) &quot;Nonbusiness income&quot; means all income which is not business income. (o) &quot;Participation&quot; means an extension of credit in which an undivided ownership interest is held on a pro rata basis in a single loan or pool of loans and related collateral. In a loan participation, the credit originator initially makes the loan and then subsequently resells all or a portion of it to other lenders. The participation may or may not be known to the borrower. (p) &quot;Person&quot; means an individual, estate, trust, partnership, corporation and any other business entity. (q) &quot;Principal base of operations&quot; with respect to transportation property means the place of more or less permanent nature from which such property is regularly directed or controlled. With respect to an employee, the &quot;principal base of operations&quot; means the place of more or less permanent nature from which the employee regularly: (1) Starts such employee's work and to which such employee customarily returns in order to receive instructions from such employee's employer; or (2) communicates with such employee's customers or other persons; or (3) performs any other function necessary to the exercise of such employee's trade or profession at some other point or points. (r) &quot;Real property owned&quot; and &quot;tangible personal property owned&quot; means real and tangible personal property, respectively: (1) On which the taxpayer may claim depreciation for federal income tax purposes; or (2) property to which the taxpayer holds legal title and on which no other person may claim depreciation for federal income tax purposes or could claim depreciation if subject to federal income tax. Real and tangible personal property do not include coin, currency or property acquired in lieu of or pursuant to a foreclosure. (s) &quot;Regular place of business&quot; means an office at which the taxpayer carries on its business in a regular and systematic manner and which is continuously maintained, occupied and used by employees of the taxpayer. (t) &quot;State&quot; means a state of the United States, the District of Columbia, the commonwealth of Puerto Rico, any territory or possession of the United States or any foreign country. (u) &quot;Syndication&quot; means an extension of credit in which two or more persons fund and each person is at risk only up to a specified percentage of the total extension of credit or up to a specified dollar amount. (v) &quot;Taxable&quot; means either: (1) That a taxpayer is subject in another state to a net income tax, a franchise tax measured by net income, a franchise tax for the privilege of doing business, a corporate stock tax, including a bank shares tax, a single business tax, or an earned surplus tax, or any tax which is imposed upon or measured by net income; or (2) that another state has jurisdiction to subject the taxpayer to any of such taxes regardless of whether, in fact, the state does or does not. (w) &quot;Transportation property&quot; means vehicles and vessels capable of moving under their own power, such as aircraft, trains, water vessels and motor vehicles, as well as any equipment or containers attached to such property, such as rolling stock, barges, trailers or the like.</p>
+            </content>
+            <subsection eId="79_1128__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Billing address&quot; means the location indicated in the books and records of the taxpayer on the first day of the taxable year, or on such later date in the taxable year when the customer relationship began, as the address where any notice, statement or bill relating to a customer's account is mailed.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Borrower or credit card holder located in this state&quot; means:</p>
+              </content>
+              <paragraph eId="79_1128__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>A borrower, other than a credit card holder, that is engaged in a trade or business which maintains its commercial domicile in this state; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>a borrower that is not engaged in a trade or business or a credit card holder whose billing address is in this state.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Business income&quot; means all income to the extent that it may be treated as apportionable business income under the constitution of the United States.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Commercial domicile&quot; means:</p>
+              </content>
+              <paragraph eId="79_1128__subsec_d__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The headquarters of the trade or business, that is, the place from which the trade or business is principally managed and directed; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_d__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>if a taxpayer is organized under the laws of a foreign country, or of the commonwealth of Puerto Rico, or any territory or possession of the United States, such taxpayer's commercial domicile shall be deemed for the purposes of this act to be the state of the United States or the District of Columbia from which such taxpayer's trade or business in the United States is principally managed and directed. It shall be presumed, subject to rebuttal, that the location from which the taxpayer's trade or business is principally managed and directed is the state of the United States or the District of Columbia to which the greatest number of employees are regularly connected or out of which they are working, irrespective of where the services of such employees are performed, as of the last day of the taxable year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Compensation&quot; means wages, salaries, commissions and any other form of remuneration paid to employees for personal services that are included in such employee's gross income under the federal internal revenue code. In the case of employees not subject to the federal internal revenue code, such as those employed in foreign countries, the determination of whether such payments would constitute gross income to such employees under the federal internal revenue code shall be made as though such employees were subject to the federal internal revenue code.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Credit card&quot; means credit, travel or entertainment card.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Credit card issuer's reimbursement fee&quot; means the fee a taxpayer receives from a merchant's bank because one of the persons to whom the taxpayer has issued a credit card has charged merchandise or services to the credit card.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Employee&quot; means, with respect to a particular taxpayer, any individual who, under the usual common-law rules applicable in determining the employer-employee relationship, has the status of an employee of that taxpayer.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;Financial institution&quot; means: a national banking association, federally chartered savings bank, state bank, trust company or savings and loan association.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;Gross rents&quot; means the actual sum of money or other consideration payable for the use or possession of property.</p>
+              </content>
+              <paragraph eId="79_1128__subsec_j__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Gross rents&quot; shall include, but not be limited to: (A) Any amount payable for the use or possession of real property or tangible property whether designated as a fixed sum of money or as a percentage of receipts, profits or otherwise; (B) any amount payable as additional rent or in lieu of rent, such as interest, taxes, insurance, repairs or any other amount required to be paid by the terms of a lease or other arrangement; or (C) a proportionate part of the cost of any improvement to real property made by or on behalf of the taxpayer which reverts to the owner or lessor upon termination of a lease or other arrangement. The amount to be included in gross rents is the amount of amortization or depreciation allowed in computing the taxable income base for the taxable year, except that, where a building is erected on leased land by or on behalf of the taxpayer, the value of the land is determined by multiplying the gross rent by eight and the value of the building is determined in the same manner as if owned by the taxpayer.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_j__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>The following are not included in the term &quot;gross rents&quot;: (A) Reasonable amounts payable as separate charges for water and electric service furnished by the lessor; (B) reasonable amounts payable as service charges for janitorial services furnished by the lessor; (C) reasonable amounts payable for storage, provided such amounts are payable for space not designated and not under the control of the taxpayer; or (D) that portion of any rental payment which is applicable to the space subleased from the taxpayer and not used by it.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;Loan&quot; means any extension of credit resulting from direct negotiations between the taxpayer and its customer, or the purchase, or both, in whole or in part, of such extension of credit from another. Loans include participations, syndications, and leases treated as loans for federal income tax purposes. Loans shall not include: properties treated as loans under section 595 of the federal internal revenue code; futures or forward contracts; options; notional principal contracts such as swaps; credit card receivables, including purchased credit card relationships; noninterest bearing balances due from depository institutions; cash items in the process of collection; federal funds sold; securities purchased under agreements to resell; assets held in a trading account; securities; interests in a REMIC, or other mortgage-backed or asset-backed security; and other similar items.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_l">
+              <num>(l)</num>
+              <content>
+                <p>&quot;Loan secured by real property&quot; means that 50% or more of the aggregate value of the collateral used to secure a loan or other obligation, when valued at fair market value as of the time the original loan or obligation was incurred, was real property.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_m">
+              <num>(m)</num>
+              <content>
+                <p>&quot;Merchant discount&quot; means the fee or negotiated discount charged to a merchant by the taxpayer for the privilege of participating in a program whereby a credit card is accepted in payment for merchandise or services sold to the card holder.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_n">
+              <num>(n)</num>
+              <content>
+                <p>&quot;Nonbusiness income&quot; means all income which is not business income.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_o">
+              <num>(o)</num>
+              <content>
+                <p>&quot;Participation&quot; means an extension of credit in which an undivided ownership interest is held on a pro rata basis in a single loan or pool of loans and related collateral. In a loan participation, the credit originator initially makes the loan and then subsequently resells all or a portion of it to other lenders. The participation may or may not be known to the borrower.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_p">
+              <num>(p)</num>
+              <content>
+                <p>&quot;Person&quot; means an individual, estate, trust, partnership, corporation and any other business entity.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_q">
+              <num>(q)</num>
+              <content>
+                <p>&quot;Principal base of operations&quot; with respect to transportation property means the place of more or less permanent nature from which such property is regularly directed or controlled. With respect to an employee, the &quot;principal base of operations&quot; means the place of more or less permanent nature from which the employee regularly:</p>
+              </content>
+              <paragraph eId="79_1128__subsec_q__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Starts such employee's work and to which such employee customarily returns in order to receive instructions from such employee's employer; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_q__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>communicates with such employee's customers or other persons; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_q__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>performs any other function necessary to the exercise of such employee's trade or profession at some other point or points.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_r">
+              <num>(r)</num>
+              <content>
+                <p>&quot;Real property owned&quot; and &quot;tangible personal property owned&quot; means real and tangible personal property, respectively:</p>
+              </content>
+              <paragraph eId="79_1128__subsec_r__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>On which the taxpayer may claim depreciation for federal income tax purposes; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_r__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>property to which the taxpayer holds legal title and on which no other person may claim depreciation for federal income tax purposes or could claim depreciation if subject to federal income tax. Real and tangible personal property do not include coin, currency or property acquired in lieu of or pursuant to a foreclosure.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_s">
+              <num>(s)</num>
+              <content>
+                <p>&quot;Regular place of business&quot; means an office at which the taxpayer carries on its business in a regular and systematic manner and which is continuously maintained, occupied and used by employees of the taxpayer.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_t">
+              <num>(t)</num>
+              <content>
+                <p>&quot;State&quot; means a state of the United States, the District of Columbia, the commonwealth of Puerto Rico, any territory or possession of the United States or any foreign country.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_u">
+              <num>(u)</num>
+              <content>
+                <p>&quot;Syndication&quot; means an extension of credit in which two or more persons fund and each person is at risk only up to a specified percentage of the total extension of credit or up to a specified dollar amount.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1128__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>&quot;Taxable&quot; means either:</p>
+              </content>
+              <paragraph eId="79_1128__subsec_v__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>That a taxpayer is subject in another state to a net income tax, a franchise tax measured by net income, a franchise tax for the privilege of doing business, a corporate stock tax, including a bank shares tax, a single business tax, or an earned surplus tax, or any tax which is imposed upon or measured by net income; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1128__subsec_v__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>that another state has jurisdiction to subject the taxpayer to any of such taxes regardless of whether, in fact, the state does or does not.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1128__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>&quot;Transportation property&quot; means vehicles and vessels capable of moving under their own power, such as aircraft, trains, water vessels and motor vehicles, as well as any equipment or containers attached to such property, such as rolling stock, barges, trailers or the like.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

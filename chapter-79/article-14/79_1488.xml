@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1488"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1488"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1488/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1488/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1488/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1488/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1488">
+            <num>79-1488</num>
+            <heading>Same; authorities and duties of director</heading>
+            <content>
+              <p>79-1488. Same; authorities and duties of director. It shall be the duty of the director to obtain all information relating to each sale of real estate as the director shall deem necessary to carry out the intent and purposes of this act. The director shall prescribe the form in which the data is obtained. The director shall assign agents who shall verify and categorize each sale as valid, invalid or unvalidated. The director shall determine the median ratio in relation to the county's certified value, the price related differential, and the coefficient of dispersion for each classification of property in each county. If, in the director's opinion, sales from the study year are insufficient to determine reliable ratios for any classification of property in any county, sales from the four-year period preceding the study year may be used to supplement study year sales or the director may obtain or conduct appraisals for the purpose of supplementing, verifying or correcting ratios for the study year. The director may select random samples of residential subclass sales from counties having a total parcel count in excess of 15,000 to determine reliable residential subclass ratios for any such county. The random sample shall be selected prior to any validation process. Data from deeds, other instruments of conveyance and real estate sales validation questionnaires recorded or filed with the register of deeds on or after the first day of February following the study year shall not be used in determining the ratios for any county.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

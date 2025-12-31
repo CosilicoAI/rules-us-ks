@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3616"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3616"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3616/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3616/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3616/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3616/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3616">
+            <num>79-3616</num>
+            <heading>Bond requirements; amount</heading>
+            <content>
+              <p>79-3616. Bond requirements; amount. When, in the judgment of the director of taxation after evidence is documented relating to the probable risk in the ability of the person to collect and remit taxes as required by this act, it is necessary, in order to secure the collection of any tax, penalties or interest due, or to become due, the director may require any person subject to such tax to file a bond with the director of taxation in such form and amount as the director of taxation may prescribe. In any such case, any person who is required to report and pay sales tax liability on an annual basis shall only be required to file a bond in the amount of $25.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

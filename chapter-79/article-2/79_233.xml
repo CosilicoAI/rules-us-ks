@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-233"/>
+          <FRBRuri value="/us-ks/act/ksa/79-233"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-233/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-233/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-233/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-233/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_2">
+          <num>Article 2</num>
+          <heading>Property Exempt from Taxation</heading>
+          <section eId="sec_79_233">
+            <num>79-233</num>
+            <heading>Section 79-233</heading>
+            <content>
+              <p>2023-2024
+Legislative Sessions
+Return to current session
+Home •
+News •
+Contact •
+House
+Leadership
+Committees
+Rules
+Current Events
+Seating Chart
+Roster
+Chief Clerk of the House
+Senate
+Leadership
+Committees
+Confirmations
+Rules
+Current Events
+Seating Chart
+Roster
+Secretary of the Senate
+Legislators
+House Leadership
+House Roster
+Senate Leadership
+Senate Roster
+Committees
+Committees
+Standing
+Joint
+Special and Select
+Commission
+Subcommittee
+Task Force
+Other
+Conference Schedules
+Conference Committees
+Committee Bill Hearings
+Bills &amp; Laws
+Senate Bills
+House Bills
+Statute
+Reports
+Actions and Subject Index Report
+How a bill becomes law (pdf)
+Kansas Constitution
+Contact the Revisor
+Journals
+House Journal
+Senate Journal
+What is a Journal?
+Calendars
+House Calendar
+Senate Calendar
+What Is A Calendar?
+Research
+Memos/Reports/Publications
+Appropriations
+Revenue/Taxation
+Redistricting
+About KLRD
+Historical
+2025-26 Regular Sessions
+2024 Special Session
+2021-2022 Regular Sessions
+2021 Special Session
+2020 Special Session
+2019-2020 Regular Sessions
+2017-2018 Regular Sessions
+2016 Special Session
+2015-2016 Regular Sessions
+2013-2014 Regular Sessions
+2013 Special Session
+2011-2012 Regular Sessions
+1997 - 2010 Sessions
+2000 - 2010 Committee Data
+Find Bill
+Bill/Resolution Lookup:
+Find Your Legislator
+Chamber:
+Both Chambers
+Senate
+House
+Party:
+All Parties
+Republican
+Democrat
+Search by Your Address
+Legislative Deadlines
+Senate Deadlines
+(PDF)
+House Deadlines
+(PDF)
+Current Events
+Statute
+Legislative Resources
+Administrative Services
+Division of Post Audit
+Information Services
+Research Department
+Revisor of Statutes
+LCC Policies
+About the Legislature
+Other State Resources
+Kansas.gov
+Ethics Commission
+How Do I…
+Become A Legislative Intern
+Become A Legislative Page
+Apply For Session Work
+Dec. 31, 2025
+-A
++A
+House Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+Senate Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+you are here:
+Home
+»
+Statute
+»
+Chapter 79
+»
+Article 23
+»
+Section 3
+»
+2024
+ Statute
+Prev
+Article 23. - SALE OF REAL ESTATE FOR TAXES
+Next
+79-2303.
+Publication of listing of real estate subject to sale; costs.
+(a) The county treasurer shall cause the notice and list prepared under K.S.A. 79-2302, and amendments thereto, to be published in the official county newspaper or in a newspaper of general circulation in the county in accordance with the provisions of K.S.A. 64-101, and amendments thereto. The notice and list shall be submitted to the newspaper on or before August 1 of each year and shall be published once each week for three consecutive weeks immediately prior to the week when the day of sale will occur. The county treasurer also shall cause a copy of the list and notice to be posted in some conspicuous place in the county treasurer's office. The cost of publication of the notice and list shall be paid from the general fund of the county, and a $15 fee for each tract or lot shall be added to the tax due for the tract or lot as part of the costs of collection. The fee shall be collected in the manner provided for the collection of the unpaid taxes.
+History:
+L. 1876, ch. 34, § 107; R.S. 1923, 79-2303; L. 1941, ch. 375, § 3; L. 1982, ch. 166, § 3; L. 1989, ch. 294, § 2; L. 1994, ch. 68, § 4; July 1.
+Prev
+Article 23. - SALE OF REAL ESTATE FOR TAXES
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T11:42:58. Head Rev No: 1485844(I)</p>
+            </content>
+            <subsection eId="79_233__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county treasurer shall cause the notice and list prepared under K.S.A. 79-2302, and amendments thereto, to be published in the official county newspaper or in a newspaper of general circulation in the county in accordance with the provisions of K.S.A. 64-101, and amendments thereto. The notice and list shall be submitted to the newspaper on or before August 1 of each year and shall be published once each week for three consecutive weeks immediately prior to the week when the day of sale will occur. The county treasurer also shall cause a copy of the list and notice to be posted in some conspicuous place in the county treasurer's office. The cost of publication of the notice and list shall be paid from the general fund of the county, and a $15 fee for each tract or lot shall be added to the tax due for the tract or lot as part of the costs of collection. The fee shall be collected in the manner provided for the collection of the unpaid taxes.
+History:
+L. 1876, ch. 34, § 107; R.S. 1923, 79-2303; L. 1941, ch. 375, § 3; L. 1982, ch. 166, § 3; L. 1989, ch. 294, § 2; L. 1994, ch. 68, § 4; July 1.
+Prev
+Article 23. - SALE OF REAL ESTATE FOR TAXES
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T11:42:58. Head Rev No: 1485844(I)</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

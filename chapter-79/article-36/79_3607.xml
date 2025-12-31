@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3607"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3607"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3607/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3607/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3607/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3607/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3607">
+            <num>79-3607</num>
+            <heading>Time for returns and payment of tax; forms; extension of time; exceptions; electronic filing</heading>
+            <content>
+              <p>79-3607. Time for returns and payment of tax; forms; extension of time; exceptions; electronic filing. (a) Retailers shall make returns to the director at the times prescribed by this section in the manner prescribed by the director, including electronic filing, upon forms or format prescribed by the director stating: (1) The name and address of the retailer; (2) the total amount of gross sales of all tangible personal property and taxable services rendered by the retailer during the period for which the return is made; (3) the total amount received during the period for which the return is made on charge and time sales of tangible personal property made and taxable services rendered prior to the period for which the return is made; (4) deductions allowed by law from such total amount of gross sales and from total amount received during the period for which the return is made on such charge and time sales; (5) receipts during the period for which the return is made from the total amount of sales of tangible personal property and taxable services rendered during such period in the course of such business, after deductions allowed by law have been made; (6) receipts during the period for which the return is made from charge and time sales of tangible personal property made and taxable services rendered prior to such period in the course of such business, after deductions allowed by law have been made; (7) gross receipts during the period for which the return is made from sales of tangible personal property and taxable services rendered in the course of such business upon the basis of which the tax is imposed. The return shall include such other pertinent information as the director may require. In making such return, the retailer shall determine the market value of any consideration, other than money, received in connection with the sale of any tangible personal property in the course of the business and shall include such value in the return. Such value shall be subject to review and revision by the director as hereinafter provided. Refunds made by the retailer during the period for which the return is made on account of tangible personal property returned to the retailer shall be allowed as a deduction under paragraph (4) in case the retailer has theretofore included the receipts from such sale in a return made by such retailer and paid taxes therein imposed by this act. The retailer shall, at the time of making such return, pay to the director the amount of tax herein imposed, except as otherwise provided in this section. The director may extend the time for making returns and paying the tax required by this act for any period not to exceed 60 days under such rules and regulations as the secretary of revenue may prescribe. (b) (1) When the total tax for which any retailer is liable under this act, does not exceed the sum of $400 in any calendar year, the retailer shall file an annual return on or before January 25 of the following year. When the total tax liability does not exceed $4,000 in any calendar year, the retailer shall file returns quarterly on or before the 25 th day of the month following the end of each calendar quarter. When the total tax liability exceeds $4,000 in any calendar year, the retailer shall file a return for each month on or before the 25 th day of the following month. The provisions of this paragraph shall expire on December 31, 202 3 . (2) On and after January 1, 2024, the retailer shall file: (A) An annual return on or before January 25 of the following year when the total tax for which any retailer is liable under this act does not exceed the sum of $1,000 in any calendar year; (B) returns quarterly on or before the 25 th day of the month following the end of each calendar quarter when the total tax liability does not exceed $5,000 in any calendar year; or (C) a return for each month on or before the 25 th day of the following month when the total tax liability exceeds $5,000 in any calendar year. (3) Determinations of amounts of liability in a calendar year for purposes of determining filing requirements shall be made by the director upon the basis of amounts of liability by those retailers during the preceding calendar year or by estimates in cases of retailers having no previous sales tax histories. The director is hereby authorized to modify the filing schedule for any retailer when it is apparent that the original determination was inaccurate. (c) All model 1, model 2 and model 3 sellers are required to file returns electronically. Any model 1, model 2 or model 3 seller may submit its sales and use tax returns in a simplified format approved by the director. Any seller that is registered under the agreement, which does not have a legal requirement to register in this state, and is not a model 1, model 2 or model 3 seller, may submit its sales and use tax returns as follows: (1) Upon registration, the director shall provide to the seller the returns required; (2) seller shall file a return anytime within one year of the month of initial registration, and future returns are required on an annual basis in succeeding years; and (3) in addition to the returns required in subsection (c)(2), sellers are required to submit returns in the month following any month in which they have accumulated state and local sales tax funds for this state in the amount of $1,600 or more.</p>
+            </content>
+            <subsection eId="79_3607__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Retailers shall make returns to the director at the times prescribed by this section in the manner prescribed by the director, including electronic filing, upon forms or format prescribed by the director stating:</p>
+              </content>
+              <paragraph eId="79_3607__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The name and address of the retailer;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the total amount of gross sales of all tangible personal property and taxable services rendered by the retailer during the period for which the return is made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>the total amount received during the period for which the return is made on charge and time sales of tangible personal property made and taxable services rendered prior to the period for which the return is made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>deductions allowed by law from such total amount of gross sales and from total amount received during the period for which the return is made on such charge and time sales;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>receipts during the period for which the return is made from the total amount of sales of tangible personal property and taxable services rendered during such period in the course of such business, after deductions allowed by law have been made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>receipts during the period for which the return is made from charge and time sales of tangible personal property made and taxable services rendered prior to such period in the course of such business, after deductions allowed by law have been made;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_7">
+                <num>(7)</num>
+                <content>
+                  <p>gross receipts during the period for which the return is made from sales of tangible personal property and taxable services rendered in the course of such business upon the basis of which the tax is imposed. The return shall include such other pertinent information as the director may require. In making such return, the retailer shall determine the market value of any consideration, other than money, received in connection with the sale of any tangible personal property in the course of the business and shall include such value in the return. Such value shall be subject to review and revision by the director as hereinafter provided. Refunds made by the retailer during the period for which the return is made on account of tangible personal property returned to the retailer shall be allowed as a deduction under paragraph</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_a__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>in case the retailer has theretofore included the receipts from such sale in a return made by such retailer and paid taxes therein imposed by this act. The retailer shall, at the time of making such return, pay to the director the amount of tax herein imposed, except as otherwise provided in this section. The director may extend the time for making returns and paying the tax required by this act for any period not to exceed 60 days under such rules and regulations as the secretary of revenue may prescribe.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3607__subsec_b">
+              <num>(b)</num>
+              <paragraph eId="79_3607__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>When the total tax for which any retailer is liable under this act, does not exceed the sum of $400 in any calendar year, the retailer shall file an annual return on or before January 25 of the following year. When the total tax liability does not exceed $4,000 in any calendar year, the retailer shall file returns quarterly on or before the 25 th day of the month following the end of each calendar quarter. When the total tax liability exceeds $4,000 in any calendar year, the retailer shall file a return for each month on or before the 25 th day of the following month. The provisions of this paragraph shall expire on December 31, 202 3 .</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>On and after January 1, 2024, the retailer shall file: (A) An annual return on or before January 25 of the following year when the total tax for which any retailer is liable under this act does not exceed the sum of $1,000 in any calendar year; (B) returns quarterly on or before the 25 th day of the month following the end of each calendar quarter when the total tax liability does not exceed $5,000 in any calendar year; or (C) a return for each month on or before the 25 th day of the following month when the total tax liability exceeds $5,000 in any calendar year.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>Determinations of amounts of liability in a calendar year for purposes of determining filing requirements shall be made by the director upon the basis of amounts of liability by those retailers during the preceding calendar year or by estimates in cases of retailers having no previous sales tax histories. The director is hereby authorized to modify the filing schedule for any retailer when it is apparent that the original determination was inaccurate.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3607__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>All model 1, model 2 and model 3 sellers are required to file returns electronically. Any model 1, model 2 or model 3 seller may submit its sales and use tax returns in a simplified format approved by the director. Any seller that is registered under the agreement, which does not have a legal requirement to register in this state, and is not a model 1, model 2 or model 3 seller, may submit its sales and use tax returns as follows:</p>
+              </content>
+              <paragraph eId="79_3607__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Upon registration, the director shall provide to the seller the returns required;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>seller shall file a return anytime within one year of the month of initial registration, and future returns are required on an annual basis in succeeding years; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3607__subsec_c__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>in addition to the returns required in subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

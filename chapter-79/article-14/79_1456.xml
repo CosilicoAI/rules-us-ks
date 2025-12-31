@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1456"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1456"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1456/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1456/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1456/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1456/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1456">
+            <num>79-1456</num>
+            <heading>Duty of county appraiser to follow guidelines, procedures and methodologies of director of property valuation; deviation from appraisal guides, when; rules and regulations</heading>
+            <content>
+              <p>79-1456. Duty of county appraiser to follow guidelines, procedures and methodologies of director of property valuation; deviation from appraisal guides, when; rules and regulations. (a) The county appraiser shall follow the policies, procedures and guidelines of the director of property valuation in the performance of the duties of the office of county appraiser. If the director has developed and adopted methodologies to value specific types of property, the county appraiser shall be required to follow such methodologies. Prior to January 1, 2017, the secretary of revenue shall adopt rules and regulations necessary to administer the provisions of this section. (b) The county appraiser in establishing values for various types of personal property, shall conform to the values for such property as shown in the personal property appraisal guides prescribed or furnished by the director of property valuation. The county appraiser may deviate from the values shown in such guides on an individual piece of personal property for just cause shown and in a manner consistent with achieving fair market value.</p>
+            </content>
+            <subsection eId="79_1456__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county appraiser shall follow the policies, procedures and guidelines of the director of property valuation in the performance of the duties of the office of county appraiser. If the director has developed and adopted methodologies to value specific types of property, the county appraiser shall be required to follow such methodologies. Prior to January 1, 2017, the secretary of revenue shall adopt rules and regulations necessary to administer the provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1456__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The county appraiser in establishing values for various types of personal property, shall conform to the values for such property as shown in the personal property appraisal guides prescribed or furnished by the director of property valuation. The county appraiser may deviate from the values shown in such guides on an individual piece of personal property for just cause shown and in a manner consistent with achieving fair market value.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

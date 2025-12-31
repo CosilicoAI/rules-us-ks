@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3375"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3375"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3375/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3375/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3375/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3375/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3375">
+            <num>79-3375</num>
+            <heading>Issuance, expiration and display of licenses; license not transferable</heading>
+            <content>
+              <p>79-3375. Issuance, expiration and display of licenses; license not transferable. Upon receipt of an application in proper form and payment of the license fee required hereunder, the director shall, unless otherwise provided by this act, issue to applicant a license hereunder, which license shall permit the applicant to whom it is issued to engage in business as a distributor at the place of business shown on the license. Each license shall expire on December thirty-first following its date of issue unless sooner revoked by the director, or unless the business for which the license was issued is transferred. In either case the holder of the license shall immediately surrender it to the director. Each license shall be prominently displayed on the premises covered by the license. No license shall be transferable to any other person.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3674"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3674"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3674/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3674/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3674/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3674/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3674">
+            <num>79-3674</num>
+            <heading>Same; bad debt deductions from uncollectable taxable sales; requirements and procedures</heading>
+            <content>
+              <p>79-3674. Same; bad debt deductions from uncollectable taxable sales; requirements and procedures. (a) A seller is allowed a deduction from taxable sales for bad debts attributable to taxable sales of such seller that have become uncollectable. Any deduction taken that is attributed to bad debts shall not include interest. (b) The amount of the bad debt deduction shall be calculated pursuant to 26 U.S.C. § 166(b), except that such amount shall be adjusted to exclude financing charges or interest, sales or use taxes charged on the purchase price, uncollectable amounts on property that remain in the possession of the seller until the full purchase price is paid and expenses incurred in attempting to collect any debt and repossessed property. (c) Bad debts may be deducted on the return for the period during which the bad debt is written off as uncollectable in the seller's books and records and is eligible to be deducted for federal income tax purposes. For purposes of this subsection, a seller who is not required to file federal income tax returns may deduct a bad debt on a return filed for the period in which the bad debt is written off as uncollectable in the seller's books and records and would be eligible for a bad debt deduction for federal income tax purposes if the seller was required to file a federal income tax return. (d) If a deduction is taken for a bad debt and the debt is subsequently collected in whole or in part, the tax on the amount so collected must be paid and reported on the return filed for the period in which the collection is made. (e) When the amount of bad debt exceeds the amount of taxable sales for the period during which the bad debt is written off, a refund claim may be filed by the seller within the applicable statute of limitations for refund claim pursuant to subsection (b) of K.S.A. 79-3609, and amendments thereto; however, the statute of limitations shall be measured from the due date of the return on which the bad debt could first be claimed. (f) Where filing responsibilities have been assumed by a certified service provider, the service provider may claim, on behalf of the seller, any bad debt allowance provided by this section. The certified service provider must credit or refund the full amount of any bad debt allowance or refund received to the seller. (g) For the purposes of reporting a payment received on a previously claimed bad debt, any payments made on a debt or account must first be applied proportionally to the taxable price of the property or service and the sales tax thereon, and secondly to interest, service charges and any other charges. (h) In situations where the books and records of the seller, or certified service provider on behalf of the seller, claiming the bad debt allowance support an allocation of the bad debts among the member states, such an allocation is permitted.</p>
+            </content>
+            <subsection eId="79_3674__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A seller is allowed a deduction from taxable sales for bad debts attributable to taxable sales of such seller that have become uncollectable. Any deduction taken that is attributed to bad debts shall not include interest.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the bad debt deduction shall be calculated pursuant to 26 U.S.C. § 166</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Bad debts may be deducted on the return for the period during which the bad debt is written off as uncollectable in the seller's books and records and is eligible to be deducted for federal income tax purposes. For purposes of this subsection, a seller who is not required to file federal income tax returns may deduct a bad debt on a return filed for the period in which the bad debt is written off as uncollectable in the seller's books and records and would be eligible for a bad debt deduction for federal income tax purposes if the seller was required to file a federal income tax return.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>If a deduction is taken for a bad debt and the debt is subsequently collected in whole or in part, the tax on the amount so collected must be paid and reported on the return filed for the period in which the collection is made.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When the amount of bad debt exceeds the amount of taxable sales for the period during which the bad debt is written off, a refund claim may be filed by the seller within the applicable statute of limitations for refund claim pursuant to subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>of K.S.A. 79-3609, and amendments thereto; however, the statute of limitations shall be measured from the due date of the return on which the bad debt could first be claimed.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Where filing responsibilities have been assumed by a certified service provider, the service provider may claim, on behalf of the seller, any bad debt allowance provided by this section. The certified service provider must credit or refund the full amount of any bad debt allowance or refund received to the seller.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>For the purposes of reporting a payment received on a previously claimed bad debt, any payments made on a debt or account must first be applied proportionally to the taxable price of the property or service and the sales tax thereon, and secondly to interest, service charges and any other charges.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3674__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>In situations where the books and records of the seller, or certified service provider on behalf of the seller, claiming the bad debt allowance support an allocation of the bad debts among the member states, such an allocation is permitted.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

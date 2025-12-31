@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3461"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3461"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3461/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3461/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3461/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3461/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3461">
+            <num>79-3461</num>
+            <heading>Refund revolving fund</heading>
+            <content>
+              <p>79-3461. Refund revolving fund. A revolving fund designated as the motor-vehicle fuel tax refund fund not to exceed one million dollars ($1,000,000) shall be set apart and maintained by the director from the motor-vehicle fuel tax collected under the provisions of article 34 of chapter 79 of the General Statutes of 1935 and the 1947 Supplement thereto and acts amendatory thereof or supplemental thereto, and held by the state treasurer for the payment of all refunds authorized by this act.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

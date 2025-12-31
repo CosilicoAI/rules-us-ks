@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-221"/>
+          <FRBRuri value="/us-ks/act/ksa/79-221"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-221/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-221/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-221/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-221/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_2">
+          <num>Article 2</num>
+          <heading>Property Exempt from Taxation</heading>
+          <section eId="sec_79_221">
+            <num>79-221</num>
+            <heading>Section 79-221</heading>
+            <content>
+              <p>2023-2024
+Legislative Sessions
+Return to current session
+Home •
+News •
+Contact •
+House
+Leadership
+Committees
+Rules
+Current Events
+Seating Chart
+Roster
+Chief Clerk of the House
+Senate
+Leadership
+Committees
+Confirmations
+Rules
+Current Events
+Seating Chart
+Roster
+Secretary of the Senate
+Legislators
+House Leadership
+House Roster
+Senate Leadership
+Senate Roster
+Committees
+Committees
+Standing
+Joint
+Special and Select
+Commission
+Subcommittee
+Task Force
+Other
+Conference Schedules
+Conference Committees
+Committee Bill Hearings
+Bills &amp; Laws
+Senate Bills
+House Bills
+Statute
+Reports
+Actions and Subject Index Report
+How a bill becomes law (pdf)
+Kansas Constitution
+Contact the Revisor
+Journals
+House Journal
+Senate Journal
+What is a Journal?
+Calendars
+House Calendar
+Senate Calendar
+What Is A Calendar?
+Research
+Memos/Reports/Publications
+Appropriations
+Revenue/Taxation
+Redistricting
+About KLRD
+Historical
+2025-26 Regular Sessions
+2024 Special Session
+2021-2022 Regular Sessions
+2021 Special Session
+2020 Special Session
+2019-2020 Regular Sessions
+2017-2018 Regular Sessions
+2016 Special Session
+2015-2016 Regular Sessions
+2013-2014 Regular Sessions
+2013 Special Session
+2011-2012 Regular Sessions
+1997 - 2010 Sessions
+2000 - 2010 Committee Data
+Find Bill
+Bill/Resolution Lookup:
+Find Your Legislator
+Chamber:
+Both Chambers
+Senate
+House
+Party:
+All Parties
+Republican
+Democrat
+Search by Your Address
+Legislative Deadlines
+Senate Deadlines
+(PDF)
+House Deadlines
+(PDF)
+Current Events
+Statute
+Legislative Resources
+Administrative Services
+Division of Post Audit
+Information Services
+Research Department
+Revisor of Statutes
+LCC Policies
+About the Legislature
+Other State Resources
+Kansas.gov
+Ethics Commission
+How Do I…
+Become A Legislative Intern
+Become A Legislative Page
+Apply For Session Work
+Dec. 31, 2025
+-A
++A
+House Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+Senate Status:
+Adjourned until Monday, January 13, 2025 at 02:00 p.m.
+you are here:
+Home
+»
+Statute
+»
+Chapter 79
+»
+Article 22
+»
+Section 1
+»
+2024
+ Statute
+Prev
+Article 22. - STATE AD VALOREM PROPERTY TAX LEVIES
+Next
+79-2201.
+Remittance of proceeds of state property tax levies, when; disposition of same.
+The county treasurer shall remit all moneys allocated to the state from the proceeds of tax levies imposed by K.S.A. 76-6b01, 76-6b04 and 76-6b09, and amendments thereto, except the proceeds of such tax levies imposed upon motor vehicles, to the state treasurer as provided in this section. The county treasurer, on or before October 31, January 20, March 20, June 5 and September 20 of each year, shall remit to the state treasurer the estimated amount collected for and owed to the state, except that the amount so determined and remitted shall not be less than the actual amount collected for the state as of the date which is 20 days prior to the date of remittance. Each such remittance shall be accompanied by certification which specifies the amount for each year for which the taxes were collected and are remitted. Upon receipt of such moneys, the state treasurer shall deposit the same in the state treasury and shall credit the appropriate portions of each such deposit to the Kansas educational building fund, to the state institutions building fund and to the correctional institutions building fund in accordance with the tax levies in effect under K.S.A. 76-6b01, 76-6b04 and 76-6b09, and amendments thereto, for the period for which the taxes were collected.
+History:
+L. 1876, ch. 34, § 99; L. 1891, ch. 41, § 1; L. 1905, ch. 471, § 1; L. 1923, ch. 224, § 1; R.S. 1923, 79-2201; L. 1937, ch. 359, § 3; L. 1967, ch. 493, § 1; L. 1974, ch. 414, § 7; L. 1984, ch. 356, § 1; L. 1986, ch. 360, § 3; L. 2003, ch. 146, § 6; January 1, 2004.
+Prev
+Article 22. - STATE AD VALOREM PROPERTY TAX LEVIES
+Next
+2025. Powered by KLISS. Rendered: 2025-12-31T11:42:51. Head Rev No: 1485844(I)</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

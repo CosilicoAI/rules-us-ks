@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1495"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1495"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1495/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1495/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1495/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1495/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1495">
+            <num>79-1495</num>
+            <heading>Computer-assisted mass-appraisal system; verification of accuracy; requirements</heading>
+            <content>
+              <p>79-1495. Computer-assisted mass-appraisal system; verification of accuracy; requirements. In any county which fails to meet the minimum appraisal standards for commercial real property established by the official Kansas appraisal/sales ratio study conducted for the preceding year by the division of property valuation of the department of revenue, the director of property valuation shall be required to perform, or to contract with an independent third party to perform, a market-based appraisal of no less than 1% of the commercial properties appraised by the computer-assisted mass-appraisal system within the county as a verification of the accuracy of such system. The properties shall be selected so to represent a sample of the commercial property types which failed to meet statistical compliance in the county. The property owner shall be allowed the opportunity to meet with the appraiser in order to offer pertinent data and insight on the issues that would affect the value of the property. This appraisal will not be an official appraisal of the property and will be used for the purposes of quality assurance of the mass-appraisal system. If the independent appraisal reveals a statistical deviation greater than 5% on more than 25% of the audited properties, then the director will perform additional audits in those counties and require corrective action necessary to ensure a fair and accurate appraisal.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

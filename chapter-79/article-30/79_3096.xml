@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3096"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3096"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3096/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3096/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3096/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3096/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_30">
+          <num>Article 30</num>
+          <heading>Excise and Sales Taxes</heading>
+          <section eId="sec_79_3096">
+            <num>79-3096</num>
+            <heading>Same; allocations to counties from highway fund, when; limitations</heading>
+            <content>
+              <p>79-3096. Same; allocations to counties from highway fund, when; limitations. In the event of and as of the date of the discontinuance by the federal government of the distribution of moneys to the state of Kansas for use, after matching, upon federal aid secondary roads, then and to the extent such moneys may be discontinued up to but not to exceeding three million five hundred thousand dollars ($3,500,000) per year, the state treasurer shall allocate to the various counties of the state moneys from the highway fund to guarantee to said counties either from federal aid secondary funds or from the tax here levied, or both, the total sum of three million five hundred thousand dollars ($3,500,000) per year, said moneys from said allocation to be made, used and expended by said counties in the manner provided by section 79-3425b of the General Statutes Supplement of 1961, and amendments thereto. In the event the moneys provided said counties by said section 79-3425b shall cease to be available to said counties, then this section shall be of no force or effect, it being the purpose of this section to provide continuity of what is now known as the county federal aid secondary road program at a rate of seven million dollars ($7,000,000) per year, so long as section 79-3425b is in effect.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1011"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1011/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1011/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_10">
+          <num>Article 10</num>
+          <heading>Merchants, Manufacturers, Motor Vehicle Dealers and Certain Contractors</heading>
+          <section eId="sec_79_1011">
+            <num>79-1011</num>
+            <heading>Same; secretary of state as agent for service of process, appointment; effect</heading>
+            <content>
+              <p>79-1011. Same; secretary of state as agent for service of process, appointment; effect. At the time such contractor registers with the secretary or the secretary's designee, the contractor shall make an appointment, in writing, of the secretary of state of the state of Kansas, or the secretary's successor in office, to be the true and lawful agent of the contractor, upon whom may be served all lawful process in any action or proceeding against the nonresident contractor for state and local taxes growing out of any contract executed, or being executed, in this state. Such appointment, in writing, shall be evidence of such contractor's agreement that any such process against the contractor which is so served on the secretary of state shall be of the same legal force and validity as if served upon the contractor personally within the state.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

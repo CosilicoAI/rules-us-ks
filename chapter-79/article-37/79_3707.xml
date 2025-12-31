@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3707"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3707"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3707/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3707/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3707/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3707/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_37">
+          <num>Article 37</num>
+          <heading>Kansas Compensating Tax</heading>
+          <section eId="sec_79_3707">
+            <num>79-3707</num>
+            <heading>Administration of act; rules and regulations; agents and employees; bond of person subject to tax; reciprocal agreements with other states for collection of tax; deductions and compromise arrangements</heading>
+            <content>
+              <p>79-3707. Administration of act; rules and regulations; agents and employees; bond of person subject to tax; reciprocal agreements with other states for collection of tax; deductions and compromise arrangements. (a) The director of taxation shall administer and enforce this act. The secretary of revenue shall adopt rules and regulations for the administration of this act. The director shall appoint agents and employees for the enforcement and administration of this act. When in the judgment of the director it is necessary in order to secure the collection of any tax, penalties or interest due, or to become due under this act, he may require any person subject to such tax to file a bond with the director in such form and amount as he may prescribe. (b) For the purpose of providing for the efficient administration of this act, the secretary of revenue when in his or her judgment it is necessary in order to secure the collection of any tax, penalties or interest due or to become due under this act is authorized to negotiate agreements with the tax departments of other states in respect to the collection, payment and enforcement of tax on sales of tangible personal property to residents of Kansas by a retailer maintaining a place of business in such state. In consideration of such an agreement, the secretary of revenue is authorized to make similar agreements for the collection, payment and enforcement of tax as imposed by the other states on sales of tangible property to residents of the other states by retailers maintaining a place of business in Kansas. (c) The secretary of revenue in negotiating an agreement with the tax department of another state may as part of such agreements provide for reciprocal arrangements whereby the parties collecting the tax in the other state may at the time of making returns to the director of taxation deduct such percentage of the amount due and accounted for, which may be retained by the parties reporting as an offset against costs of collecting and reporting as is allowed by such other states to parties in this state collecting the tax for the other state. No such deduction shall be allowed however, if the amount due is delinquent at the time of the tax payment. (d) The secretary of revenue in negotiating agreements is authorized, by way of compromise, to waive the collection and enforcement of taxes on sales to residents of Kansas made in another state and delivered into Kansas when such sales were made prior to the effective date of any agreement negotiated: Provided, The director shall not, in any case, be authorized to waive payment and enforcement of the tax in another state unless the tax department of the other state waives collection, payment and enforcement of their tax in this state in the same manner as the tax payment is waived by this state.</p>
+            </content>
+            <subsection eId="79_3707__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The director of taxation shall administer and enforce this act. The secretary of revenue shall adopt rules and regulations for the administration of this act. The director shall appoint agents and employees for the enforcement and administration of this act. When in the judgment of the director it is necessary in order to secure the collection of any tax, penalties or interest due, or to become due under this act, he may require any person subject to such tax to file a bond with the director in such form and amount as he may prescribe.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3707__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of providing for the efficient administration of this act, the secretary of revenue when in his or her judgment it is necessary in order to secure the collection of any tax, penalties or interest due or to become due under this act is authorized to negotiate agreements with the tax departments of other states in respect to the collection, payment and enforcement of tax on sales of tangible personal property to residents of Kansas by a retailer maintaining a place of business in such state. In consideration of such an agreement, the secretary of revenue is authorized to make similar agreements for the collection, payment and enforcement of tax as imposed by the other states on sales of tangible property to residents of the other states by retailers maintaining a place of business in Kansas.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3707__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The secretary of revenue in negotiating an agreement with the tax department of another state may as part of such agreements provide for reciprocal arrangements whereby the parties collecting the tax in the other state may at the time of making returns to the director of taxation deduct such percentage of the amount due and accounted for, which may be retained by the parties reporting as an offset against costs of collecting and reporting as is allowed by such other states to parties in this state collecting the tax for the other state. No such deduction shall be allowed however, if the amount due is delinquent at the time of the tax payment.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3707__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The secretary of revenue in negotiating agreements is authorized, by way of compromise, to waive the collection and enforcement of taxes on sales to residents of Kansas made in another state and delivered into Kansas when such sales were made prior to the effective date of any agreement negotiated: Provided, The director shall not, in any case, be authorized to waive payment and enforcement of the tax in another state unless the tax department of the other state waives collection, payment and enforcement of their tax in this state in the same manner as the tax payment is waived by this state.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

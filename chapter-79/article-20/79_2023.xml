@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2023"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2023"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2023/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2023/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2023/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2023/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2023">
+            <num>79-2023</num>
+            <heading>Wyandotte county accumulated interest amnesty program</heading>
+            <content>
+              <p>79-2023. Wyandotte county accumulated interest amnesty program. (a) In accordance with the provisions of this section, the board of county commissioners of Wyandotte county may institute and administer a property tax accumulated interest amnesty program. Such program shall only be in effect for a 60-day period as specified by such board, and shall be instituted and completed prior to July 1, 1995. Notice of the institution and time period of such program shall be by publication in a newspaper having general circulation in the county. Also, notices shall be mailed to the owner of any homestead or other property who may qualify to participate in the program. (b) Upon completion and execution of an application affidavit for eligibility for participation in the amnesty program by a qualified person, and payment of all or a portion of delinquent property tax, the county treasurer shall cancel all accumulated interest which has accrued upon the amount of such tax paid. (c) As used in this section: (1) &quot;Qualified person&quot; means an individual or such individual's heirs who own and reside in a homestead upon which is owed delinquent property tax, or a person, corporation or other association of persons who own real property upon which is owed delinquent property tax; (2) &quot;homestead&quot; shall have the meaning ascribed thereto by section 9 of article 15 of the Kansas constitution; and (3) &quot;delinquent property tax&quot; means property tax, including any special assessments, levied upon a homestead or other real property which has remained unpaid for at least two years after it became due. (d) The provisions of this section shall not be construed to conflict or otherwise affect any other provisions of law relating to the redemption, sale or foreclosure of real estate resulting from delinquent property tax.</p>
+            </content>
+            <subsection eId="79_2023__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In accordance with the provisions of this section, the board of county commissioners of Wyandotte county may institute and administer a property tax accumulated interest amnesty program. Such program shall only be in effect for a 60-day period as specified by such board, and shall be instituted and completed prior to July 1, 1995. Notice of the institution and time period of such program shall be by publication in a newspaper having general circulation in the county. Also, notices shall be mailed to the owner of any homestead or other property who may qualify to participate in the program.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_2023__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon completion and execution of an application affidavit for eligibility for participation in the amnesty program by a qualified person, and payment of all or a portion of delinquent property tax, the county treasurer shall cancel all accumulated interest which has accrued upon the amount of such tax paid.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_2023__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>As used in this section:</p>
+              </content>
+              <paragraph eId="79_2023__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Qualified person&quot; means an individual or such individual's heirs who own and reside in a homestead upon which is owed delinquent property tax, or a person, corporation or other association of persons who own real property upon which is owed delinquent property tax;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_2023__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;homestead&quot; shall have the meaning ascribed thereto by section 9 of article 15 of the Kansas constitution; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_2023__subsec_c__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;delinquent property tax&quot; means property tax, including any special assessments, levied upon a homestead or other real property which has remained unpaid for at least two years after it became due.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_2023__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The provisions of this section shall not be construed to conflict or otherwise affect any other provisions of law relating to the redemption, sale or foreclosure of real estate resulting from delinquent property tax.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

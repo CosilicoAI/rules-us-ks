@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-4521"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4521"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-4521/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4521/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-4521/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4521/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_45">
+          <num>Article 45</num>
+          <heading>Homestead Property Tax Refunds</heading>
+          <section eId="sec_79_4521">
+            <num>79-4521</num>
+            <heading>Claimant's election to receive direct refund or credit against tax; administration of payment methods by state and county officials; payment of taxes in excess of claim</heading>
+            <content>
+              <p>79-4521. Claimant's election to receive direct refund or credit against tax; administration of payment methods by state and county officials; payment of taxes in excess of claim. (a) (1) Beginning in 2001, and in each succeeding year through 2005, the director of taxation shall issue a certificate of eligibility for refund to each claimant who received a refund of property taxes under the homestead property tax refund act for the prior year. After the certificate has been completed by the claimant and the county clerk of the county in which the property is located, the claimant may present such certificate to the county treasurer in lieu of paying that portion of the first half of taxes on the claimant's homestead in the current year which equals the amount of the homestead property tax refund received by the claimant for taxes levied in the preceding year up to the amount of the first half of the property taxes due. (2) Prior to presenting the certificate of eligibility for refund issued under subsection (a)(1) to the county treasurer, the claimant shall sign the certificate, and shall also assign, in a space provided on the certificate, the refund to the county to pay the taxes on the claimant's homestead for the year in which such certificate is issued. The claimant shall then submit the certificate of eligibility to the county clerk for review. The county clerk shall review the claim, based on proof of eligibility as prescribed in rules and regulations adopted by the secretary of revenue, to determine whether the claimant will be eligible for the refund. If the county clerk is satisfied the claimant will be eligible, the county clerk shall sign the certificate and return it to the claimant. (3) The county treasurer shall send a copy of each certificate of eligibility for refund under subsections (a)(1) and (a)(2) to the director of taxation by December 31 of each year prior to 2006. After receiving a claim of any claimant who has obtained a certificate of eligibility under this section, the director shall examine the same, and if the claim is valid, the director of accounts and reports shall draw a warrant in favor of the county in which claimant's homestead is located upon a voucher approved by the director of taxation in the amount of the allowable claim for refund. Sufficient information to identify the claimant shall be directed to the county treasurer with each warrant. Any taxes levied in any year on the homestead of any claimant who has obtained the certificate of eligibility under subsections (a)(1) and (a)(2) in excess of the amount paid to the county by the state and by the claimant on or before December 20 of such year shall be paid by the claimant on or before May 10 of the succeeding year. (b) (1) Beginning in 2006, and in each succeeding year, the director of taxation shall issue to the county clerk by October 15 an electronic record containing the name of each eligible claimant who received a refund of property taxes under the homestead property tax refund act for the prior year. (2) When initially filing a claim for a homestead property tax refund between January 1 and April 15, 2006, and between January 1 and April 15 of each year thereafter, the claimant shall be given an election to receive such refund directly from the director of taxation or have such refund applied on claimant's ad valorem taxes in the county. The claimant shall make the election on a form supplied by the director of taxation. Such refund shall not be applied to any special assessment. (3) After the electronic record under subsection (b)(1) has been received from the director of taxation, the county clerk of the county in which the property is located shall make any corrections needed, if any, based upon information known by the county clerk concerning any change in eligibility of any claimant listed in such record. After any needed corrections have been made to the electronic record, the county clerk, on behalf of each claimant listed in such record, shall certify the information contained in such record to the county treasurer in lieu of paying that portion of the first half of taxes on the claimant's homestead in the current year which equals the amount of the homestead property tax refund received by the claimant for taxes levied in the preceding year up to the amount of the first half of the property taxes due. (4) Beginning in 2006, and in each succeeding year, the county treasurer shall certify and return the electronic record referred to in subsection (b)(1), including any changes made by the county clerk pursuant to subsection (b)(3), to the director of taxation by December 31. After receiving a claim of any claimant who is listed in the electronic record submitted by the county treasurer, the director shall examine the same, and if the claim is valid, the director of accounts and reports shall draw a warrant in favor of the county in which claimant's homestead is located upon a voucher approved by the director of taxation in the amount of the allowable claim for refund. Sufficient information to identify the claimant shall be directed to the county treasurer with each warrant. Any taxes levied in any year on the homestead of any claimant who has obtained the eligibility herein provided for in excess of the amount paid to the county by the state and by the claimant on or before December 20 of such year shall be paid by the claimant on or before May 10 of the succeeding year. (5) For the purposes of this subsection (b), the term &quot;electronic record&quot; shall have the meaning ascribed to it in K.S.A. 16-1602, and amendments thereto.</p>
+            </content>
+            <subsection eId="79_4521__subsec_a">
+              <num>(a)</num>
+              <paragraph eId="79_4521__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Beginning in 2001, and in each succeeding year through 2005, the director of taxation shall issue a certificate of eligibility for refund to each claimant who received a refund of property taxes under the homestead property tax refund act for the prior year. After the certificate has been completed by the claimant and the county clerk of the county in which the property is located, the claimant may present such certificate to the county treasurer in lieu of paying that portion of the first half of taxes on the claimant's homestead in the current year which equals the amount of the homestead property tax refund received by the claimant for taxes levied in the preceding year up to the amount of the first half of the property taxes due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>Prior to presenting the certificate of eligibility for refund issued under subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>to the county treasurer, the claimant shall sign the certificate, and shall also assign, in a space provided on the certificate, the refund to the county to pay the taxes on the claimant's homestead for the year in which such certificate is issued. The claimant shall then submit the certificate of eligibility to the county clerk for review. The county clerk shall review the claim, based on proof of eligibility as prescribed in rules and regulations adopted by the secretary of revenue, to determine whether the claimant will be eligible for the refund. If the county clerk is satisfied the claimant will be eligible, the county clerk shall sign the certificate and return it to the claimant.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>The county treasurer shall send a copy of each certificate of eligibility for refund under subsections</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>to the director of taxation by December 31 of each year prior to 2006. After receiving a claim of any claimant who has obtained a certificate of eligibility under this section, the director shall examine the same, and if the claim is valid, the director of accounts and reports shall draw a warrant in favor of the county in which claimant's homestead is located upon a voucher approved by the director of taxation in the amount of the allowable claim for refund. Sufficient information to identify the claimant shall be directed to the county treasurer with each warrant. Any taxes levied in any year on the homestead of any claimant who has obtained the certificate of eligibility under subsections</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>in excess of the amount paid to the county by the state and by the claimant on or before December 20 of such year shall be paid by the claimant on or before May 10 of the succeeding year.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_4521__subsec_b">
+              <num>(b)</num>
+              <paragraph eId="79_4521__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Beginning in 2006, and in each succeeding year, the director of taxation shall issue to the county clerk by October 15 an electronic record containing the name of each eligible claimant who received a refund of property taxes under the homestead property tax refund act for the prior year.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>When initially filing a claim for a homestead property tax refund between January 1 and April 15, 2006, and between January 1 and April 15 of each year thereafter, the claimant shall be given an election to receive such refund directly from the director of taxation or have such refund applied on claimant's ad valorem taxes in the county. The claimant shall make the election on a form supplied by the director of taxation. Such refund shall not be applied to any special assessment.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>After the electronic record under subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>has been received from the director of taxation, the county clerk of the county in which the property is located shall make any corrections needed, if any, based upon information known by the county clerk concerning any change in eligibility of any claimant listed in such record. After any needed corrections have been made to the electronic record, the county clerk, on behalf of each claimant listed in such record, shall certify the information contained in such record to the county treasurer in lieu of paying that portion of the first half of taxes on the claimant's homestead in the current year which equals the amount of the homestead property tax refund received by the claimant for taxes levied in the preceding year up to the amount of the first half of the property taxes due.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_b__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>Beginning in 2006, and in each succeeding year, the county treasurer shall certify and return the electronic record referred to in subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4521__subsec_b__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>For the purposes of this subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3630"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3630"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3630/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3630/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3630/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3630/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3630">
+            <num>79-3630</num>
+            <heading>Authorization to enjoin certain persons from engaging in business; restraining order; bond</heading>
+            <content>
+              <p>79-3630. Authorization to enjoin certain persons from engaging in business; restraining order; bond. The secretary of revenue or the secretary's designee is hereby authorized to enjoin any person from engaging in the business of selling tangible personal property at retail or rendering or furnishing things or services taxable under the provisions of the Kansas retailers' sales tax act who is found to be in violation of such act and the secretary or the secretary's designee shall be entitled, in any proceeding brought for such purpose to have an order restraining such person from engaging in such business in violation of the provisions of K.S.A. 79-3601 et seq., and amendments thereto, and no bond shall be required for any such restraining order, nor for any temporary or permanent injunction issued in such proceedings.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

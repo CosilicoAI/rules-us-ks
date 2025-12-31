@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3675"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3675"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3675/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3675/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3675/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3675/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3675">
+            <num>79-3675</num>
+            <heading>Same; confidentiality and privacy rights; requirements and procedures</heading>
+            <content>
+              <p>79-3675. Same; confidentiality and privacy rights; requirements and procedures. (a) The purpose of this section is to set forth this state's policy for the protection of the confidentiality rights of all participants in the system and of the privacy interests of consumers who deal with model 1 sellers. (b) As used in this section: (1) &quot;Confidential taxpayer information&quot; means all information that is protected under this state's laws, rules and regulations and privileges; (2) &quot;personally identifiable information&quot; means information that identifies a person; and (3) &quot;anonymous data&quot; means information that does not identify a person. (c) A fundamental precept in model 1 is to preserve the privacy of consumers by protecting their anonymity. With very limited exceptions, a certified service provider (CSP) shall perform its tax calculation, remittance and reporting functions without retaining the personally identifiable information of consumers. (d) The secretary shall provide public notification to consumers, including their exempt purchasers, of the department's practices relating to the collection, use and retention of personally identifiable information. (e) When any personally identifiable information that has been collected and retained is no longer required to ensure the validity of exemptions from taxation that are claimed by reason of a consumer's status or the intended use of the goods or services purchased, such information shall no longer be retained by the department. (f) When personally identifiable information regarding an individual is retained by or on behalf of the department, the secretary shall provide reasonable access by such individual to such individual's own information in the department's possession and a right to correct any inaccurately recorded information. (g) If anyone other than this state, or a person authorized by this state's law or the agreement, seeks to discover personally identifiable information, the secretary shall make a reasonable and timely effort to notify the individual of such request. (h) This privacy policy is subject to enforcement by the attorney general.</p>
+            </content>
+            <subsection eId="79_3675__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The purpose of this section is to set forth this state's policy for the protection of the confidentiality rights of all participants in the system and of the privacy interests of consumers who deal with model 1 sellers.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this section:</p>
+              </content>
+              <paragraph eId="79_3675__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;Confidential taxpayer information&quot; means all information that is protected under this state's laws, rules and regulations and privileges;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3675__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;personally identifiable information&quot; means information that identifies a person; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3675__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;anonymous data&quot; means information that does not identify a person.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3675__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>A fundamental precept in model 1 is to preserve the privacy of consumers by protecting their anonymity. With very limited exceptions, a certified service provider (CSP) shall perform its tax calculation, remittance and reporting functions without retaining the personally identifiable information of consumers.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The secretary shall provide public notification to consumers, including their exempt purchasers, of the department's practices relating to the collection, use and retention of personally identifiable information.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>When any personally identifiable information that has been collected and retained is no longer required to ensure the validity of exemptions from taxation that are claimed by reason of a consumer's status or the intended use of the goods or services purchased, such information shall no longer be retained by the department.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>When personally identifiable information regarding an individual is retained by or on behalf of the department, the secretary shall provide reasonable access by such individual to such individual's own information in the department's possession and a right to correct any inaccurately recorded information.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>If anyone other than this state, or a person authorized by this state's law or the agreement, seeks to discover personally identifiable information, the secretary shall make a reasonable and timely effort to notify the individual of such request.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3675__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>This privacy policy is subject to enforcement by the attorney general.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

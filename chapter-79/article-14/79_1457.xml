@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1457"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1457"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1457/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1457/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1457/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1457/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1457">
+            <num>79-1457</num>
+            <heading>Availability of forms to general public; extensions of time for filing, when; use of approved forms</heading>
+            <content>
+              <p>79-1457. Availability of forms to general public; extensions of time for filing, when; use of approved forms. On or before January 1 of each year, the county appraiser shall make available to the general public all necessary blank forms prescribed or approved by the director of property valuation which are required to be completed and returned by the public to the county appraiser. The county appraiser may extend the time in which the taxpayer shall complete and file such forms. A request for extension of time shall be in writing, state just and adequate reasons on which the request may be granted, and be received by the county appraiser on or before the date on which such forms are required to be filed. The county appraiser shall utilize those forms prescribed or approved by the director of property valuation in making the appraisal of all real and tangible personal property.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

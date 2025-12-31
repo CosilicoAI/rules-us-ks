@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3708"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3708"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3708/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3708/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3708/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3708/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_37">
+          <num>Article 37</num>
+          <heading>Kansas Compensating Tax</heading>
+          <section eId="sec_79_3708">
+            <num>79-3708</num>
+            <heading>Penalties for violations</heading>
+            <content>
+              <p>79-3708. Penalties for violations. Any retailer or person who fails to make a return, or to pay any tax herein provided, or who makes a false or fraudulent return, or who willfully violates any regulation of the director for the enforcement and administration of this act, or aids and abets another in attempting to evade the payment of any tax imposed by this act, or who violates any other provision of this act, shall, upon conviction thereof, be fined not less than one hundred dollars nor more than one thousand dollars or be imprisoned in the county jail not less than one month, nor more than six months, or be both so fined and imprisoned, in the discretion of the court.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

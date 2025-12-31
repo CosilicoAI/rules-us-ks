@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2010"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2010"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2010/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2010/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2010/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2010/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2010">
+            <num>79-2010</num>
+            <heading>County commissioners to certify list of claims allowed</heading>
+            <content>
+              <p>79-2010. County commissioners to certify list of claims allowed. The board of county commissioners of the several counties shall certify to the county treasurer and the county attorney of their respective counties a list of claims allowed by said board of county commissioners within two days after the said claims have been allowed, setting forth the names of claimants and the amounts of said claims allowed.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

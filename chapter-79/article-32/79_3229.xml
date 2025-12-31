@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3229"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3229"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3229/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3229/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3229/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3229/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3229">
+            <num>79-3229</num>
+            <heading>Jeopardy assessments, when; procedures; closing of taxable period</heading>
+            <content>
+              <p>79-3229. Jeopardy assessments, when; procedures; closing of taxable period. Whenever the director of taxation has reason to believe that a taxpayer liable for tax under any provisions of article 32 of chapter 79 of the Kansas Statutes Annotated is about to depart from the state or to remove such taxpayer's property therefrom, or to conceal oneself or such taxpayer's property therein, or to do any other act tending to prejudice, jeopardize or render wholly or partly ineffectual the collection of such tax unless proceedings are brought without delay, the director shall immediately make an assessment for all such taxes due from such taxpayer, noting such finding on the assessment. Thereupon a warrant shall be issued for the collection of the tax as provided in K.S.A. 79-3235 and amendments thereto. The taxpayer may within 15 days from the date of filing of such warrant request a hearing by the director on the correctness of the jeopardy assessment. If the director finds that in certain cases, collection of the tax for the current year will be jeopardized by delay, the director may, in the exercise of discretion, declare the taxable period closed, and immediately issue notice and demand for payment of the tax found to be due. In such cases, collection may be stayed by giving such security as the director may consider adequate. Orders under this section shall be rendered in accordance with the procedures for emergency adjudicative proceedings contained in K.S.A. 77-536 and amendments thereto. Hearings required under this section shall be conducted in accordance with the provisions of the Kansas administrative procedure act.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

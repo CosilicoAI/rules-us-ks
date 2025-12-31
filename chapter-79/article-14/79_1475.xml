@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1475"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1475"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1475/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1475/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1475/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1475/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1475">
+            <num>79-1475</num>
+            <heading>Duties of county appraiser and clerk regarding property discovered to have been omitted from tax rolls</heading>
+            <content>
+              <p>79-1475. Duties of county appraiser and clerk regarding property discovered to have been omitted from tax rolls. Whenever the county appraiser discovers that any real property subject to taxation has been omitted from the tax rolls, such property shall immediately be listed and valued by the appraiser, and returned to the county clerk. The county clerk, upon receipt of the valuation for such property, shall place such property on the tax rolls and compute the amount of tax due based upon the mill levy for the year or years, not to exceed two calendar years preceding January 1 of the calendar year in which the property is discovered, in which such tax should have been levied, and shall certify such amount to the county treasurer as an added or escaped appraisal. The amount of such tax shall be due immediately and payable within 45 days after the issuance of an added or escaped property tax bill by the county treasurer. No interest shall be imposed unless the tax remains unpaid after such 45-day period. Taxes levied pursuant to this section which remain unpaid after such 45 day period shall be deemed delinquent and the county treasurer shall proceed to collect and distribute such tax in the same manner as prescribed by law for the collection and distribution of other taxes levied on property which are delinquent. No property tax levied pursuant to this section shall be payable by any person other than the current owner of the property unless such property was acquired by will, inheritance or gift. Notwithstanding the foregoing, if the current owner of any such property purchased in the tax year in which such property was discovered to have been omitted from the tax rolls pays the property tax which would have been levied upon such property for such year within 45 days after the issuance of an added or escaped property tax bill by the county treasurer, such owner shall not be liable for any property tax which would have been levied upon such property for any prior taxable year.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

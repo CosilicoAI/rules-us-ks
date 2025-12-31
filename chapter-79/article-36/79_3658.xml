@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3658"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3658"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3658/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3658/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3658/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3658/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3658">
+            <num>79-3658</num>
+            <heading>Same; legislative oversight committee established; composition; authorities and duties</heading>
+            <content>
+              <p>79-3658. Same; legislative oversight committee established; composition; authorities and duties. There is hereby created a legislative oversight committee which shall consist of the chairpersons and minority party leaders of the standing committees on taxation of the senate and the house of representatives. The department shall provide testimony and information as requested by the committee. The department shall provide quarterly reports to the governor, the speaker of the house, minority leader of the house, president of the senate and senate minority leader and to the members of the legislative oversight committee on the progress of multi-state discussions.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

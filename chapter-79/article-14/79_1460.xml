@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1460"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1460"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1460/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1460/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1460/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1460/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1460">
+            <num>79-1460</num>
+            <heading>Notification of taxpayer of change in classification or appraised valuation of property, contents; duties of appraiser regarding valuation increase of commercial real property; amendment of appraisal rolls by county appraiser; guide to the property tax appeals process</heading>
+            <content>
+              <p>79-1460. Notification of taxpayer of change in classification or appraised valuation of property, contents; duties of appraiser regarding valuation increase of commercial real property; amendment of appraisal rolls by county appraiser; guide to the property tax appeals process. (a) The county appraiser shall notify each taxpayer in the county annually on or before March 1 for real property and May 1 for personal property, by mail directed to the taxpayer's last known address, of the classification and appraised valuation of the taxpayer's property, except that, the valuation for all real property shall not be increased unless the record of the latest physical inspection was reviewed by the county or district appraiser, and documentation exists to support such increase in valuation in compliance with the directives and specifications of the director of property valuation, and such record and documentation is available to the affected taxpayer. Alternatively, the county appraiser may transmit the classification and appraised valuation to the taxpayer by electronic means if such taxpayer consented to service by electronic means. (b) The valuation for all real property also shall not be increased solely as the result of normal repair, replacement or maintenance of existing structures, equipment or improvements on the property. For the next two taxable years following the taxable year that the valuation for commercial real property has been reduced due to a final determination made pursuant to the valuation appeals process, the county appraiser shall review the computer-assisted mass-appraisal of the property and if, the valuation in either of those two years exceeds the value of the previous year by more than 5%, excluding new construction, change in use or change in classification, the county appraiser shall either: (1) Adjust the valuation of the property based on the information provided in the previous appeal; or (2) order an independent fee simple appraisal of the property to be performed by a Kansas certified real property appraiser. (c) When the valuation for real property has been reduced due to a final determination made pursuant to the valuation appeals process for the prior year, and the county appraiser has already certified the appraisal rolls for the current year to the county clerk pursuant to K.S.A. 79-1466, and amendments thereto, the county appraiser may amend the appraisal rolls and certify the changes to the county clerk to implement the provisions of this subsection and reduce the valuation of the real property to the prior year's final determination, except that such changes shall not be made after October 31 of the current year. (d) (1) The notice provided under subsection (a) shall specify: (A) Separately for the previous tax year and the current tax year, the appraised and assessed values for each property class identified on the parcel; (B) the uniform parcel identification number prescribed by the director of property valuation; and (C) a statement of the taxpayer's right to appeal, the procedure to be followed in making such appeal and the availability without charge of the guide devised pursuant to subsection (g). (2) Such notice may, and if the board of county commissioners so require, shall provide the parcel identification number, address and the sale date and amount of any or all sales utilized in the determination of appraised value of residential real property. (e) In any year in which no change in appraised valuation of any real property from its appraised valuation in the next preceding year is determined, an alternative form of notification which has been approved by the director of property valuation may be utilized by a county. (f) Failure to timely mail or receive such notice shall in no way invalidate the classification or appraised valuation as changed. The secretary of revenue shall adopt rules and regulations necessary to implement the provisions of this section. (g) There shall be provided to each taxpayer, upon request, a guide to the property tax appeals process. The director of the division of property valuation shall devise and publish such guide and shall provide sufficient copies thereof to all county appraisers. Such guide shall include, but not be limited to: (1) A restatement of the law which pertains to the process and practice of property appraisal methodology, including the contents of K.S.A. 79-503a and 79-1460, and amendments thereto; (2) the procedures of the appeals process, including the order and burden of proof of each party and time frames required by law; and (3) such other information deemed necessary to educate and enable a taxpayer to properly and competently pursue an appraisal appeal. (h) As used in this section: (1) &quot;New construction&quot; means the construction of any new structure or improvements or the remodeling or renovation of any existing structures or improvements on real property. (2) &quot;Normal repair, replacement or maintenance&quot; does not include new construction. (3) &quot;Taxpayer&quot; means the person in ownership of the property as indicated on the records of the office of register of deeds or county clerk and includes the lessee of such property if the lease agreement has been recorded or filed in the office of the register of deeds and the real property or improvement thereon is subject of a lease agreement.</p>
+            </content>
+            <subsection eId="79_1460__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>The county appraiser shall notify each taxpayer in the county annually on or before March 1 for real property and May 1 for personal property, by mail directed to the taxpayer's last known address, of the classification and appraised valuation of the taxpayer's property, except that, the valuation for all real property shall not be increased unless the record of the latest physical inspection was reviewed by the county or district appraiser, and documentation exists to support such increase in valuation in compliance with the directives and specifications of the director of property valuation, and such record and documentation is available to the affected taxpayer. Alternatively, the county appraiser may transmit the classification and appraised valuation to the taxpayer by electronic means if such taxpayer consented to service by electronic means.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1460__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The valuation for all real property also shall not be increased solely as the result of normal repair, replacement or maintenance of existing structures, equipment or improvements on the property. For the next two taxable years following the taxable year that the valuation for commercial real property has been reduced due to a final determination made pursuant to the valuation appeals process, the county appraiser shall review the computer-assisted mass-appraisal of the property and if, the valuation in either of those two years exceeds the value of the previous year by more than 5%, excluding new construction, change in use or change in classification, the county appraiser shall either:</p>
+              </content>
+              <paragraph eId="79_1460__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>Adjust the valuation of the property based on the information provided in the previous appeal; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1460__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>order an independent fee simple appraisal of the property to be performed by a Kansas certified real property appraiser.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1460__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>When the valuation for real property has been reduced due to a final determination made pursuant to the valuation appeals process for the prior year, and the county appraiser has already certified the appraisal rolls for the current year to the county clerk pursuant to K.S.A. 79-1466, and amendments thereto, the county appraiser may amend the appraisal rolls and certify the changes to the county clerk to implement the provisions of this subsection and reduce the valuation of the real property to the prior year's final determination, except that such changes shall not be made after October 31 of the current year.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1460__subsec_d">
+              <num>(d)</num>
+              <paragraph eId="79_1460__subsec_d__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The notice provided under subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1460__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>shall specify: (A) Separately for the previous tax year and the current tax year, the appraised and assessed values for each property class identified on the parcel; (B) the uniform parcel identification number prescribed by the director of property valuation; and (C) a statement of the taxpayer's right to appeal, the procedure to be followed in making such appeal and the availability without charge of the guide devised pursuant to subsection</p>
+              </content>
+              <paragraph eId="79_1460__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>Such notice may, and if the board of county commissioners so require, shall provide the parcel identification number, address and the sale date and amount of any or all sales utilized in the determination of appraised value of residential real property.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1460__subsec_e">
+              <num>(e)</num>
+              <content>
+                <p>In any year in which no change in appraised valuation of any real property from its appraised valuation in the next preceding year is determined, an alternative form of notification which has been approved by the director of property valuation may be utilized by a county.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1460__subsec_f">
+              <num>(f)</num>
+              <content>
+                <p>Failure to timely mail or receive such notice shall in no way invalidate the classification or appraised valuation as changed. The secretary of revenue shall adopt rules and regulations necessary to implement the provisions of this section.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1460__subsec_g">
+              <num>(g)</num>
+              <content>
+                <p>There shall be provided to each taxpayer, upon request, a guide to the property tax appeals process. The director of the division of property valuation shall devise and publish such guide and shall provide sufficient copies thereof to all county appraisers. Such guide shall include, but not be limited to:</p>
+              </content>
+              <paragraph eId="79_1460__subsec_g__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>A restatement of the law which pertains to the process and practice of property appraisal methodology, including the contents of K.S.A. 79-503a and 79-1460, and amendments thereto;</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1460__subsec_g__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the procedures of the appeals process, including the order and burden of proof of each party and time frames required by law; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1460__subsec_g__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>such other information deemed necessary to educate and enable a taxpayer to properly and competently pursue an appraisal appeal.</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_1460__subsec_h">
+              <num>(h)</num>
+              <content>
+                <p>As used in this section:</p>
+              </content>
+              <paragraph eId="79_1460__subsec_h__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;New construction&quot; means the construction of any new structure or improvements or the remodeling or renovation of any existing structures or improvements on real property.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1460__subsec_h__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>&quot;Normal repair, replacement or maintenance&quot; does not include new construction.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_1460__subsec_h__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>&quot;Taxpayer&quot; means the person in ownership of the property as indicated on the records of the office of register of deeds or county clerk and includes the lessee of such property if the lease agreement has been recorded or filed in the office of the register of deeds and the real property or improvement thereon is subject of a lease agreement.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

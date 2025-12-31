@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3421"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3421/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3421/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_34">
+          <num>Article 34</num>
+          <heading>Motor Vehicle Fuel Taxes</heading>
+          <section eId="sec_79_3421">
+            <num>79-3421</num>
+            <heading>Rewards for information of unlawful evasion of tax</heading>
+            <content>
+              <p>79-3421. Rewards for information of unlawful evasion of tax. The director is hereby authorized to pay out of any available funds in the revenue administration fee fund, hereinafter provided, to any person, other than a public officer or employee, who shall first furnish the director information of violation by any person of any of the provisions of this act, involving unlawful evasion of any motor-vehicle-fuels or special fuels tax, such sum as the director may deem proper, not exceeding 10% of the amount of tax so evaded or sought to be evaded; but such amount shall only be paid upon the sworn voucher of the claimant therefor and after collection of delinquent tax shall have been effected, or the person complained against shall have been convicted of violation of some provision of this act.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

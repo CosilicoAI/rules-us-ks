@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-4508"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4508"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-4508/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4508/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-4508/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4508/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_45">
+          <num>Article 45</num>
+          <heading>Homestead Property Tax Refunds</heading>
+          <section eId="sec_79_4508">
+            <num>79-4508</num>
+            <heading>Amount of claim, computation; determination of amount of claim by department</heading>
+            <content>
+              <p>79-4508. Amount of claim, computation; determination of amount of claim by department. (a) Commencing in the tax year beginning after December 31, 2005, the amount of any claim pursuant to this act and under this section sh all be computed by deducting the amount computed under column (2) from the amount of claimant's property tax accrued. (1)  (2) Claimant's household  Deduction from property tax income  accrued But not At least  more than $0  $6,000  $0 6,001  7,000  4% 7,001  16,000  4% plus 4% of every $1,000, or fraction thereof, of income in excess of $7,001  16,001  27,000  40% plus 5% of every $1,000, or fraction thereof, of income in excess of $16,001  27,001  27,600  95% (b) The director of taxation shall prepare a table under which claims under this act and this section shall be determined. The amount of claim for each bracket shall be computed only to the nearest $1. (c) The claimant may elect not to record the amount claimed on the claim. The claim allowable to persons making this election shall be computed by the department which shall notify the claimant by mail of the amount of the allowable claim. (d) In the case of all tax years commencing after December 31, 2004, the upper limit threshold amount prescribed in this section, shall be increased by an amount equal to such threshold amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) of the federal internal revenue code for the calendar year in which the taxable year commences.</p>
+            </content>
+            <subsection eId="79_4508__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Commencing in the tax year beginning after December 31, 2005, the amount of any claim pursuant to this act and under this section sh all be computed by deducting the amount computed under column</p>
+              </content>
+              <paragraph eId="79_4508__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>from the amount of claimant's property tax accrued.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_4508__subsec_a__para_1">
+                <num>(1)</num>
+              </paragraph>
+              <paragraph eId="79_4508__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>Claimant's household  Deduction from property tax income  accrued But not At least  more than $0  $6,000  $0 6,001  7,000  4% 7,001  16,000  4% plus 4% of every $1,000, or fraction thereof, of income in excess of $7,001  16,001  27,000  40% plus 5% of every $1,000, or fraction thereof, of income in excess of $16,001  27,001  27,600  95%</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_4508__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>The director of taxation shall prepare a table under which claims under this act and this section shall be determined. The amount of claim for each bracket shall be computed only to the nearest $1.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4508__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>The claimant may elect not to record the amount claimed on the claim. The claim allowable to persons making this election shall be computed by the department which shall notify the claimant by mail of the amount of the allowable claim.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_4508__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>In the case of all tax years commencing after December 31, 2004, the upper limit threshold amount prescribed in this section, shall be increased by an amount equal to such threshold amount multiplied by the cost-of-living adjustment determined under section 1</p>
+              </content>
+              <paragraph eId="79_4508__subsec_d__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the federal internal revenue code for the calendar year in which the taxable year commences.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

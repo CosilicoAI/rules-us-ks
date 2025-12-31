@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1126"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1126"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1126/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1126/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1126/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1126/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1126">
+            <num>79-1126</num>
+            <heading>Credit against tax for interest rate reduction for agricultural production loan</heading>
+            <content>
+              <p>79-1126. Credit against tax for interest rate reduction for agricultural production loan. (a) On and after the effective date of this act and prior to July 1, 1990, a state bank or national banking association which extends or renews an agricultural production loan under the provisions of this act to an eligible agricultural borrower at an interest rate which is at least one whole percentage point less than the prime interest rate then specified by the bank on such loans with equivalent collateral, and a state bank or national banking association which reduces the rate of interest being charged on any outstanding agricultural production loan to an eligible agricultural borrower by at least one whole percentage point shall receive a credit against its tax liability pursuant to K.S.A. 79-1106 et seq., for taxable years commencing after December 31, 1987, to the extent hereinafter provided. Such tax credit shall be allowed for such interest rate reductions upon agricultural production loans having a total principal amount not exceeding 15% of the amount of such loans reflected in the bank's report of condition filed with the federal deposit insurance corporation as of December 31, 1985. (b) For the purposes of this section, the term &quot;eligible agricultural borrower&quot; means any person, partnership or family farm corporation, as defined in K.S.A. 17-5903, and amendments thereto, located in the state of Kansas, having an agricultural production loan which has been classified as substandard or doubtful by any banking regulator, the farm credit administration or a district farm credit system institution which is subject to review by the farm credit administration. (c) An interest rate reduction may be applied under the provisions of this section only when the eligible borrower can be reasonably expected to service the principal and interest for the term of such person's loan. (d) The total credit against tax liability shall be the amount by which the interest income to the state bank or national banking association on and after the effective date of this act and prior to July 1, 1990, has been reduced on such loans because of such reductions in rates of interest, except that the credit allowed as a result of an interest rate reduction on any one agricultural production loan shall not exceed an amount equal to 3% per annum on the unpaid principal balance of the loan. The tax credit allowed for any taxable year shall not exceed 1 / 5 of the total tax credit of the bank allowed under this act. Unused tax credit shall be carried forward as a credit to the bank's tax liability in each subsequent taxable year and shall then be taken into account, subject to the limitation that the credit in any one taxable year may not exceed 1 / 5 of the total tax credit.</p>
+            </content>
+            <subsection eId="79_1126__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On and after the effective date of this act and prior to July 1, 1990, a state bank or national banking association which extends or renews an agricultural production loan under the provisions of this act to an eligible agricultural borrower at an interest rate which is at least one whole percentage point less than the prime interest rate then specified by the bank on such loans with equivalent collateral, and a state bank or national banking association which reduces the rate of interest being charged on any outstanding agricultural production loan to an eligible agricultural borrower by at least one whole percentage point shall receive a credit against its tax liability pursuant to K.S.A. 79-1106 et seq., for taxable years commencing after December 31, 1987, to the extent hereinafter provided. Such tax credit shall be allowed for such interest rate reductions upon agricultural production loans having a total principal amount not exceeding 15% of the amount of such loans reflected in the bank's report of condition filed with the federal deposit insurance corporation as of December 31, 1985.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1126__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purposes of this section, the term &quot;eligible agricultural borrower&quot; means any person, partnership or family farm corporation, as defined in K.S.A. 17-5903, and amendments thereto, located in the state of Kansas, having an agricultural production loan which has been classified as substandard or doubtful by any banking regulator, the farm credit administration or a district farm credit system institution which is subject to review by the farm credit administration.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1126__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>An interest rate reduction may be applied under the provisions of this section only when the eligible borrower can be reasonably expected to service the principal and interest for the term of such person's loan.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_1126__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The total credit against tax liability shall be the amount by which the interest income to the state bank or national banking association on and after the effective date of this act and prior to July 1, 1990, has been reduced on such loans because of such reductions in rates of interest, except that the credit allowed as a result of an interest rate reduction on any one agricultural production loan shall not exceed an amount equal to 3% per annum on the unpaid principal balance of the loan. The tax credit allowed for any taxable year shall not exceed 1 / 5 of the total tax credit of the bank allowed under this act. Unused tax credit shall be carried forward as a credit to the bank's tax liability in each subsequent taxable year and shall then be taken into account, subject to the limitation that the credit in any one taxable year may not exceed 1 / 5 of the total tax credit.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3294"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3294"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3294/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3294/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3294/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3294/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3294">
+            <num>79-3294</num>
+            <heading>Withholding tax; title; relationship to Kansas income tax act</heading>
+            <content>
+              <p>79-3294. Withholding tax; title; relationship to Kansas income tax act. The title of this act shall be the &quot;Kansas withholding and declaration of estimated tax act.&quot; All of the provisions of the Kansas income tax act shall apply to and be effective to the provisions of this act to the extent to which they are not inconsistent herewith, and all remedies available to the secretary of revenue or the secretary's designee for the administration, assessment, enforcement and collection of tax under the Kansas income tax act shall be available to the secretary or the secretary's designee and shall apply to the amounts to be deducted and withheld under the provisions of this act.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

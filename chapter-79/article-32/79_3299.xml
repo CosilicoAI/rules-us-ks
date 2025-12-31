@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3299"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3299"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3299/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3299/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3299/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3299/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3299">
+            <num>79-3299</num>
+            <heading>Same; employers' annual statement; furnishing to employee; penalty for failure to furnish such statement</heading>
+            <content>
+              <p>79-3299. Same; employers' annual statement; furnishing to employee; penalty for failure to furnish such statement. (a) Every employer, payer, person or organization deducting and withholding tax, on or before January 31 of each year, shall prepare a statement for each employee or payee on a form prescribed by the director stating the amount of wages or payments other than wages subject to Kansas income tax paid during the preceding year, the total amount of tax withheld, if any, from such wages or payments other than wages by the employer, payer, person or organization pursuant to this act and such other information as may be prescribed by the director. One copy of such statement shall be filed by the employer, payer, person or organization with the division of taxation on or before January 31 of each year. Except as otherwise provided, if the employer, payer, person or organization files statements which report such withholding information for 51 or more employees or payees, the statements shall be filed by electronic means. If filing such statements by electronic means would be a hardship for any such employer, payer, person or organization, the secretary may permit such statements to be filed other than by electronic means. Two copies of such statement shall be given to the employee or payee concerned, one of which will be filed by the employee or payee with the tax return required by this chapter. (b) In the case of an employee whose employment is terminated before the end of a calendar year, the statement required by subsection (a) may be mailed at the time provided in that subsection to the last known address of the employee, or issued at the time of the last payment to the employee, at the employer's option. (c) Any employer, payer, person or organization deducting and withholding tax who intentionally fails to furnish a statement to an employee or payee as required under the provisions of subsections (a) and (b) shall be guilty of a nonperson misdemeanor and upon conviction thereof shall be punished by a fine not exceeding $100 for each such offense. (d) The annual statement of wages and salaries paid and amount withheld required by this section shall be in lieu of the annual information return required under K.S.A. 79-3222, and amendments thereto.</p>
+            </content>
+            <subsection eId="79_3299__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>Every employer, payer, person or organization deducting and withholding tax, on or before January 31 of each year, shall prepare a statement for each employee or payee on a form prescribed by the director stating the amount of wages or payments other than wages subject to Kansas income tax paid during the preceding year, the total amount of tax withheld, if any, from such wages or payments other than wages by the employer, payer, person or organization pursuant to this act and such other information as may be prescribed by the director. One copy of such statement shall be filed by the employer, payer, person or organization with the division of taxation on or before January 31 of each year. Except as otherwise provided, if the employer, payer, person or organization files statements which report such withholding information for 51 or more employees or payees, the statements shall be filed by electronic means. If filing such statements by electronic means would be a hardship for any such employer, payer, person or organization, the secretary may permit such statements to be filed other than by electronic means. Two copies of such statement shall be given to the employee or payee concerned, one of which will be filed by the employee or payee with the tax return required by this chapter.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of an employee whose employment is terminated before the end of a calendar year, the statement required by subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>may be mailed at the time provided in that subsection to the last known address of the employee, or issued at the time of the last payment to the employee, at the employer's option.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>Any employer, payer, person or organization deducting and withholding tax who intentionally fails to furnish a statement to an employee or payee as required under the provisions of subsections</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>shall be guilty of a nonperson misdemeanor and upon conviction thereof shall be punished by a fine not exceeding $100 for each such offense.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3299__subsec_d">
+              <num>(d)</num>
+              <content>
+                <p>The annual statement of wages and salaries paid and amount withheld required by this section shall be in lieu of the annual information return required under K.S.A. 79-3222, and amendments thereto.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

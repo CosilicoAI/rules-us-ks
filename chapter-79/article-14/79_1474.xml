@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1474"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1474"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1474/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1474/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1474/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1474/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1474">
+            <num>79-1474</num>
+            <heading>Waiver of taxes and penalties upon certain personal property if timely reporting made</heading>
+            <content>
+              <p>79-1474. Waiver of taxes and penalties upon certain personal property if timely reporting made. Any person or the legal representative of the estate of any person who has not listed taxable tangible personal property or has underreported the same for property tax purposes which, if discovered by the county appraiser, would be deemed to have escaped taxation pursuant to the provisions of subsection (a) of K.S.A. 79-1427a or would be subject to late filing penalties provided by law, and who makes and delivers a full and complete statement of appraisal relative to such property to the county appraiser wherein such property is located within the time period commencing with the effective date of this act, and ending on January 31, 1986, shall not be liable for any taxes or penalties which would have been levied upon any such property for any year prior to the 1984 taxable year.</p>
+            </content>
+            <subsection eId="79_1474__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of K.S.A. 79-1427a or would be subject to late filing penalties provided by law, and who makes and delivers a full and complete statement of appraisal relative to such property to the county appraiser wherein such property is located within the time period commencing with the effective date of this act, and ending on January 31, 1986, shall not be liable for any taxes or penalties which would have been levied upon any such property for any year prior to the 1984 taxable year.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

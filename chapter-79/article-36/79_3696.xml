@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3696"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3696"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3696/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3696/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3696/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3696/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_36">
+          <num>Article 36</num>
+          <heading>Kansas Retailers' Sales Tax</heading>
+          <section eId="sec_79_3696">
+            <num>79-3696</num>
+            <heading>Sales by affiliated persons; certain agreements between retailer and executive branch void unless approved by legislature</heading>
+            <content>
+              <p>79-3696. Sales by affiliated persons; certain agreements between retailer and executive branch void unless approved by legislature. (a) On and after July 1, 2013, if any person sells or leases tangible personal property to the state, a state department, a state agency or an agent thereof, that person and any affiliated person shall, as a prerequisite for any such sale or lease, register with the department of revenue as a retailer and comply with all legal requirements imposed on a retailer, including the requirement to collect and remit sales or use tax on all taxable sales of tangible personal property to customers in this state. (b) Any ruling, agreement or contract, whether written or oral, express or implied, between a retailer and this state's executive branch, or any other state agency or department, stating, agreeing or ruling that the retailer is not required to collect sales and use tax in this state despite the presence of a warehouse, distribution center or fulfillment center in the state that is owned or operated by the retailer or an affiliated person of the retailer shall be null and void, unless it is specifically approved by a majority vote of each of the chambers of the Kansas legislature. (c) As used in this section, &quot;affiliated person&quot; means any person that is a member of the same &quot;controlled group of corporations&quot; as defined in section 1563(a) of the federal internal revenue code as the retailer or any other entity that, notwithstanding its form of organization, bears the same ownership relationship to the retailer as a corporation that is a member of the same &quot;controlled group of corporations&quot; as defined in section 1563(a) of the federal internal revenue code.</p>
+            </content>
+            <subsection eId="79_3696__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>On and after July 1, 2013, if any person sells or leases tangible personal property to the state, a state department, a state agency or an agent thereof, that person and any affiliated person shall, as a prerequisite for any such sale or lease, register with the department of revenue as a retailer and comply with all legal requirements imposed on a retailer, including the requirement to collect and remit sales or use tax on all taxable sales of tangible personal property to customers in this state.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3696__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any ruling, agreement or contract, whether written or oral, express or implied, between a retailer and this state's executive branch, or any other state agency or department, stating, agreeing or ruling that the retailer is not required to collect sales and use tax in this state despite the presence of a warehouse, distribution center or fulfillment center in the state that is owned or operated by the retailer or an affiliated person of the retailer shall be null and void, unless it is specifically approved by a majority vote of each of the chambers of the Kansas legislature.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3696__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>As used in this section, &quot;affiliated person&quot; means any person that is a member of the same &quot;controlled group of corporations&quot; as defined in section 1563</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3696__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the federal internal revenue code as the retailer or any other entity that, notwithstanding its form of organization, bears the same ownership relationship to the retailer as a corporation that is a member of the same &quot;controlled group of corporations&quot; as defined in section 1563</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3696__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>of the federal internal revenue code.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

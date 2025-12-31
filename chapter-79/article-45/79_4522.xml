@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-4522"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4522"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-4522/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4522/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-4522/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-4522/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_45">
+          <num>Article 45</num>
+          <heading>Homestead Property Tax Refunds</heading>
+          <section eId="sec_79_4522">
+            <num>79-4522</num>
+            <heading>Owner not entitled to homestead refund, when</heading>
+            <content>
+              <p>79-4522. Owner not entitled to homestead refund, when. A person owning or occupying a homestead for which the appraised valuation for property tax purposes exceeds $350,000 in any year shall not be entitled to claim a refund of property taxes under the homestead property tax refund act for any such year. The provisions of this section shall be part of and supplemental to the homestead property tax refund act.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

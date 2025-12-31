@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1480"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1480"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1480/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1480/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1480/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1480/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_14">
+          <num>Article 14</num>
+          <heading>Property Valuation, Equalizing Assessments, Appraisers and Assessment of Property</heading>
+          <section eId="sec_79_1480">
+            <num>79-1480</num>
+            <heading>Same; maintenance of valuation listings, contents; public inspection</heading>
+            <content>
+              <p>79-1480. Same; maintenance of valuation listings, contents; public inspection. From and after January 1 of the year in which valuations for real property determined under the program of statewide reappraisal are implemented, each county shall maintain in the office of the county clerk multiple copies of a listing of the assessed valuations of each parcel of real property located within the county. Such listing shall contain separate valuations for the land and for the buildings located thereon. Such listing shall be arranged alphabetically by city and street name and prepared in a manner that each parcel of real property is listed in progressive order by numerical street address for property located within the corporate limits of cities and so far as possible for property located outside of the corporate limits of cities within the county. Property for which no street addresses exist shall be listed separately from property with street addresses and arranged in alphabetical order by township or city and owner's name with information sufficient to disclose the location thereof. Such listings shall be open to public inspection during all normal working hours of the office of the county clerk.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

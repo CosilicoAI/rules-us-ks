@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-2025"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2025"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-2025/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2025/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-2025/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-2025/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_20">
+          <num>Article 20</num>
+          <heading>Collection and Cancellation of Taxes</heading>
+          <section eId="sec_79_2025">
+            <num>79-2025</num>
+            <heading>Cancellation of taxes and penalties on certain property in Johnson county by county commissioners</heading>
+            <content>
+              <p>79-2025. Cancellation of taxes and penalties on certain property in Johnson county by county commissioners. Notwithstanding any provision of law to the contrary, for the purpose of facilitating the sale or transfer of the Kuhlman Diecasting property located at 16400 Mission Road, Johnson county, Kansas, the board of county commissioners of Johnson county, upon a majority vote, may cancel all or a part thereof, of any uncollected real estate taxes and penalties on such property. Such property is legally described as: THAT PART OF THE EAST HALF OF THE SOUTHEAST QUARTER OF SECTION 16, TOWNSHIP 14, RANGE 25, IN JOHNSON COUNTY, KANSAS, DESCRIBED AS FOLLOWS: BEGINNING AT THE NORTHEAST CORNER OF SAID SOUTHEAST QUARTER; THENCE WEST ALONG THE NORTH LINE OF SAID SOUTHEAST QUARTER TO THE NORTHWEST CORNER OF THE EAST HALF OF SAID SOUTHEAST QUARTER; THENCE SOUTH ON THE LINE RUNNING NORTH AND SOUTH THROUGH THE CENTER OF SAID QUARTER SECTION 441 FEET, CROSSING THE BIG BLUE RIVER, TO A POINT 6 FEET SOUTH OF THE SOUTH BANK OF SAID RIVER; THENCE SOUTHERLY AND FOLLOWING THE SOUTHERLY AND WESTERLY BANK OF SAID RIVER AND 6 FEET DISTANT THEREFROM TO THE CENTER OF WHAT IS KNOWN AS CAMP BRANCH; THENCE DOWN THE CENTER OF SAID BRANCH TO THE CENTER OF SAID BIG BLUE RIVER; THENCE FOLLOWING DOWN THE CENTER OF SAID RIVER TO THE EAST LINE OF SAID SECTION 16; THENCE NORTH ALONG THE EAST LINE OF SAID SECTION TO THE PLACE OF BEGINNING; BUT EXCEPTING THEREFROM THE RIGHT OF WAY OF THE MISSOURI PACIFIC RAILROAD; AND ALSO EXCEPTING THEREFROM ALL THAT PART OF THE NORTH 154 FEET OF SAID SOUTHEAST QUARTER WHICH LIES EAST OF SAID MISSOURI PACIFIC RAILROAD RIGHT OF WAY.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/39-1701"/>
+          <FRBRuri value="/us-ks/act/ksa/39-1701"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/39-1701/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/39-1701/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/39-1701/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/39-1701/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_39">
+        <num>Chapter 39</num>
+        <heading>Social Welfare</heading>
+        <article eId="chp_39__art_17">
+          <num>Article 17</num>
+          <heading>Kansas Works Program</heading>
+          <section eId="sec_39_1701">
+            <num>39-1701</num>
+            <heading>Interagency provision of services for children, adolescents and families act; purpose and intention of act</heading>
+            <content>
+              <p>39-1701. Interagency provision of services for children, adolescents and families act; purpose and intention of act. This act shall be known and may be cited as the interagency provision of services for children, adolescents and families act. It is the purpose and intention of this act to provide for regional interagency councils which will collaborate in the provision of services for children and adolescents in this state who require multiple levels and kinds of specialized services which are beyond the capability of one agency. Such services shall be provided in accord with the identified needs of each such child or adolescent, and in the least restrictive environment.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

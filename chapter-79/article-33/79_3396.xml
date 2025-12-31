@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3396"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3396"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3396/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3396/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3396/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3396/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3396">
+            <num>79-3396</num>
+            <heading>Failure to file; penalty</heading>
+            <content>
+              <p>79-3396. Failure to file; penalty. (a) In addition to or in lieu of any other civil or criminal penalty provided by law, the director, upon a finding that a licensee has violated the provisions of subsection (u), (v) or (w) of K.S.A. 79-3321, and amendments thereto, or has failed to comply with the provisions of K.S.A. 79-3395, and amendments thereto, or any rule and regulation adopted pursuant thereto, may revoke or suspend the license of any licensee in the manner provided by K.S.A. 79-3309, and amendments thereto; the director also may impose a civil fine in an amount not to exceed the greater of 500% of the retail value of the cigarettes involved or $5,000. Such fine shall be imposed in the manner provided by K.S.A. 79-3391, and amendments thereto. (b) Any cigarettes that are acquired, held, owned, possessed, transported, imported, sold or distributed in this state in violation of subsection (u), (v) or (w) of K.S.A. 79-3321, and amendments thereto, or has failed to comply with the provisions of K.S.A. 79-3395, and amendments thereto, shall be deemed contraband under K.S.A. 79-3323, and amendments thereto, and shall be subject to seizure and forfeiture as provided therein and in K.S.A. 79-3324a, and amendments thereto. All such cigarettes seized and forfeited shall be destroyed. Such cigarettes shall be deemed contraband whether the violation of this act is knowing or otherwise.</p>
+            </content>
+            <subsection eId="79_3396__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to or in lieu of any other civil or criminal penalty provided by law, the director, upon a finding that a licensee has violated the provisions of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3396__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3396__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>of K.S.A. 79-3321, and amendments thereto, or has failed to comply with the provisions of K.S.A. 79-3395, and amendments thereto, or any rule and regulation adopted pursuant thereto, may revoke or suspend the license of any licensee in the manner provided by K.S.A. 79-3309, and amendments thereto; the director also may impose a civil fine in an amount not to exceed the greater of 500% of the retail value of the cigarettes involved or $5,000. Such fine shall be imposed in the manner provided by K.S.A. 79-3391, and amendments thereto.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3396__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>Any cigarettes that are acquired, held, owned, possessed, transported, imported, sold or distributed in this state in violation of subsection</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3396__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3396__subsec_w">
+              <num>(w)</num>
+              <content>
+                <p>of K.S.A. 79-3321, and amendments thereto, or has failed to comply with the provisions of K.S.A. 79-3395, and amendments thereto, shall be deemed contraband under K.S.A. 79-3323, and amendments thereto, and shall be subject to seizure and forfeiture as provided therein and in K.S.A. 79-3324a, and amendments thereto. All such cigarettes seized and forfeited shall be destroyed. Such cigarettes shall be deemed contraband whether the violation of this act is knowing or otherwise.</p>
+              </content>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

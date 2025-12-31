@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3395"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3395"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3395/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3395/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3395/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3395/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_33">
+          <num>Article 33</num>
+          <heading>Cigarettes and Tobacco Products</heading>
+          <section eId="sec_79_3395">
+            <num>79-3395</num>
+            <heading>Cigarettes imported into the United States; certain information to be filed with the director</heading>
+            <content>
+              <p>79-3395. Cigarettes imported into the United States; certain information to be filed with the director. On the first business day of each month, each person licensed to affix the state tax stamp to cigarettes shall file with the director, for all cigarettes imported into the United States to which such person has affixed the tax stamp in the preceding month: (a) A copy of: (1) The permit issued pursuant to the internal revenue code, 26 U.S.C. § 5713, to the person importing such cigarettes into the United States allowing such person to import such cigarettes; and (2) the customs form containing, with respect to such cigarettes, the internal revenue tax information required by the U.S. bureau of alcohol, tobacco and firearms; (b) a statement, signed by such person under penalty of perjury, which shall be treated as confidential by the commissioner and exempt from disclosure under the open records act, K.S.A. 45-215 through 45-223, and amendments thereto, identifying the brand and brand styles of all such cigarettes, the quantity of each brand style of such cigarettes, the supplier of such cigarettes, and the person or persons, if any, to whom such cigarettes have been conveyed for resale; and (c) a statement, signed by an officer of the manufacturer or importer under penalty of perjury, certifying that the manufacturer or importer has complied with: (1) The package health warning and ingredient reporting requirements of the federal cigarette labeling and advertising act, 15 U.S.C. §§ 1333 and 1335a, with respect to such cigarettes; and (2) the provisions of K.S.A. 50-6a01 et seq., and amendments thereto, including a statement indicating whether the manufacturer is, or is not, a participating tobacco product manufacturer within the meaning of K.S.A. 50-6a01 et seq., and amendments thereto.</p>
+            </content>
+            <subsection eId="79_3395__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>A copy of:</p>
+              </content>
+              <paragraph eId="79_3395__subsec_a__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The permit issued pursuant to the internal revenue code, 26 U.S.C. § 5713, to the person importing such cigarettes into the United States allowing such person to import such cigarettes; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3395__subsec_a__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the customs form containing, with respect to such cigarettes, the internal revenue tax information required by the U.S. bureau of alcohol, tobacco and firearms;</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3395__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>a statement, signed by such person under penalty of perjury, which shall be treated as confidential by the commissioner and exempt from disclosure under the open records act, K.S.A. 45-215 through 45-223, and amendments thereto, identifying the brand and brand styles of all such cigarettes, the quantity of each brand style of such cigarettes, the supplier of such cigarettes, and the person or persons, if any, to whom such cigarettes have been conveyed for resale; and</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3395__subsec_c">
+              <num>(c)</num>
+              <content>
+                <p>a statement, signed by an officer of the manufacturer or importer under penalty of perjury, certifying that the manufacturer or importer has complied with:</p>
+              </content>
+              <paragraph eId="79_3395__subsec_c__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>The package health warning and ingredient reporting requirements of the federal cigarette labeling and advertising act, 15 U.S.C. §§ 1333 and 1335a, with respect to such cigarettes; and</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3395__subsec_c__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>the provisions of K.S.A. 50-6a01 et seq., and amendments thereto, including a statement indicating whether the manufacturer is, or is not, a participating tobacco product manufacturer within the meaning of K.S.A. 50-6a01 et seq., and amendments thereto.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

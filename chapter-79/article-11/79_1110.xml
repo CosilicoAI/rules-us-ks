@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-1110"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1110"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-1110/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1110/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-1110/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-1110/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_11">
+          <num>Article 11</num>
+          <heading>Banks, Banking Businesses, Trust Companies and Savings and Loan Associations</heading>
+          <section eId="sec_79_1110">
+            <num>79-1110</num>
+            <heading>Taxation of national banking associations, banks, trust companies and savings and loan associations; procedure for returns; tax payment; laws applicable</heading>
+            <content>
+              <p>79-1110. Taxation of national banking associations, banks, trust companies and savings and loan associations; procedure for returns; tax payment; laws applicable. Every national banking association, bank, trust company, and savings and loan association subject to taxation under this act shall make its return and pay the tax imposed to the director of taxation on or before the 15th day of the fourth month following the close of its federal taxable year, in the same manner, except for computing the net income subject to tax, as corporations are required to make their returns and pay their taxes under the Kansas income tax act. Every such national banking association, bank, trust company and savings and loan association shall be subject to other provisions of the Kansas income tax act applicable to other corporations and shall be subject to the penalties imposed on corporations by K.S.A. 79-3222, 79-3228 and 79-3234 insofar as the same can be made applicable.</p>
+            </content>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

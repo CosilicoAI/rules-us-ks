@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#ks-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-ks/act/ksa/79-3279"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3279"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRcountry value="us-ks"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-ks/act/ksa/79-3279/eng"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3279/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#ks-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-ks/act/ksa/79-3279/eng/akn"/>
+          <FRBRuri value="/us-ks/act/ksa/79-3279/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="ks-legislature" href="/ontology/organization/us-ks/legislature" showAs="Kansas Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>Chapter 79</num>
+        <heading>Taxation</heading>
+        <article eId="chp_79__art_32">
+          <num>Article 32</num>
+          <heading>Income Tax</heading>
+          <section eId="sec_79_3279">
+            <num>79-3279</num>
+            <heading>Apportionment of net income; apportionment of business income; requirements; procedures</heading>
+            <content>
+              <p>79-3279. Apportionment of net income; apportionment of business income; requirements; procedures. (a) All business income of railroads and interstate motor carriers of persons or property for-hire shall be apportioned to this state by multiplying the business income by a fraction, in the case of railroads, the numerator of which is the freight car miles in this state and the denominator of which is the freight car miles everywhere, and, in the case of interstate motor carriers, the numerator of which is the total number of miles operated in this state and the denominator of which is the total number of miles operated everywhere. (b) All business income of any other taxpayer shall be apportioned to this state by one of the following methods: (1) By multiplying the business income by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three; or (2) at the election of a qualifying taxpayer, by multiplying the business income by a fraction, the numerator of which is the property factor plus the sales factor, and the denominator of which is two. (A) For purposes of this subsection (b)(2), a qualifying taxpayer is any taxpayer whose payroll factor for a taxable year exceeds 200% of the average of the property factor and the sales factor. Whenever two or more corporations are engaged in a unitary business and required to file a combined report, the fraction comparison provided by this subsection (b)(2) shall be calculated by using the payroll factor, property factor and sales factor of the combined group of unitary corporations. (B) An election under this subsection (b)(2) shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply the apportionment method under this subsection (b)(2). The election shall be effective and irrevocable for the taxable year of the election and the following nine taxable years. The election shall be binding on all members of a unitary group of corporations. Notwithstanding the above, the secretary of revenue may upon the request of the taxpayer, grant permission to terminate the election under this subsection (b)(2) prior to expiration of the ten-year period. (3) At the election of a qualifying telecommunications company, by multiplying the business income by a fraction, the numerator of which is the information carrying capacity of wire and fiber optic cable available for use in this state, and the denominator of which is the information carrying capacity of wire and fiber optic cable available for use everywhere during the tax year. (A) For purposes of this subsection (b)(3), a qualifying telecommunications company is a telecommunications company that is a qualifying taxpayer under paragraph (A) of subsection (b)(2). (B) A qualifying telecommunications company shall make the election under this subsection (b)(3) in the same manner as provided under paragraph (B) of subsection (b)(2). (4) At the election of a distressed area taxpayer, by multiplying the business income by the sales factor. The election shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply this apportionment method. The election may be made only once, it must be made on or before December 31, 1999 and it shall be effective for the taxable year of the election and the following nine taxable years for so long as the taxpayer maintains the payroll amount prescribed by subsection (j) of K.S.A. 79-3271, and amendments thereto. (5) At the election of the taxpayer made at the time of filing of the original return, the qualifying business income of any investment funds service corporation organized as a corporation or S corporation which maintains its primary headquarters and operations or is a branch facility that employs at least 100 individuals on a full-time equivalent basis in this state and has any investment company fund shareholders residenced in this state shall be apportioned to this state as provided in this subsection, as follows: (A) By multiplying the investment funds service corporation's qualifying business income from administration, distribution and management services provided to each investment company by a fraction, the numerator of which shall be the average of the number of shares owned by the investment company's fund shareholders residenced in this state at the beginning of and at the end of the investment company's taxable year that ends with or within the investment funds service corporation's taxable year, and the denominator of which shall be the average of the number of shares owned by the investment company's fund shareholders everywhere at the beginning of and at the end of the investment company's taxable year that ends with or within the investment funds service corporation's taxable year. (B) A separate computation shall be made to determine the qualifying business income from each fund of each investment company. The qualifying business income from each investment company shall be multiplied by the fraction calculated pursuant to paragraph (A) for each fund of such investment company. (C) The qualifying portion of total business income of an investment funds service corporation shall be determined by multiplying such total business income by a fraction, the numerator of which is the gross receipts from the provision of management, distribution and administration services to or on behalf of an investment company, and the denominator of which is the gross receipts of the investment funds service company. To the extent an investment funds service corporation has business income that is not qualifying business income, such business income shall be apportioned to this state pursuant to subsection (b)(1). (D) For tax year 2002, the tax liability of an investment funds service corporation that has elected to apportion its business income pursuant to paragraph (5) shall be increased by an amount equal to 50% of the difference of the amount of such tax liability if determined pursuant to subsection (b)(1) less the amount of such tax liability determined with regard to paragraph (5). (E) When an investment funds service corporation is part of a unitary group, the business income of the unitary group attributable to the investment funds service corporation shall be determined by multiplying the business income of the unitary group by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three. The property factor is a fraction, the numerator of which is the average value of the investment funds service corporation's real and tangible personal property owned or rented and used during the tax period and the denominator of which is the average value of the unitary group's real and tangible personal property owned or rented and used during the tax period. The payroll factor is a fraction, the numerator of which is the total amount paid during the tax period by the investment funds service corporation for compensation, and the denominator of which is the total compensation paid by the unitary group during the tax period. The sales factor is a fraction, the numerator of which is the total sales of the investment funds service corporation during the tax period, and the denominator of which is the total sales of the unitary group during the tax period. (F) A taxpayer seeking to make the election available pursuant to subsection (b)(5) of K.S.A. 79-3279, and amendments thereto, shall only be eligible to continue to make such election if the taxpayer maintains at least 95% of the Kansas employees in existence at the time the taxpayer first makes such an election. (6) At the election of a qualifying taxpayer, by multiplying such taxpayer's business income by the sales factor. The election shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply this apportionment method. The election may be made only once and must be made on or before the last day of the taxable year during which the investment described in paragraph (A) is placed in service, but not later than December 31, 2009, and it shall be effective for the taxable year of the election and the following nine taxable years or for so long as the taxpayer maintains the wage requirements set forth in paragraph (A). If the qualifying taxpayer is a member of a unitary group of corporations, all other members of the unitary group doing business within this state shall apportion their business income to this state pursuant to subsection (b)(1). (A) For purposes of this subsection, a qualifying taxpayer is any taxpayer making an investment of $100,000,000 for construction in Kansas of a new business facility identified under the North American industry classification system (NAICS) subsectors of 31-33, as assigned by the secretary of the department of labor, employing 100 or more new employees at such facility after July 1, 2007, and prior to December 31, 2009, and meeting the following requirements for paying such employees higher-than-average wages within the wage region for such facility: (i) The taxpayer's new Kansas business facility with 500 or fewer full-time equivalent employees will provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category used to develop wage thresholds and that have reported 500 or fewer employees to the Kansas department of labor on the quarterly wage reports; (ii) the taxpayer's new Kansas business facility with 500 or fewer full-time equivalent employees is the sole facility within its assigned NAICS category that has reported wages for 500 or fewer employees to the Kansas department of labor on the quarterly wage reports; (iii) the taxpayer's new Kansas business facility with more than 500 full-time equivalent employees will provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category used to develop wage thresholds and that have reported more than 500 employees to the Kansas department of labor on the quarterly wage reports; (iv) the taxpayer's new Kansas business facility with more than 500 full-time equivalent employees is the sole facility within its assigned NAICS category that has reported wages for more than 500 employees to the Kansas department of labor on the quarterly wage reports, in which event it shall either provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category and that have reported wages for 500 or fewer employees to the Kansas department of labor on the quarterly wage reports, or be the sole Kansas business facility within its assigned NAICS category that has reported wages to the Kansas department of labor on the quarterly wage reports; (v) the number of NAICS digits to use in developing each set of wage thresholds for comparison purposes shall be determined by the secretary of commerce; (vi) the composition of wage regions used in connection with each set of wage thresholds shall be determined by the secretary of commerce; and (vii) alternatively, a taxpayer may wage-qualify its new Kansas business facility if, after excluding the headcount and wages reported on the quarterly wage reports to the Kansas department of labor for employees at that new Kansas business facility who own five percent or more equity in the taxpayer, the average wage calculated for the taxpayer's new Kansas business facility is greater than or equal to 1.5 times the aggregate state-wide average wage paid by industries covered by the employment security law based on data maintained by the secretary of labor. (B) For the purposes of the wage requirements in paragraph (A), the number of full-time equivalent employees shall be determined by dividing the number of hours worked by part-time employees during the pertinent measurement interval by an amount equal to the corresponding multiple of a 40-hour work week and adding the quotient to the average number of full-time employees. (C) When the qualifying taxpayer is part of a unitary group, the business income of the unitary group attributable to the qualifying taxpayer shall be determined by multiplying the business income of the unitary group by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three. The property factor is a fraction, the numerator of which is the average value of the qualifying taxpayer's real and tangible personal property owned or rented and used during the tax period and the denominator of which is the average value of the unitary group's real and tangible personal property owned or rented and used during the tax period. The payroll factor is a fraction, the numerator of which is the total amount paid during the tax period by the qualifying taxpayer for compensation, and the denominator of which is the total compensation paid by the unitary group during the tax period. The sales factor is a fraction, the numerator of which is the total sales of the qualifying taxpayer during the tax period, and the denominator of which is the total sales of the unitary group during the tax period. (D) For purposes of this subsection, the secretary of revenue, upon a showing of good cause and after receiving a certification by the secretary of commerce of substantial compliance with provisions of this subsection (b)(6), may extend any required performance date provided in this subsection (b)(6) for a period not to exceed six months.</p>
+            </content>
+            <subsection eId="79_3279__subsec_a">
+              <num>(a)</num>
+              <content>
+                <p>All business income of railroads and interstate motor carriers of persons or property for-hire shall be apportioned to this state by multiplying the business income by a fraction, in the case of railroads, the numerator of which is the freight car miles in this state and the denominator of which is the freight car miles everywhere, and, in the case of interstate motor carriers, the numerator of which is the total number of miles operated in this state and the denominator of which is the total number of miles operated everywhere.</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3279__subsec_b">
+              <num>(b)</num>
+              <content>
+                <p>All business income of any other taxpayer shall be apportioned to this state by one of the following methods:</p>
+              </content>
+              <paragraph eId="79_3279__subsec_b__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>By multiplying the business income by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three; or</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>at the election of a qualifying taxpayer, by multiplying the business income by a fraction, the numerator of which is the property factor plus the sales factor, and the denominator of which is two. (A) For purposes of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall be calculated by using the payroll factor, property factor and sales factor of the combined group of unitary corporations. (B) An election under this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply the apportionment method under this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_2">
+                <num>(2)</num>
+                <content>
+                  <p>prior to expiration of the ten-year period.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>At the election of a qualifying telecommunications company, by multiplying the business income by a fraction, the numerator of which is the information carrying capacity of wire and fiber optic cable available for use in this state, and the denominator of which is the information carrying capacity of wire and fiber optic cable available for use everywhere during the tax year. (A) For purposes of this subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_3">
+                <num>(3)</num>
+                <content>
+                  <p>in the same manner as provided under paragraph (B) of subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_b__para_4">
+                <num>(4)</num>
+                <content>
+                  <p>At the election of a distressed area taxpayer, by multiplying the business income by the sales factor. The election shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply this apportionment method. The election may be made only once, it must be made on or before December 31, 1999 and it shall be effective for the taxable year of the election and the following nine taxable years for so long as the taxpayer maintains the payroll amount prescribed by subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3279__subsec_j">
+              <num>(j)</num>
+              <content>
+                <p>of K.S.A. 79-3271, and amendments thereto.</p>
+              </content>
+              <paragraph eId="79_3279__subsec_j__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>At the election of the taxpayer made at the time of filing of the original return, the qualifying business income of any investment funds service corporation organized as a corporation or S corporation which maintains its primary headquarters and operations or is a branch facility that employs at least 100 individuals on a full-time equivalent basis in this state and has any investment company fund shareholders residenced in this state shall be apportioned to this state as provided in this subsection, as follows: (A) By multiplying the investment funds service corporation's qualifying business income from administration, distribution and management services provided to each investment company by a fraction, the numerator of which shall be the average of the number of shares owned by the investment company's fund shareholders residenced in this state at the beginning of and at the end of the investment company's taxable year that ends with or within the investment funds service corporation's taxable year, and the denominator of which shall be the average of the number of shares owned by the investment company's fund shareholders everywhere at the beginning of and at the end of the investment company's taxable year that ends with or within the investment funds service corporation's taxable year. (B) A separate computation shall be made to determine the qualifying business income from each fund of each investment company. The qualifying business income from each investment company shall be multiplied by the fraction calculated pursuant to paragraph (A) for each fund of such investment company. (C) The qualifying portion of total business income of an investment funds service corporation shall be determined by multiplying such total business income by a fraction, the numerator of which is the gross receipts from the provision of management, distribution and administration services to or on behalf of an investment company, and the denominator of which is the gross receip</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_j__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>shall be increased by an amount equal to 50% of the difference of the amount of such tax liability if determined pursuant to subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_j__para_1">
+                <num>(1)</num>
+                <content>
+                  <p>less the amount of such tax liability determined with regard to paragraph (5). (E) When an investment funds service corporation is part of a unitary group, the business income of the unitary group attributable to the investment funds service corporation shall be determined by multiplying the business income of the unitary group by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three. The property factor is a fraction, the numerator of which is the average value of the investment funds service corporation's real and tangible personal property owned or rented and used during the tax period and the denominator of which is the average value of the unitary group's real and tangible personal property owned or rented and used during the tax period. The payroll factor is a fraction, the numerator of which is the total amount paid during the tax period by the investment funds service corporation for compensation, and the denominator of which is the total compensation paid by the unitary group during the tax period. The sales factor is a fraction, the numerator of which is the total sales of the investment funds service corporation during the tax period, and the denominator of which is the total sales of the unitary group during the tax period. (F) A taxpayer seeking to make the election available pursuant to subsection</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_j__para_5">
+                <num>(5)</num>
+                <content>
+                  <p>of K.S.A. 79-3279, and amendments thereto, shall only be eligible to continue to make such election if the taxpayer maintains at least 95% of the Kansas employees in existence at the time the taxpayer first makes such an election.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="79_3279__subsec_j__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>At the election of a qualifying taxpayer, by multiplying such taxpayer's business income by the sales factor. The election shall be made by including a statement with the original tax return indicating that the taxpayer elects to apply this apportionment method. The election may be made only once and must be made on or before the last day of the taxable year during which the investment described in paragraph (A) is placed in service, but not later than December 31, 2009, and it shall be effective for the taxable year of the election and the following nine taxable years or for so long as the taxpayer maintains the wage requirements set forth in paragraph (A). If the qualifying taxpayer is a member of a unitary group of corporations, all other members of the unitary group doing business within this state shall apportion their business income to this state pursuant to subsection</p>
+                </content>
+              </paragraph>
+            </subsection>
+            <subsection eId="79_3279__subsec_i">
+              <num>(i)</num>
+              <content>
+                <p>The taxpayer's new Kansas business facility with 500 or fewer full-time equivalent employees will provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category used to develop wage thresholds and that have reported 500 or fewer employees to the Kansas department of labor on the quarterly wage reports; (ii) the taxpayer's new Kansas business facility with 500 or fewer full-time equivalent employees is the sole facility within its assigned NAICS category that has reported wages for 500 or fewer employees to the Kansas department of labor on the quarterly wage reports; (iii) the taxpayer's new Kansas business facility with more than 500 full-time equivalent employees will provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category used to develop wage thresholds and that have reported more than 500 employees to the Kansas department of labor on the quarterly wage reports; (iv) the taxpayer's new Kansas business facility with more than 500 full-time equivalent employees is the sole facility within its assigned NAICS category that has reported wages for more than 500 employees to the Kansas department of labor on the quarterly wage reports, in which event it shall either provide an average wage that is above the average wage paid by all Kansas business facilities that share the same assigned NAICS category and that have reported wages for 500 or fewer employees to the Kansas department of labor on the quarterly wage reports, or be the sole Kansas business facility within its assigned NAICS category that has reported wages to the Kansas department of labor on the quarterly wage reports;</p>
+              </content>
+            </subsection>
+            <subsection eId="79_3279__subsec_v">
+              <num>(v)</num>
+              <content>
+                <p>the number of NAICS digits to use in developing each set of wage thresholds for comparison purposes shall be determined by the secretary of commerce; (vi) the composition of wage regions used in connection with each set of wage thresholds shall be determined by the secretary of commerce; and (vii) alternatively, a taxpayer may wage-qualify its new Kansas business facility if, after excluding the headcount and wages reported on the quarterly wage reports to the Kansas department of labor for employees at that new Kansas business facility who own five percent or more equity in the taxpayer, the average wage calculated for the taxpayer's new Kansas business facility is greater than or equal to 1.5 times the aggregate state-wide average wage paid by industries covered by the employment security law based on data maintained by the secretary of labor. (B) For the purposes of the wage requirements in paragraph (A), the number of full-time equivalent employees shall be determined by dividing the number of hours worked by part-time employees during the pertinent measurement interval by an amount equal to the corresponding multiple of a 40-hour work week and adding the quotient to the average number of full-time employees. (C) When the qualifying taxpayer is part of a unitary group, the business income of the unitary group attributable to the qualifying taxpayer shall be determined by multiplying the business income of the unitary group by a fraction, the numerator of which is the property factor plus the payroll factor plus the sales factor, and the denominator of which is three. The property factor is a fraction, the numerator of which is the average value of the qualifying taxpayer's real and tangible personal property owned or rented and used during the tax period and the denominator of which is the average value of the unitary group's real and tangible personal property owned or rented and used during the tax period. The payroll factor is a fraction, the numerator of whi</p>
+              </content>
+              <paragraph eId="79_3279__subsec_v__para_6">
+                <num>(6)</num>
+                <content>
+                  <p>for a period not to exceed six months.</p>
+                </content>
+              </paragraph>
+            </subsection>
+          </section>
+        </article>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
